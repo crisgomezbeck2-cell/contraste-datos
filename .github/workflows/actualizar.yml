@@ -1,0 +1,40 @@
+name: Actualizar datos de Contraste
+
+on:
+  schedule:
+    - cron: "15 10 * * *"   # todos los días, en la mañana de Chile
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependencias
+        run: |
+          pip install playwright==1.55.0 pillow
+          playwright install --with-deps chromium
+      - name: Descargar fuentes y generar datos
+        run: python automatizacion/actualizar.py --gnews 45 --resolver 200
+      - name: Buscar retratos con licencia libre
+        continue-on-error: true
+        timeout-minutes: 15
+        run: python automatizacion/fotos.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "contraste-actualizador"
+          git config user.email "actions@users.noreply.github.com"
+          git add automatizacion/almacen publicar/datos publicar/assets/fotos/auto
+          git diff --cached --quiet || git commit -m "Datos actualizados $(date -u +%F)"
+          git push

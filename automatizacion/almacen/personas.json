@@ -1,0 +1,4104 @@
+{
+"diputados": {
+"1009": {
+"corto": "Jorge Alessandri",
+"dist": 10,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"mesa": "Presidente",
+"n": "Jorge Alessandri Vergara",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1012": {
+"corto": "Boris Barrera",
+"dist": 9,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Comunista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Comunista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Boris Barrera Moreno",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1013": {
+"corto": "Alejandro Bernales",
+"dist": 26,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Liberal de Chile"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Liberal de Chile"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Liberal de Chile"
+]
+],
+"n": "Alejandro Bernales Maldonado",
+"partidoActual": "PL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1015": {
+"corto": "Jorge Brito",
+"dist": 7,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Revolución Democrática"
+],
+[
+"2022-03-11",
+"2024-07-02",
+"Revolución Democrática"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Jorge Brito Hasbún",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1017": {
+"corto": "Álvaro Carter",
+"dist": 12,
+"m": [
+[
+"2018-03-11",
+"2025-03-18",
+"Unión Demócrata Independiente"
+],
+[
+"2020-09-29",
+"2022-03-10",
+"Independientes"
+],
+[
+"2022-03-11",
+"2025-03-18",
+"Unión Demócrata Independiente"
+],
+[
+"2025-03-19",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Álvaro Carter Fernández",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1021": {
+"corto": "Andrés Celis",
+"dist": 7,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Andrés Celis Montt",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1025": {
+"corto": "Catalina Del Real",
+"dist": 11,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2023-08-22",
+"Renovación Nacional"
+],
+[
+"2023-08-23",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Catalina Del Real Mihovilovic",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1028": {
+"corto": "Eduardo Durán",
+"dist": 13,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Eduardo Durán Salinas",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1038": {
+"corto": "Marcos Ilabaca",
+"dist": 24,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Socialista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Marcos Ilabaca Cerda",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1039": {
+"corto": "Pamela Jiles",
+"dist": 12,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Humanista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Humanista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Pamela Jiles Moreno",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1044": {
+"corto": "Raúl Leiva",
+"dist": 14,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Socialista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Raúl Leiva Carvajal",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1054": {
+"corto": "Francesca Muñoz",
+"dist": 20,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2022-12-11",
+"Renovación Nacional"
+],
+[
+"2022-12-12",
+"2023-05-30",
+"Independientes"
+],
+[
+"2023-05-31",
+"2026-03-10",
+"Partido Social Cristiano"
+],
+[
+"2026-03-11",
+"2026-09-01",
+"Partido Social Cristiano"
+],
+[
+"2026-09-02",
+"2030-03-10",
+"Partido Cristiano de Chile"
+]
+],
+"n": "Francesca Muñoz González",
+"partidoActual": "PCCH",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1056": {
+"corto": "Emilia Nuyado",
+"dist": 25,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Socialista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Emilia Nuyado Ancapichun",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1059": {
+"corto": "Ximena Ossandón",
+"dist": 12,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"mesa": "Segunda Vicepresidenta",
+"n": "Ximena Ossandón Irarrázabal",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1060": {
+"corto": "Luis Pardo",
+"dist": 6,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Luis Pardo Sáinz",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1061": {
+"corto": "Andrea Parra",
+"dist": 22,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Por la Democracia"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Por la Democracia"
+]
+],
+"n": "Andrea Parra Sauterel",
+"partidoActual": "PPD",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1062": {
+"corto": "Joanna Pérez",
+"dist": 21,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Demócrata Cristiano"
+],
+[
+"2022-03-11",
+"2022-12-11",
+"Partido Demócrata Cristiano"
+],
+[
+"2022-12-12",
+"2023-09-04",
+"Independientes"
+],
+[
+"2023-09-05",
+"2026-03-10",
+"Partido Demócratas Chile"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócratas Chile"
+]
+],
+"n": "Joanna Pérez Olea",
+"partidoActual": "DEM",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1065": {
+"corto": "Guillermo Ramírez",
+"dist": 9,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Guillermo Ramírez Diez",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1073": {
+"corto": "Juan Santana",
+"dist": 4,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Socialista"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Juan Santana Castillo",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1074": {
+"corto": "Marisela Santibáñez",
+"dist": 14,
+"m": [
+[
+"2018-03-11",
+"2019-04-16",
+"Partido Progresista"
+],
+[
+"2019-04-17",
+"2019-09-26",
+"Independientes"
+],
+[
+"2019-09-27",
+"2022-03-10",
+"Partido Comunista"
+],
+[
+"2022-03-11",
+"2024-01-16",
+"Partido Comunista"
+],
+[
+"2024-01-17",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Marisela Santibáñez Novoa",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1075": {
+"corto": "Diego Schalper",
+"dist": 11,
+"m": [
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Diego Schalper Sepúlveda",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1077": {
+"corto": "Raúl Soto",
+"dist": 15,
+"m": [
+[
+"2018-03-11",
+"2019-08-25",
+"Partido Demócrata Cristiano"
+],
+[
+"2019-08-26",
+"2022-03-10",
+"Independientes"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Por la Democracia"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Por la Democracia"
+]
+],
+"n": "Raúl Soto Mardones",
+"partidoActual": "PPD",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1082": {
+"corto": "Cristóbal Urruticoechea",
+"dist": 21,
+"m": [
+[
+"2018-03-11",
+"2021-06-13",
+"Renovación Nacional"
+],
+[
+"2021-06-14",
+"2022-03-10",
+"Partido Republicano"
+],
+[
+"2022-03-11",
+"2024-10-14",
+"Partido Republicano"
+],
+[
+"2024-10-15",
+"2025-06-17",
+"Independientes"
+],
+[
+"2025-06-18",
+"2026-03-10",
+"Partido Nacional Libertario"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Cristóbal Urruticoechea Ríos",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1086": {
+"corto": "Gonzalo Winter",
+"dist": 10,
+"m": [
+[
+"2018-03-11",
+"2018-04-04",
+"Revolución Democrática"
+],
+[
+"2018-04-05",
+"2020-03-10",
+"Independientes"
+],
+[
+"2020-03-11",
+"2022-03-10",
+"Partido Convergencia Social"
+],
+[
+"2022-03-11",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Gonzalo Winter Etcheberry",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1087": {
+"corto": "Gael Yeomans",
+"dist": 13,
+"m": [
+[
+"2018-03-11",
+"2019-04-16",
+"Revolución Democrática"
+],
+[
+"2019-04-17",
+"2020-03-10",
+"Independientes"
+],
+[
+"2020-03-11",
+"2022-03-10",
+"Partido Convergencia Social"
+],
+[
+"2022-03-11",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Gael Yeomans Araya",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1099": {
+"corto": "Jaime Araya",
+"dist": 3,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Jaime Araya Guerrero",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1100": {
+"corto": "Cristián Araya",
+"dist": 11,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Cristián Araya Lerdo de Tejada",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1102": {
+"corto": "Roberto Arroyo",
+"dist": 20,
+"m": [
+[
+"2022-03-11",
+"2023-11-07",
+"Partido de la Gente"
+],
+[
+"2023-11-08",
+"2026-03-10",
+"Partido Social Cristiano"
+],
+[
+"2026-03-11",
+"2026-08-30",
+"Partido Social Cristiano"
+],
+[
+"2026-08-31",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Roberto Arroyo Muñoz",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1104": {
+"corto": "Chiara Barchiesi",
+"dist": 6,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Chiara Barchiesi Chávez",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1105": {
+"corto": "Héctor Barría",
+"dist": 25,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Demócrata Cristiano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Héctor Barría Angulo",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1107": {
+"corto": "María Francisca Bello",
+"dist": 6,
+"m": [
+[
+"2022-03-11",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "María Francisca Bello Campos",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1108": {
+"corto": "Juan Carlos Beltrán",
+"dist": 22,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Juan Carlos Beltrán Silva",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1110": {
+"corto": "Carlos Bianchi",
+"dist": 28,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Carlos Bianchi Chelech",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1114": {
+"corto": "Félix Bugueño",
+"dist": 16,
+"m": [
+[
+"2022-03-11",
+"2023-06-12",
+"Federación Regionalista Verde Social"
+],
+[
+"2022-06-13",
+"2024-07-02",
+"Independientes"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Félix Bugueño Sotelo",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1116": {
+"corto": "Felipe Camaño",
+"dist": 19,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"mesa": "Primer Vicepresidente",
+"n": "Felipe Camaño Cárdenas",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1117": {
+"corto": "Nathalie Castillo",
+"dist": 5,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Comunista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Nathalie Castillo Rojas",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1119": {
+"corto": "Sara Concha",
+"dist": 19,
+"m": [
+[
+"2022-03-11",
+"2023-03-21",
+"Partido Conservador Cristiano"
+],
+[
+"2023-03-22",
+"2026-03-10",
+"Partido Social Cristiano"
+],
+[
+"2026-03-11",
+"2026-09-01",
+"Partido Social Cristiano"
+],
+[
+"2026-09-02",
+"2030-03-10",
+"Partido Cristiano de Chile"
+]
+],
+"n": "Sara Concha Smith",
+"partidoActual": "PCCH",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1122": {
+"corto": "Luis Alberto Cuello",
+"dist": 7,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Comunista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Luis Alberto Cuello Peña y Lillo",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1127": {
+"corto": "Lorena Fries",
+"dist": 10,
+"m": [
+[
+"2022-03-11",
+"2023-03-27",
+"Independientes"
+],
+[
+"2023-03-28",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Lorena Fries Monleón",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1128": {
+"corto": "Ana María Gazmuri",
+"dist": 12,
+"m": [
+[
+"2022-03-11",
+"2023-03-06",
+"Independientes"
+],
+[
+"2023-03-07",
+"2026-03-10",
+"Partido Acción Humanista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Acción Humanista"
+]
+],
+"n": "Ana María Gazmuri Vieira",
+"partidoActual": "PAH",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1131": {
+"corto": "Mauro González",
+"dist": 26,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Mauro González Villarroel",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1132": {
+"corto": "Jorge Guzmán",
+"dist": 17,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Evolución Política"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Evolución Política"
+]
+],
+"n": "Jorge Guzmán Zepeda",
+"partidoActual": "EVOP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1133": {
+"corto": "Juan Irarrázaval",
+"dist": 14,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Juan Irarrázaval Rossel",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1140": {
+"corto": "Daniel Lilayu",
+"dist": 25,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Daniel Lilayu Vivanco",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1141": {
+"corto": "Luis Malla",
+"dist": 1,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Liberal de Chile"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Liberal de Chile"
+]
+],
+"n": "Luis Malla Valenzuela",
+"partidoActual": "PL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1142": {
+"corto": "Daniel Manouchehri",
+"dist": 5,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Daniel Manouchehri Lobos",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1143": {
+"corto": "Cristóbal Martínez",
+"dist": 19,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Cristóbal Martínez Ramírez",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1146": {
+"corto": "José Carlos Meza",
+"dist": 9,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "José Carlos Meza Pereira",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1148": {
+"corto": "Javiera Morales",
+"dist": 28,
+"m": [
+[
+"2022-03-11",
+"2022-04-11",
+"Independientes"
+],
+[
+"2022-04-12",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Javiera Morales Alvarado",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1150": {
+"corto": "Benjamín Moreno",
+"dist": 17,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Benjamín Moreno Bascur",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1152": {
+"corto": "Gloria Naveillan",
+"dist": 22,
+"m": [
+[
+"2022-03-11",
+"2022-09-06",
+"Partido Republicano"
+],
+[
+"2022-09-07",
+"2025-06-29",
+"Independientes"
+],
+[
+"2025-06-30",
+"2026-03-10",
+"Partido Nacional Libertario"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Gloria Naveillan Arriagada",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1153": {
+"corto": "Coca Ericka Ñanco",
+"dist": 23,
+"m": [
+[
+"2022-03-11",
+"2024-07-02",
+"Revolución Democrática"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Coca Ericka Ñanco Vásquez",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1157": {
+"corto": "Marlene Pérez",
+"dist": 20,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Marlene Pérez Cartes",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1159": {
+"corto": "Lorena Pizarro",
+"dist": 13,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Comunista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Lorena Pizarro Sierra",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1165": {
+"corto": "Agustín Romero",
+"dist": 8,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Agustín Romero Leiva",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1166": {
+"corto": "Natalia Romero",
+"dist": 15,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Natalia Romero Talguia",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1170": {
+"corto": "Luis Sánchez",
+"dist": 7,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Luis Sánchez Ossa",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1171": {
+"corto": "Emilia Schneider",
+"dist": 10,
+"m": [
+[
+"2022-03-11",
+"2023-01-17",
+"Partido Comunes"
+],
+[
+"2023-01-18",
+"2024-07-02",
+"Partido Convergencia Social"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Emilia Schneider Videla",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1172": {
+"corto": "Stephan Schubert",
+"dist": 23,
+"m": [
+[
+"2022-03-11",
+"2025-08-03",
+"Independientes"
+],
+[
+"2025-08-04",
+"2026-03-10",
+"Partido Republicano"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Stephan Schubert Rubio",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1173": {
+"corto": "Daniela Serrano",
+"dist": 12,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Comunista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Daniela Serrano Salazar",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1174": {
+"corto": "Marco Antonio Sulantay",
+"dist": 5,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Marco Antonio Sulantay Olivares",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1175": {
+"corto": "Cristián Tapia",
+"dist": 4,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Cristián Tapia Ramos",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1176": {
+"corto": "Hotuiti Teao",
+"dist": 7,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Hotuiti Teao Drago",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1177": {
+"corto": "Carolina Tello",
+"dist": 5,
+"m": [
+[
+"2022-03-11",
+"2024-05-13",
+"Partido Comunista"
+],
+[
+"2024-05-14",
+"2024-07-02",
+"Independientes"
+],
+[
+"2024-07-03",
+"2026-03-10",
+"Frente Amplio"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Carolina Tello Rojas",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1178": {
+"corto": "Héctor Ulloa",
+"dist": 26,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Héctor Ulloa Aguilera",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1180": {
+"corto": "Consuelo Veloso",
+"dist": 18,
+"m": [
+[
+"2022-03-11",
+"2024-05-30",
+"Revolución Democrática"
+],
+[
+"2024-05-31",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Consuelo Veloso Ávila",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1181": {
+"corto": "Nelson Venegas",
+"dist": 6,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Partido Socialista"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Nelson Venegas Salazar",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1182": {
+"corto": "Sebastián Videla",
+"dist": 3,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Sebastián Videla Castillo",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1183": {
+"corto": "Flor Weisse",
+"dist": 21,
+"m": [
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Flor Weisse Novoa",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1184": {
+"corto": "Roberto Celedón",
+"dist": 17,
+"m": [
+[
+"2025-01-08",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Roberto Celedón Fernández",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1186": {
+"corto": "Ignacio Achurra",
+"dist": 14,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Ignacio Achurra Díaz",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1187": {
+"corto": "Carlo Arqueros",
+"dist": 3,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Carlo Arqueros Pizarro",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1188": {
+"corto": "Marcos Barraza",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Marcos Barraza Gómez",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1189": {
+"corto": "Jaime Bassa",
+"dist": 7,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Jaime Bassa Mercado",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1190": {
+"corto": "Enrique Bassaletti",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Enrique Bassaletti Riess",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1191": {
+"corto": "Valentina Becerra",
+"dist": 13,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Valentina Becerra Peña",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1192": {
+"corto": "Lilian Betancurt",
+"dist": 21,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Lilian Betancurt Delgado",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1193": {
+"corto": "Patricio Briones",
+"dist": 20,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Patricio Briones Moller",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1194": {
+"corto": "Daniel Bustos",
+"dist": 18,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Daniel Bustos Leal",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1195": {
+"corto": "Carlos Carvajal",
+"dist": 2,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Carlos Carvajal Gallardo",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1196": {
+"corto": "Priscilla Castillo",
+"dist": 17,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Priscilla Castillo Gerli",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1197": {
+"corto": "Carlos Chandía",
+"dist": 19,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Carlos Chandía Alarcón",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1198": {
+"corto": "Paz Charpentier",
+"dist": 20,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Paz Charpentier Rajcevich",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1199": {
+"corto": "Jaime Coloma",
+"dist": 14,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Jaime Coloma Álamos",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1200": {
+"corto": "Cristian Contreras",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Cristian Contreras Radovic",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1201": {
+"corto": "Flor Contreras",
+"dist": 23,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Flor Contreras Vivallo",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1202": {
+"corto": "Eduardo Cretton",
+"dist": 22,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Eduardo Cretton Rebolledo",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1203": {
+"corto": "Sebastián Cristoffanini",
+"dist": 16,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Sebastián Cristoffanini Jaraquemada",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1204": {
+"corto": "Francisco Crisóstomo",
+"dist": 19,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Francisco Crisóstomo Llanos",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1205": {
+"corto": "Carlos Cuadrado",
+"dist": 9,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Por la Democracia"
+]
+],
+"n": "Carlos Cuadrado Prats",
+"partidoActual": "PPD",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1206": {
+"corto": "Carolina Cucumides",
+"dist": 16,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Carolina Cucumides Calderón",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1207": {
+"corto": "Valentina Cáceres",
+"dist": 15,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Valentina Cáceres Monsálvez",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1208": {
+"corto": "Jorge Díaz",
+"dist": 1,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Jorge Díaz Ibarra",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1209": {
+"corto": "Matías Fernández",
+"dist": 24,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Matías Fernández Hartwig",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1210": {
+"corto": "Gustavo Gatica",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Gustavo Gatica Villarroel",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1211": {
+"corto": "Sofía González",
+"dist": 6,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Sofía González Cortés",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1212": {
+"corto": "Erich Grohs",
+"dist": 5,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Erich Grohs Marín",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1213": {
+"corto": "Irací Hassler",
+"dist": 10,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Comunista"
+]
+],
+"n": "Irací Hassler Jacob",
+"partidoActual": "PC",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1214": {
+"corto": "Constanza Hube",
+"dist": 11,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Constanza Hube Portus",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1215": {
+"corto": "Álvaro Jofré",
+"dist": 2,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Álvaro Jofré Cáceres",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1216": {
+"corto": "Stephanie Jéldrez",
+"dist": 1,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Stephanie Jéldrez Ortiz",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1217": {
+"corto": "Pier Karlezi",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Pier Karlezi Hazleby",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1218": {
+"corto": "José Antonio Kast",
+"dist": 10,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "José Antonio Kast Adriasola",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1219": {
+"corto": "Tomás Kast",
+"dist": 23,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Evolución Política"
+]
+],
+"n": "Tomás Kast Sommerhoff",
+"partidoActual": "EVOP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1220": {
+"corto": "Leandro Kunstmann",
+"dist": 24,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Leandro Kunstmann Collado",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1221": {
+"corto": "Benjamín Lorca",
+"dist": 6,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Benjamín Lorca Inzunza",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1222": {
+"corto": "Andrea Macías",
+"dist": 27,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "Andrea Macías Palma",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1223": {
+"corto": "Hans Marowski",
+"dist": 10,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Hans Marowski Cuevas",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1224": {
+"corto": "Cristian Mella",
+"dist": 6,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Cristian Mella Andaur",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1225": {
+"corto": "Cristian Menchaca",
+"dist": 18,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Cristian Menchaca Pinochet",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1226": {
+"corto": "José Montalva",
+"dist": 23,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "José Montalva Feuerhake",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1227": {
+"corto": "Claudia Mora",
+"dist": 11,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Claudia Mora Vega",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1228": {
+"corto": "Paulina Muñoz",
+"dist": 25,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Paulina Muñoz Minte",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1229": {
+"corto": "Javier Muñoz",
+"dist": 17,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Javier Muñoz Riquelme",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1230": {
+"corto": "Alex Nahuelquin",
+"dist": 26,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Alex Nahuelquin Nahuelquin",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1231": {
+"corto": "Ximena Naranjo",
+"dist": 2,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Ximena Naranjo Pinto",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1232": {
+"corto": "Cristian Neira",
+"dist": 23,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Cristian Neira Martínez",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1233": {
+"corto": "Ricardo Neumann",
+"dist": 16,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Ricardo Neumann Bertín",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1234": {
+"corto": "Mario Olavarría",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Mario Olavarría Rodríguez",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1235": {
+"corto": "Javier Olivares",
+"dist": 6,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Javier Olivares Avendaño",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1236": {
+"corto": "Paula Olmos",
+"dist": 4,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Paula Olmos Contreras",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1237": {
+"corto": "Francisco Orrego",
+"dist": 10,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "Francisco Orrego Gutiérrez",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1238": {
+"corto": "Álvaro Ortiz",
+"dist": 20,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Álvaro Ortiz Vera",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1239": {
+"corto": "Fabián Ossandón",
+"dist": 3,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Fabián Ossandón Briceño",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1240": {
+"corto": "Zandra Parisi",
+"dist": 12,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Zandra Parisi Fernández",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1241": {
+"corto": "Patricio Pinilla",
+"dist": 21,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Demócrata Cristiano"
+]
+],
+"n": "Patricio Pinilla Valencia",
+"partidoActual": "DC",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1242": {
+"corto": "Rodrigo Ramírez",
+"dist": 18,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Rodrigo Ramírez Parra",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1243": {
+"corto": "Tamara Ramírez",
+"dist": 9,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Tamara Ramírez Ramírez",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1244": {
+"corto": "Claudia Reyes",
+"dist": 26,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Claudia Reyes Larenas",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1245": {
+"corto": "Alejandro Riquelme",
+"dist": 28,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Alejandro Riquelme Ducci",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1246": {
+"corto": "José Antonio Rivas",
+"dist": 20,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "José Antonio Rivas Villalobos",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1247": {
+"corto": "Javiera Rodríguez",
+"dist": 9,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Javiera Rodríguez Pascual",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1248": {
+"corto": "Felipe Ross",
+"dist": 13,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Felipe Ross Correa",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1249": {
+"corto": "Omar Sabat",
+"dist": 24,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Omar Sabat Guzmán",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1250": {
+"corto": "Bernardo Salinas",
+"dist": 5,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Bernardo Salinas Maya",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1251": {
+"corto": "Macarena Santelices",
+"dist": 12,
+"m": [
+[
+"2026-03-11",
+"2026-10-19",
+"Partido Republicano"
+],
+[
+"2026-10-20",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Macarena Santelices Cañas",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1252": {
+"corto": "Constanza Schonhaut",
+"dist": 11,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Constanza Schonhaut Soto",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1253": {
+"corto": "Fernando Ugarte",
+"dist": 15,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Fernando Ugarte Tejeda",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1254": {
+"corto": "Ignacio Urcullú",
+"dist": 4,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Ignacio Urcullú Clèment-Lund",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1255": {
+"corto": "Eileen Urqueta",
+"dist": 5,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Eileen Urqueta Rojas",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1256": {
+"corto": "Tatiana Urrutia",
+"dist": 8,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Frente Amplio"
+]
+],
+"n": "Tatiana Urrutia Herrera",
+"partidoActual": "FA",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1257": {
+"corto": "Alejandra Valdebenito",
+"dist": 27,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Alejandra Valdebenito Torres",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "F",
+"vigente": true
+},
+"1258": {
+"corto": "Guillermo Valdés",
+"dist": 17,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Guillermo Valdés Carmona",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1259": {
+"corto": "Juan Marcelo Valenzuela",
+"dist": 7,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido de la Gente"
+]
+],
+"n": "Juan Marcelo Valenzuela Henríquez",
+"partidoActual": "PDG",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1260": {
+"corto": "César Valenzuela",
+"dist": 9,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Socialista"
+]
+],
+"n": "César Valenzuela Maass",
+"partidoActual": "PS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1261": {
+"corto": "Daniel Valenzuela",
+"dist": 24,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Daniel Valenzuela Salazar",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1262": {
+"corto": "Diego Vergara",
+"dist": 14,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Republicano"
+]
+],
+"n": "Diego Vergara Rodríguez",
+"partidoActual": "PREP",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1263": {
+"corto": "Sebastián Zamora",
+"dist": 7,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "Sebastián Zamora Soto",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"1264": {
+"corto": "Fernando Zamorano",
+"dist": 15,
+"m": [
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Por la Democracia"
+]
+],
+"n": "Fernando Zamorano Peralta",
+"partidoActual": "PPD",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"803": {
+"corto": "René Alinco",
+"dist": 27,
+"m": [
+[
+"2006-03-11",
+"2010-03-10",
+"Partido Por la Democracia"
+],
+[
+"2010-03-11",
+"2014-03-10",
+"Independientes"
+],
+[
+"2018-03-11",
+"2022-03-10",
+"Independientes"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Independientes"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Independientes"
+]
+],
+"n": "René Alinco Bustos",
+"partidoActual": "IND",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"815": {
+"corto": "Sergio Bobadilla",
+"dist": 20,
+"m": [
+[
+"2006-03-11",
+"2010-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2010-03-11",
+"2014-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2018-03-11",
+"2022-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Unión Demócrata Independiente"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Unión Demócrata Independiente"
+]
+],
+"n": "Sergio Bobadilla Muñoz",
+"partidoActual": "UDI",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"843": {
+"corto": "René Manuel García",
+"dist": 23,
+"m": [
+[
+"1990-03-11",
+"1994-03-10",
+"Renovación Nacional"
+],
+[
+"1994-03-11",
+"1998-03-10",
+"Renovación Nacional"
+],
+[
+"1998-03-11",
+"2002-03-10",
+"Renovación Nacional"
+],
+[
+"2002-03-11",
+"2006-03-10",
+"Renovación Nacional"
+],
+[
+"2006-03-11",
+"2010-03-10",
+"Renovación Nacional"
+],
+[
+"2010-03-11",
+"2014-03-10",
+"Renovación Nacional"
+],
+[
+"2014-03-11",
+"2018-03-10",
+"Renovación Nacional"
+],
+[
+"2018-03-11",
+"2022-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Renovación Nacional"
+]
+],
+"n": "René Manuel García García",
+"partidoActual": "RN",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"872": {
+"corto": "Jaime Mulet",
+"dist": 4,
+"m": [
+[
+"1998-03-11",
+"2002-03-10",
+"Partido Demócrata Cristiano"
+],
+[
+"2002-03-11",
+"2006-03-10",
+"Partido Demócrata Cristiano"
+],
+[
+"2006-03-11",
+"2010-03-10",
+"Partido Regionalista Independiente"
+],
+[
+"2018-03-11",
+"2022-03-10",
+"Federación Regionalista Verde Social"
+],
+[
+"2022-03-11",
+"2026-03-10",
+"Federación Regionalista Verde Social"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Federación Regionalista Verde Social"
+]
+],
+"n": "Jaime Mulet Martínez",
+"partidoActual": "FRVS",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"915": {
+"corto": "Germán Verdugo",
+"dist": 17,
+"m": [
+[
+"2006-03-11",
+"2010-03-10",
+"Renovación Nacional"
+],
+[
+"2010-03-11",
+"2014-03-10",
+"Renovación Nacional"
+],
+[
+"2014-03-11",
+"2018-03-10",
+"Renovación Nacional"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Nacional Libertario"
+]
+],
+"n": "Germán Verdugo Soto",
+"partidoActual": "PNL",
+"reg": "",
+"sexo": "M",
+"vigente": true
+},
+"986": {
+"corto": "Marcela Hernando",
+"dist": 3,
+"m": [
+[
+"2014-03-11",
+"2018-03-10",
+"Partido Radical de Chile"
+],
+[
+"2018-03-11",
+"2022-03-10",
+"Partido Radical de Chile"
+],
+[
+"2026-03-11",
+"2030-03-10",
+"Partido Radical de Chile"
+]
+],
+"n": "Marcela Hernando Pérez",
+"partidoActual": "PR",
+"reg": "",
+"sexo": "F",
+"vigente": true
+}
+},
+"senadores": {
+"1008": {
+"n": "Jaime Quintana Leal",
+"slug": "jaime-quintana-leal-sen",
+"vigente": false
+},
+"1009": {
+"n": "Ximena Rincón González",
+"slug": "ximena-rincon-gonzalez-sen",
+"vigente": false
+},
+"1110": {
+"circ": 3,
+"corto": "Pedro Araya",
+"fono": "(56-32) 2504703",
+"mail": "paraya@senado.cl",
+"n": "Pedro Araya Guerrero",
+"p": "Partido por la Democracia",
+"pOrig": "P.P.D.",
+"reg": "Región de Antofagasta",
+"regId": 2,
+"sexo": "M",
+"slug": "pedro-araya-guerrero-sen",
+"vigente": true
+},
+"1115": {
+"circ": 12,
+"corto": "Alfonso De Urresti",
+"fono": "(56-32) 2504705",
+"mail": "adeurresti@senado.cl",
+"n": "Alfonso De Urresti Longton",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región de Los Ríos",
+"regId": 14,
+"sexo": "M",
+"slug": "alfonso-de-urresti-longton-sen",
+"vigente": true
+},
+"1117": {
+"circ": 13,
+"corto": "Iván Moreira",
+"fono": "(56-32) 2504715",
+"mail": "imoreira@senado.cl",
+"n": "Iván Moreira Barros",
+"p": "Unión Demócrata Independiente",
+"pOrig": "U.D.I.",
+"reg": "Región de Los Lagos",
+"regId": 10,
+"sexo": "M",
+"slug": "ivan-moreira-barros-sen",
+"vigente": true
+},
+"1120": {
+"circ": 7,
+"corto": "Manuel José Ossandón",
+"fono": "(56-32) 2504719",
+"mail": "mjossandon@senado.cl",
+"n": "Manuel José Ossandón Irarrázabal",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región Metropolitana de Santiago",
+"regId": 13,
+"sexo": "M",
+"slug": "manuel-jose-ossandon-irarrazabal-sen",
+"vigente": true
+},
+"1210": {
+"n": "José Miguel  Durana Semir",
+"slug": "jose-miguel-durana-semir-sen",
+"vigente": false
+},
+"1211": {
+"n": "José Miguel Insulza Salinas",
+"slug": "jose-miguel-insulza-salinas-sen",
+"vigente": false
+},
+"1212": {
+"n": "Luz Eliana Ebensperger Orrego",
+"slug": "luz-eliana-ebensperger-orrego-sen",
+"vigente": false
+},
+"1214": {
+"n": "Rafael   Prohens Espinosa",
+"slug": "rafael-prohens-espinosa-sen",
+"vigente": false
+},
+"1215": {
+"circ": 4,
+"corto": "Yasna Provoste",
+"fono": "(56-32) 2504778",
+"mail": "yasnaprovoste@senado.cl",
+"n": "Yasna Provoste Campillay",
+"p": "Democracia Cristiana",
+"pOrig": "P.D.C.",
+"reg": "Región de Atacama",
+"regId": 3,
+"sexo": "F",
+"slug": "yasna-provoste-campillay-sen",
+"vigente": true
+},
+"1216": {
+"n": "Juan Ignacio Latorre Riveros",
+"slug": "juan-ignacio-latorre-riveros-sen",
+"vigente": false
+},
+"1217": {
+"n": "Kenneth Pugh Olavarría",
+"slug": "kenneth-pugh-olavarria-sen",
+"vigente": false
+},
+"1218": {
+"n": "Juan Castro Prieto",
+"slug": "juan-castro-prieto-sen",
+"vigente": false
+},
+"1220": {
+"n": "Rodrigo Galilea Vial",
+"slug": "rodrigo-galilea-vial-sen",
+"vigente": false
+},
+"1221": {
+"n": "Carmen Gloria Aravena Acuña",
+"slug": "carmen-gloria-aravena-acuna-sen",
+"vigente": false
+},
+"1222": {
+"circ": 11,
+"corto": "Francisco Huenchumilla",
+"fono": "(56-32) 2504763",
+"mail": "fhuenchumilla@senado.cl",
+"n": "Francisco Huenchumilla Jaramillo",
+"p": "Democracia Cristiana",
+"pOrig": "P.D.C.",
+"reg": "Región de La Araucanía",
+"regId": 9,
+"sexo": "M",
+"slug": "francisco-huenchumilla-jaramillo-sen",
+"vigente": true
+},
+"1223": {
+"n": "Felipe  Kast Sommerhoff",
+"slug": "felipe-kast-sommerhoff-sen",
+"vigente": false
+},
+"1224": {
+"circ": 14,
+"corto": "Ximena Ordenes",
+"fono": "(56-32) 2504771",
+"mail": "xordenes@senado.cl",
+"n": "Ximena Ordenes Neira",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de Aysén del General Carlos Ibáñez del Campo ",
+"regId": 11,
+"sexo": "F",
+"slug": "ximena-ordenes-neira-sen",
+"vigente": true
+},
+"1225": {
+"n": "David Sandoval Plaza",
+"slug": "david-sandoval-plaza-sen",
+"vigente": false
+},
+"1320": {
+"circ": 16,
+"corto": "Loreto Carvajal",
+"fono": null,
+"mail": "lcarvajal@senado.cl",
+"n": "Loreto Carvajal Ambiado",
+"p": "Partido por la Democracia",
+"pOrig": "P.P.D.",
+"reg": "Región de Ñuble",
+"regId": 16,
+"sexo": "F",
+"slug": "loreto-carvajal-ambiado-sen",
+"vigente": true
+},
+"1324": {
+"circ": 15,
+"corto": "Karim Bianchi",
+"fono": "(56-32) 2504342",
+"mail": "kbianchi@senado.cl",
+"n": "Karim Bianchi Retamales",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de Magallanes y la Antártica Chilena",
+"regId": 12,
+"sexo": "M",
+"slug": "karim-bianchi-retamales-sen",
+"vigente": true
+},
+"1325": {
+"circ": 7,
+"corto": "Fabiola Campillai",
+"fono": "(56-32) 2504414",
+"mail": "fcampillai@senado.cl",
+"n": "Fabiola Campillai Rojas",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región Metropolitana de Santiago",
+"regId": 13,
+"sexo": "F",
+"slug": "fabiola-campillai-rojas-sen",
+"vigente": true
+},
+"1326": {
+"circ": 8,
+"corto": "Juan Luis Castro",
+"fono": "(56-32) 2504422",
+"mail": "juanluiscastro@senado.cl",
+"n": "Juan Luis Castro González",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región del Libertador General Bernardo O'Higgins",
+"regId": 6,
+"sexo": "M",
+"slug": "juan-luis-castro-gonzalez-sen",
+"vigente": true
+},
+"1327": {
+"circ": 7,
+"corto": "Luciano Cruz-Coke",
+"fono": "(56-32) 2504426",
+"mail": "lcruzcoke@senado.cl",
+"n": "Luciano Cruz-Coke Carvallo",
+"p": "Evópoli",
+"pOrig": "Evópoli",
+"reg": "Región Metropolitana de Santiago",
+"regId": 13,
+"sexo": "M",
+"slug": "luciano-cruz-coke-carvallo-sen",
+"vigente": true
+},
+"1328": {
+"circ": 7,
+"corto": "Rojo Edwards",
+"fono": "(56-32) 2504442",
+"mail": "redwards@senado.cl",
+"n": "Rojo Edwards   ",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región Metropolitana de Santiago",
+"regId": 13,
+"sexo": "M",
+"slug": "rojo-edwards-silva-sen",
+"vigente": true
+},
+"1329": {
+"circ": 13,
+"corto": "Fidel Espinoza",
+"fono": "(56-32) 2504490",
+"mail": "fespinoza@senado.cl",
+"n": "Fidel Espinoza Sandoval",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región de Los Lagos",
+"regId": 10,
+"sexo": "M",
+"slug": "fidel-espinoza-sandoval-sen",
+"vigente": true
+},
+"1330": {
+"circ": 12,
+"corto": "Iván Flores",
+"fono": "(56-32) 2504502",
+"mail": "iflores@senado.cl",
+"n": "Iván Flores García",
+"p": "Democracia Cristiana",
+"pOrig": "P.D.C.",
+"reg": "Región de Los Ríos",
+"regId": 14,
+"sexo": "M",
+"slug": "ivan-flores-garcia-sen",
+"vigente": true
+},
+"1331": {
+"circ": 5,
+"corto": "Sergio Gahona",
+"fono": "(56-32) 2504510",
+"mail": "sgahona@senado.cl",
+"n": "Sergio Gahona Salazar",
+"p": "Unión Demócrata Independiente",
+"pOrig": "U.D.I.",
+"reg": "Región de Coquimbo",
+"regId": 4,
+"sexo": "M",
+"slug": "sergio-gahona-salazar-sen",
+"vigente": true
+},
+"1332": {
+"circ": 12,
+"corto": "María José Gatica",
+"fono": "(56-32) 2504520",
+"mail": "mjgatica@senado.cl",
+"n": "María José Gatica Bertin",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de Los Ríos",
+"regId": 14,
+"sexo": "F",
+"slug": "maria-jose-gatica-bertin-sen",
+"vigente": true
+},
+"1333": {
+"circ": 10,
+"corto": "Sebastián Keitel",
+"fono": "(56-32) 2504560",
+"mail": "skeitel@senado.cl",
+"n": "Sebastián Keitel Bianchi",
+"p": "Evópoli",
+"pOrig": "Evópoli",
+"reg": "Región del Biobío",
+"regId": 8,
+"sexo": "M",
+"slug": "sebastian-keitel-bianchi-sen",
+"vigente": true
+},
+"1334": {
+"circ": 15,
+"corto": "Alejandro Kusanovic",
+"fono": "(56-32) 2504562",
+"mail": "akusanovic@senado.cl",
+"n": "Alejandro Kusanovic Glusevic",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de Magallanes y la Antártica Chilena",
+"regId": 12,
+"sexo": "M",
+"slug": "alejandro-kusanovic-glusevic-sen",
+"vigente": true
+},
+"1335": {
+"circ": 8,
+"corto": "Javier Macaya",
+"fono": "(56-32) 2504602",
+"mail": "jmacaya@senado.cl",
+"n": "Javier Macaya Danús",
+"p": "Unión Demócrata Independiente",
+"pOrig": "U.D.I.",
+"reg": "Región del Libertador General Bernardo O'Higgins",
+"regId": 6,
+"sexo": "M",
+"slug": "javier-macaya-danus-sen",
+"vigente": true
+},
+"1336": {
+"circ": 5,
+"corto": "Daniel Núñez",
+"fono": "(56-32) 2504640",
+"mail": "danielnunez@senado.cl",
+"n": "Daniel Núñez Arancibia",
+"p": "Partido Comunista",
+"pOrig": "P.C",
+"reg": "Región de Coquimbo",
+"regId": 4,
+"sexo": "M",
+"slug": "daniel-nunez-arancibia-sen",
+"vigente": true
+},
+"1337": {
+"circ": 3,
+"corto": "Paulina Núñez",
+"fono": "(56-32) 2504670",
+"mail": "paulinanunez@senado.cl",
+"n": "Paulina Núñez Urrutia",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de Antofagasta",
+"regId": 2,
+"sexo": "F",
+"slug": "paulina-nunez-urrutia-sen",
+"vigente": true
+},
+"1338": {
+"circ": 7,
+"corto": "Claudia Pascual",
+"fono": "(56-32) 2504682",
+"mail": "cpascual@senado.cl",
+"n": "Claudia Pascual Grau",
+"p": "Partido Comunista",
+"pOrig": "P.C",
+"reg": "Región Metropolitana de Santiago",
+"regId": 13,
+"sexo": "F",
+"slug": "claudia-pascual-grau-sen",
+"vigente": true
+},
+"1339": {
+"circ": 10,
+"corto": "Gastón Saavedra",
+"fono": "(56-32) 2504692",
+"mail": "gsaavedra@senado.cl",
+"n": "Gastón Saavedra Chandía",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región del Biobío",
+"regId": 8,
+"sexo": "M",
+"slug": "gaston-saavedra-chandia-sen",
+"vigente": true
+},
+"1340": {
+"circ": 16,
+"corto": "Gustavo Sanhueza",
+"fono": "(56-32) 2504792",
+"mail": "gsanhueza@senado.cl",
+"n": "Gustavo Sanhueza Dueñas",
+"p": "Unión Demócrata Independiente",
+"pOrig": "U.D.I.",
+"reg": "Región de Ñuble",
+"regId": 16,
+"sexo": "M",
+"slug": "gustavo-sanhueza-duenas-sen",
+"vigente": true
+},
+"1341": {
+"circ": 8,
+"corto": "Alejandra Sepúlveda",
+"fono": "(56-32) 2504812",
+"mail": "asepulveda@senado.cl",
+"n": "Alejandra Sepúlveda Orbenes",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región del Libertador General Bernardo O'Higgins",
+"regId": 6,
+"sexo": "F",
+"slug": "alejandra-sepulveda-orbenes-sen",
+"vigente": true
+},
+"1342": {
+"circ": 10,
+"corto": "Enrique Van Rysselberghe",
+"fono": "Secretaria  +56944144537",
+"mail": "evr@senado.cl",
+"n": "Enrique Van Rysselberghe Herrera",
+"p": "Unión Demócrata Independiente",
+"pOrig": "U.D.I.",
+"reg": "Región del Biobío",
+"regId": 8,
+"sexo": "M",
+"slug": "enrique-van-rysselberghe-herrera-sen",
+"vigente": true
+},
+"1343": {
+"circ": 3,
+"corto": "Esteban Velásquez",
+"fono": "(56-32) 2504832",
+"mail": "evelasquez@senado.cl",
+"n": "Esteban Velásquez Núñez",
+"p": "Federación Regionalista Verde Social",
+"pOrig": "F.R.E.V.S.",
+"reg": "Región de Antofagasta",
+"regId": 2,
+"sexo": "M",
+"slug": "esteban-velasquez-nunez-sen",
+"vigente": true
+},
+"1344": {
+"circ": 5,
+"corto": "Matías Walker",
+"fono": "(56-32) 2504842",
+"mail": "mwalker@senado.cl",
+"n": "Matías Walker Prieto",
+"p": "Demócratas",
+"pOrig": "Demócratas",
+"reg": "Región de Coquimbo",
+"regId": 4,
+"sexo": "M",
+"slug": "matias-walker-prieto-sen",
+"vigente": true
+},
+"1450": {
+"circ": 9,
+"corto": "Paulina Vodanovic",
+"fono": null,
+"mail": "pvodanovic@senado.cl",
+"n": "Paulina Vodanovic Rojas",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región del Maule",
+"regId": 7,
+"sexo": "F",
+"slug": "paulina-vodanovic-rojas-sen",
+"vigente": true
+},
+"1461": {
+"n": "Tomás De Rementería Venegas",
+"slug": "tomas-de-rementeria-venegas-sen",
+"vigente": false
+},
+"1500": {
+"circ": 2,
+"corto": "Danisa Astudillo",
+"fono": "(56-32) 2504182",
+"mail": "dastudillo@senado.cl",
+"n": "Danisa Astudillo Peiretti",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región de Tarapacá",
+"regId": 1,
+"sexo": "F",
+"slug": "danisa-astudillo-pieretti-sen",
+"vigente": true
+},
+"1501": {
+"circ": 9,
+"corto": "Andrea Balladares",
+"fono": "(56-32) 2504312",
+"mail": "aballadares@senado.cl",
+"n": "Andrea Balladares Letelier",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región del Maule",
+"regId": 7,
+"sexo": "F",
+"slug": "andrea-balladares-letelier-sen",
+"vigente": true
+},
+"1502": {
+"circ": 11,
+"corto": "Miguel Ángel Becker",
+"fono": "(56-32) 2504462",
+"mail": "mbecker@senado.cl",
+"n": "Miguel Ángel Becker Alvear",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de La Araucanía",
+"regId": 9,
+"sexo": "M",
+"slug": "miguel-angel-becker-alvear-sen",
+"vigente": true
+},
+"1503": {
+"circ": 14,
+"corto": "Miguel Ángel Calisto",
+"fono": "(56-32) 2504582",
+"mail": "mangelcalisto@senado.cl",
+"n": "Miguel Ángel Calisto Águila",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de Aysén del General Carlos Ibáñez del Campo ",
+"regId": 11,
+"sexo": "M",
+"slug": "miguel-angel-calisto-aguila-sen",
+"vigente": true
+},
+"1504": {
+"circ": 6,
+"corto": "Karol Cariola",
+"fono": "(56-32) 2504492",
+"mail": "karol.cariola@senado.cl",
+"n": "Karol Cariola Oliva",
+"p": "Partido Comunista",
+"pOrig": "P.C",
+"reg": "Región de Valparaíso",
+"regId": 5,
+"sexo": "F",
+"slug": "karol-cariola-oliva-sen",
+"vigente": true
+},
+"1505": {
+"circ": 11,
+"corto": "Rodolfo Carter",
+"fono": "(56-32) 2504552",
+"mail": "rcarter@senado.cl",
+"n": "Rodolfo Carter Fernández",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de La Araucanía",
+"regId": 9,
+"sexo": "M",
+"slug": "rodolfo-carter-fernandez-sen",
+"vigente": true
+},
+"1506": {
+"circ": 11,
+"corto": "Ricardo Celis",
+"fono": "(56-32) 2504591",
+"mail": "rcelis@senado.cl",
+"n": "Ricardo Celis Araya",
+"p": "Partido por la Democracia",
+"pOrig": "P.P.D.",
+"reg": "Región de La Araucanía",
+"regId": 9,
+"sexo": "M",
+"slug": "ricardo-celis-araya-sen",
+"vigente": true
+},
+"1507": {
+"circ": 4,
+"corto": "Daniella  Cicardini",
+"fono": "(56-32) 2504622",
+"mail": "dcicardini@senado.cl",
+"n": "Daniella  Cicardini Milla",
+"p": "Partido Socialista",
+"pOrig": "P.S.",
+"reg": "Región de Atacama",
+"regId": 3,
+"sexo": "F",
+"slug": "daniella-cicardini-milla-sen",
+"vigente": true
+},
+"1508": {
+"circ": 6,
+"corto": "Camila Flores",
+"fono": "(56-32) 2504632",
+"mail": "cfloreso@senado.cl",
+"n": "Camila Flores Oporto",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de Valparaíso",
+"regId": 5,
+"sexo": "F",
+"slug": "camila-flores-oporto-sen",
+"vigente": true
+},
+"1509": {
+"circ": 6,
+"corto": "Diego Ibáñez",
+"fono": "(56-32) 2504702",
+"mail": "dibanez@senado.cl",
+"n": "Diego Ibáñez Cotroneo",
+"p": "Frente Amplio",
+"pOrig": "Frente Amplio",
+"reg": "Región de Valparaíso",
+"regId": 5,
+"sexo": "M",
+"slug": "diego-ibanez-cotroneo-sen",
+"vigente": true
+},
+"1510": {
+"circ": 11,
+"corto": "Vanessa Kaiser",
+"fono": "(56-32) 2504712",
+"mail": "vkaiser@senado.cl",
+"n": "Vanessa Kaiser Barents-Von Hohenhagen",
+"p": "Partido Nacional Libertario",
+"pOrig": "Nacional Libertario",
+"reg": "Región de La Araucanía",
+"regId": 9,
+"sexo": "F",
+"slug": "vanessa-kaiser-barents-sen",
+"vigente": true
+},
+"1511": {
+"circ": 1,
+"corto": "Enrique Lee",
+"fono": "(56-32) 2504722",
+"mail": "elee@senado.cl",
+"n": "Enrique Lee Flores",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región de Arica y Parinacota",
+"regId": 15,
+"sexo": "M",
+"slug": "enrique-lee-flores-sen",
+"vigente": true
+},
+"1512": {
+"circ": 6,
+"corto": "Andrés Longton",
+"fono": "(56-32) 2504732",
+"mail": "alongton@senado.cl",
+"n": "Andrés Longton Herrera",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de Valparaíso",
+"regId": 5,
+"sexo": "M",
+"slug": "andres-longton-herrera-sen",
+"vigente": true
+},
+"1513": {
+"circ": 1,
+"corto": "Vlado Mirosevic",
+"fono": "(56-32) 2504822",
+"mail": "vmirosevic@senado.cl",
+"n": "Vlado Mirosevic Verdugo",
+"p": "Partido Liberal de Chile",
+"pOrig": "Liberal",
+"reg": "Región de Arica y Parinacota",
+"regId": 15,
+"sexo": "M",
+"slug": "vlado-mirosevic-verdugo-sen",
+"vigente": true
+},
+"1514": {
+"circ": 9,
+"corto": "Beatriz Sánchez",
+"fono": "(56-32) 2504852",
+"mail": "beatrizsanchez@senado.cl",
+"n": "Beatriz Sánchez Muñoz",
+"p": "Frente Amplio",
+"pOrig": "Frente Amplio",
+"reg": "Región del Maule",
+"regId": 7,
+"sexo": "F",
+"slug": "beatriz-sanchez-munoz-sen",
+"vigente": true
+},
+"1515": {
+"circ": 6,
+"corto": "Arturo Squella",
+"fono": "(56-32) 2504862",
+"mail": "asquella@senado.cl",
+"n": "Arturo Squella Ovalle",
+"p": "Partido Republicano",
+"pOrig": "Republicano",
+"reg": "Región de Valparaíso",
+"regId": 5,
+"sexo": "M",
+"slug": "arturo-squella-ovalle-sen",
+"vigente": true
+},
+"1516": {
+"circ": 2,
+"corto": "Renzo Trisotti",
+"fono": "(56-32) 2504872",
+"mail": "rtrisotti@senado.cl",
+"n": "Renzo Trisotti Martínez",
+"p": "Partido Republicano",
+"pOrig": "Republicano",
+"reg": "Región de Tarapacá",
+"regId": 1,
+"sexo": "M",
+"slug": "renzo-trisotti-martinez-sen",
+"vigente": true
+},
+"1517": {
+"circ": 9,
+"corto": "Ignacio Urrutia",
+"fono": "(56-32) 2504882",
+"mail": "iurrutia@senado.cl",
+"n": "Ignacio Urrutia Bonilla",
+"p": "Partido Republicano",
+"pOrig": "Republicano",
+"reg": "Región del Maule",
+"regId": 7,
+"sexo": "M",
+"slug": "ignacio-urrutia-bonilla-sen",
+"vigente": true
+},
+"1518": {
+"circ": 9,
+"corto": "Cristian Vial",
+"fono": "(56-32) 2504892",
+"mail": "cvial@senado.cl",
+"n": "Cristian Vial Maceratta",
+"p": "Independiente",
+"pOrig": "Independiente",
+"reg": "Región del Maule",
+"regId": 7,
+"sexo": "M",
+"slug": "cristian-vial-maceratta-sen",
+"vigente": true
+},
+"687": {
+"n": "Juan Antonio Coloma Correa",
+"slug": "juan-antonio-coloma-correa-sen",
+"vigente": false
+},
+"690": {
+"n": "José García Ruminot",
+"slug": "jose-garcia-ruminot-sen",
+"vigente": false
+},
+"911": {
+"circ": 13,
+"corto": "Carlos Ignacio Kuschel",
+"fono": "(56-32) 2504572",
+"mail": "ckuschel@senado.cl",
+"n": "Carlos Ignacio Kuschel Silva",
+"p": "Renovación Nacional",
+"pOrig": "R.N.",
+"reg": "Región de Los Lagos",
+"regId": 10,
+"sexo": "M",
+"slug": "carlos-ignacio-kuschel-silva-sen",
+"vigente": true
+},
+"985": {
+"n": "Isabel Allende Bussi",
+"slug": "isabel-allende-bussi-sen",
+"vigente": false
+},
+"986": {
+"n": "Francisco Chahuán Chahuán",
+"slug": "francisco-chahuan-chahuan-sen",
+"vigente": false
+},
+"987": {
+"n": "Ricardo Lagos Weber",
+"slug": "ricardo-lagos-weber-sen",
+"vigente": false
+}
+}
+}

@@ -1,0 +1,2074 @@
+{
+"comunas": {
+"1": {
+"d": 43,
+"n": "HUALPÉN",
+"r": "Biobio",
+"rn": 8
+},
+"10": {
+"d": 48,
+"n": "ANGOL",
+"r": "Araucania",
+"rn": 9
+},
+"100": {
+"d": 1,
+"n": "GENERAL LAGOS",
+"r": "Arica y Parinacota",
+"rn": 15
+},
+"101": {
+"d": 52,
+"n": "GORBEA",
+"r": "Araucania",
+"rn": 9
+},
+"102": {
+"d": 33,
+"n": "GRANEROS",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"103": {
+"d": 59,
+"n": "GUAITECAS",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"104": {
+"d": 10,
+"n": "HIJUELAS",
+"r": "Valparaiso",
+"rn": 5
+},
+"105": {
+"d": 58,
+"n": "HUALAIHUE",
+"r": "Los Lagos",
+"rn": 10
+},
+"106": {
+"d": 36,
+"n": "HUALAÑE",
+"r": "Maule",
+"rn": 7
+},
+"107": {
+"d": 45,
+"n": "HUALQUI",
+"r": "Biobio",
+"rn": 8
+},
+"108": {
+"d": 2,
+"n": "HUARA",
+"r": "Tarapaca",
+"rn": 1
+},
+"109": {
+"d": 6,
+"n": "HUASCO",
+"r": "Atacama",
+"rn": 3
+},
+"11": {
+"d": 60,
+"n": "ANTARTICA",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"110": {
+"d": 17,
+"n": "HUECHURABA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"111": {
+"d": 9,
+"n": "ILLAPEL",
+"r": "Coquimbo",
+"rn": 4
+},
+"112": {
+"d": 19,
+"n": "INDEPENDENCIA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"113": {
+"d": 2,
+"n": "IQUIQUE",
+"r": "Tarapaca",
+"rn": 1
+},
+"114": {
+"d": 31,
+"n": "ISLA DE MAIPO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"115": {
+"d": 13,
+"n": "ISLA DE PASCUA",
+"r": "Valparaiso",
+"rn": 5
+},
+"116": {
+"d": 13,
+"n": "JUAN FERNANDEZ",
+"r": "Valparaiso",
+"rn": 5
+},
+"117": {
+"d": 27,
+"n": "LA CISTERNA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"118": {
+"d": 10,
+"n": "LA CRUZ",
+"r": "Valparaiso",
+"rn": 5
+},
+"119": {
+"d": 35,
+"n": "LA ESTRELLA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"12": {
+"d": 4,
+"n": "ANTOFAGASTA",
+"r": "Antofagasta",
+"rn": 2
+},
+"120": {
+"d": 26,
+"n": "LA FLORIDA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"121": {
+"d": 25,
+"n": "LA GRANJA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"122": {
+"d": 7,
+"n": "LA HIGUERA",
+"r": "Coquimbo",
+"rn": 4
+},
+"123": {
+"d": 10,
+"n": "LA LIGUA",
+"r": "Valparaiso",
+"rn": 5
+},
+"124": {
+"d": 29,
+"n": "LA PINTANA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"125": {
+"d": 24,
+"n": "LA REINA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"126": {
+"d": 7,
+"n": "LA SERENA",
+"r": "Coquimbo",
+"rn": 4
+},
+"127": {
+"d": 54,
+"n": "LA UNION",
+"r": "Los Rios",
+"rn": 14
+},
+"128": {
+"d": 54,
+"n": "LAGO RANCO",
+"r": "Los Rios",
+"rn": 14
+},
+"129": {
+"d": 59,
+"n": "LAGO VERDE",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"13": {
+"d": 47,
+"n": "ANTUCO",
+"r": "Biobio",
+"rn": 8
+},
+"130": {
+"d": 60,
+"n": "LAGUNA BLANCA",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"131": {
+"d": 47,
+"n": "LAJA",
+"r": "Biobio",
+"rn": 8
+},
+"132": {
+"d": 16,
+"n": "LAMPA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"133": {
+"d": 53,
+"n": "LANCO",
+"r": "Los Rios",
+"rn": 14
+},
+"134": {
+"d": 34,
+"n": "LAS CABRAS",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"135": {
+"d": 23,
+"n": "LAS CONDES",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"136": {
+"d": 49,
+"n": "LAUTARO",
+"r": "Araucania",
+"rn": 9
+},
+"137": {
+"d": 46,
+"n": "LEBU",
+"r": "Biobio",
+"rn": 8
+},
+"138": {
+"d": 36,
+"n": "LICANTEN",
+"r": "Maule",
+"rn": 7
+},
+"139": {
+"d": 12,
+"n": "LIMACHE",
+"r": "Valparaiso",
+"rn": 5
+},
+"14": {
+"d": 46,
+"n": "ARAUCO",
+"r": "Biobio",
+"rn": 8
+},
+"140": {
+"d": 39,
+"n": "LINARES",
+"r": "Maule",
+"rn": 7
+},
+"141": {
+"d": 35,
+"n": "LITUECHE",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"142": {
+"d": 56,
+"n": "LLANQUIHUE",
+"r": "Los Lagos",
+"rn": 10
+},
+"143": {
+"d": 11,
+"n": "LLAY-LLAY",
+"r": "Valparaiso",
+"rn": 5
+},
+"144": {
+"d": 23,
+"n": "LO BARNECHEA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"145": {
+"d": 28,
+"n": "LO ESPEJO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"146": {
+"d": 18,
+"n": "LO PRADO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"147": {
+"d": 35,
+"n": "LOLOL",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"148": {
+"d": 52,
+"n": "LONCOCHE",
+"r": "Araucania",
+"rn": 9
+},
+"149": {
+"d": 40,
+"n": "LONGAVI",
+"r": "Maule",
+"rn": 7
+},
+"15": {
+"d": 1,
+"n": "ARICA",
+"r": "Arica y Parinacota",
+"rn": 15
+},
+"150": {
+"d": 49,
+"n": "LONQUIMAY",
+"r": "Araucania",
+"rn": 9
+},
+"151": {
+"d": 46,
+"n": "LOS ALAMOS",
+"r": "Biobio",
+"rn": 8
+},
+"152": {
+"d": 11,
+"n": "LOS ANDES",
+"r": "Valparaiso",
+"rn": 5
+},
+"153": {
+"d": 47,
+"n": "LOS ANGELES",
+"r": "Biobio",
+"rn": 8
+},
+"154": {
+"d": 54,
+"n": "LOS LAGOS",
+"r": "Los Rios",
+"rn": 14
+},
+"155": {
+"d": 56,
+"n": "LOS MUERMOS",
+"r": "Los Lagos",
+"rn": 10
+},
+"156": {
+"d": 48,
+"n": "LOS SAUCES",
+"r": "Araucania",
+"rn": 9
+},
+"157": {
+"d": 9,
+"n": "LOS VILOS",
+"r": "Coquimbo",
+"rn": 4
+},
+"158": {
+"d": 46,
+"n": "LOTA",
+"r": "Biobio",
+"rn": 8
+},
+"159": {
+"d": 48,
+"n": "LUMACO",
+"r": "Araucania",
+"rn": 9
+},
+"16": {
+"d": 59,
+"n": "AYSEN",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"160": {
+"d": 33,
+"n": "MACHALI",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"161": {
+"d": 25,
+"n": "MACUL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"162": {
+"d": 53,
+"n": "MAFIL",
+"r": "Los Rios",
+"rn": 14
+},
+"163": {
+"d": 20,
+"n": "MAIPU",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"164": {
+"d": 33,
+"n": "MALLOA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"165": {
+"d": 35,
+"n": "MARCHIGUE",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"166": {
+"d": 3,
+"n": "MARIA ELENA",
+"r": "Antofagasta",
+"rn": 2
+},
+"167": {
+"d": 31,
+"n": "MARIA PINTO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"168": {
+"d": 53,
+"n": "MARIQUINA",
+"r": "Los Rios",
+"rn": 14
+},
+"169": {
+"d": 38,
+"n": "MAULE",
+"r": "Maule",
+"rn": 7
+},
+"17": {
+"d": 30,
+"n": "BUIN",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"170": {
+"d": 57,
+"n": "MAULLIN",
+"r": "Los Lagos",
+"rn": 10
+},
+"171": {
+"d": 4,
+"n": "MEJILLONES",
+"r": "Antofagasta",
+"rn": 2
+},
+"172": {
+"d": 49,
+"n": "MELIPEUCO",
+"r": "Araucania",
+"rn": 9
+},
+"173": {
+"d": 31,
+"n": "MELIPILLA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"174": {
+"d": 36,
+"n": "MOLINA",
+"r": "Maule",
+"rn": 7
+},
+"175": {
+"d": 9,
+"n": "MONTE PATRIA",
+"r": "Coquimbo",
+"rn": 4
+},
+"176": {
+"d": 33,
+"n": "MOSTAZAL",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"177": {
+"d": 47,
+"n": "MULCHEN",
+"r": "Biobio",
+"rn": 8
+},
+"178": {
+"d": 47,
+"n": "NACIMIENTO",
+"r": "Biobio",
+"rn": 8
+},
+"179": {
+"d": 35,
+"n": "NANCAGUA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"18": {
+"d": 42,
+"n": "BULNES",
+"r": "Biobio",
+"rn": 8
+},
+"180": {
+"d": 60,
+"n": "NATALES",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"181": {
+"d": 60,
+"n": "CABO DE HORNOS",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"182": {
+"d": 35,
+"n": "NAVIDAD",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"183": {
+"d": 47,
+"n": "NEGRETE",
+"r": "Biobio",
+"rn": 8
+},
+"184": {
+"d": 42,
+"n": "NINHUE",
+"r": "Biobio",
+"rn": 8
+},
+"185": {
+"d": 10,
+"n": "NOGALES",
+"r": "Valparaiso",
+"rn": 5
+},
+"186": {
+"d": 51,
+"n": "NUEVA IMPERIAL",
+"r": "Araucania",
+"rn": 9
+},
+"187": {
+"d": 59,
+"n": "O\"HIGGINS",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"188": {
+"d": 33,
+"n": "OLIVAR",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"189": {
+"d": 3,
+"n": "OLLAGUE",
+"r": "Antofagasta",
+"rn": 2
+},
+"19": {
+"d": 10,
+"n": "CABILDO"
+},
+"190": {
+"d": 12,
+"n": "OLMUE",
+"r": "Valparaiso",
+"rn": 5
+},
+"191": {
+"d": 55,
+"n": "OSORNO",
+"r": "Los Lagos",
+"rn": 10
+},
+"192": {
+"d": 8,
+"n": "OVALLE",
+"r": "Coquimbo",
+"rn": 4
+},
+"193": {
+"d": 31,
+"n": "PADRE HURTADO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"194": {
+"d": 50,
+"n": "PADRE LAS CASAS",
+"r": "Araucania",
+"rn": 9
+},
+"195": {
+"d": 7,
+"n": "PAIHUANO",
+"r": "Coquimbo",
+"rn": 4
+},
+"196": {
+"d": 54,
+"n": "PAILLACO",
+"r": "Los Rios",
+"rn": 14
+},
+"197": {
+"d": 30,
+"n": "PAINE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"198": {
+"d": 58,
+"n": "PALENA",
+"r": "Los Lagos",
+"rn": 10
+},
+"199": {
+"d": 35,
+"n": "PALMILLA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"2": {
+"d": 47,
+"n": "ALTO BIOBíO",
+"r": "Biobio",
+"rn": 8
+},
+"20": {
+"d": 42,
+"n": "CABRERO",
+"r": "Biobio",
+"rn": 8
+},
+"200": {
+"d": 54,
+"n": "PANGUIPULLI",
+"r": "Los Rios",
+"rn": 14
+},
+"201": {
+"d": 11,
+"n": "PANQUEHUE",
+"r": "Valparaiso",
+"rn": 5
+},
+"202": {
+"d": 10,
+"n": "PAPUDO",
+"r": "Valparaiso",
+"rn": 5
+},
+"203": {
+"d": 35,
+"n": "PAREDONES",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"204": {
+"d": 40,
+"n": "PARRAL",
+"r": "Maule",
+"rn": 7
+},
+"205": {
+"d": 28,
+"n": "PEDRO AGUIRRE CERDA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"206": {
+"d": 38,
+"n": "PELARCO",
+"r": "Maule",
+"rn": 7
+},
+"207": {
+"d": 40,
+"n": "PELLUHUE",
+"r": "Maule",
+"rn": 7
+},
+"208": {
+"d": 41,
+"n": "PEMUCO",
+"r": "Biobio",
+"rn": 8
+},
+"209": {
+"d": 38,
+"n": "PENCAHUE",
+"r": "Maule",
+"rn": 7
+},
+"21": {
+"d": 3,
+"n": "CALAMA",
+"r": "Antofagasta",
+"rn": 2
+},
+"210": {
+"d": 45,
+"n": "PENCO",
+"r": "Biobio",
+"rn": 8
+},
+"211": {
+"d": 35,
+"n": "PERALILLO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"212": {
+"d": 49,
+"n": "PERQUENCO",
+"r": "Araucania",
+"rn": 9
+},
+"213": {
+"d": 10,
+"n": "PETORCA",
+"r": "Valparaiso",
+"rn": 5
+},
+"214": {
+"d": 34,
+"n": "PEUMO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"215": {
+"d": 31,
+"n": "PEÑAFLOR",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"216": {
+"d": 24,
+"n": "PEÑALOLEN"
+},
+"217": {
+"d": 2,
+"n": "PICA",
+"r": "Tarapaca",
+"rn": 1
+},
+"218": {
+"d": 34,
+"n": "PICHIDEGUA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"219": {
+"d": 35,
+"n": "PICHILEMU",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"22": {
+"d": 57,
+"n": "CALBUCO",
+"r": "Los Lagos",
+"rn": 10
+},
+"220": {
+"d": 41,
+"n": "PINTO",
+"r": "Biobio",
+"rn": 8
+},
+"221": {
+"d": 29,
+"n": "PIRQUE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"222": {
+"d": 51,
+"n": "PITRUFQUEN",
+"r": "Araucania",
+"rn": 9
+},
+"223": {
+"d": 35,
+"n": "PLACILLA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"224": {
+"d": 42,
+"n": "PORTEZUELO",
+"r": "Biobio",
+"rn": 8
+},
+"225": {
+"d": 60,
+"n": "PORVENIR",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"226": {
+"d": 2,
+"n": "POZO ALMONTE",
+"r": "Tarapaca",
+"rn": 1
+},
+"227": {
+"d": 60,
+"n": "PRIMAVERA",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"228": {
+"d": 21,
+"n": "PROVIDENCIA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"229": {
+"d": 10,
+"n": "PUCHUNCAVI",
+"r": "Valparaiso",
+"rn": 5
+},
+"23": {
+"d": 6,
+"n": "CALDERA",
+"r": "Atacama",
+"rn": 3
+},
+"230": {
+"d": 52,
+"n": "PUCON",
+"r": "Araucania",
+"rn": 9
+},
+"231": {
+"d": 16,
+"n": "PUDAHUEL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"232": {
+"d": 29,
+"n": "PUENTE ALTO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"233": {
+"d": 57,
+"n": "PUERTO MONTT",
+"r": "Los Lagos",
+"rn": 10
+},
+"234": {
+"d": 56,
+"n": "PUERTO OCTAY",
+"r": "Los Lagos",
+"rn": 10
+},
+"235": {
+"d": 56,
+"n": "PUERTO VARAS",
+"r": "Los Lagos",
+"rn": 10
+},
+"236": {
+"d": 35,
+"n": "PUMANQUE",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"237": {
+"d": 9,
+"n": "PUNITAQUI",
+"r": "Coquimbo",
+"rn": 4
+},
+"238": {
+"d": 60,
+"n": "PUNTA ARENAS",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"239": {
+"d": 58,
+"n": "PUQUELDON",
+"r": "Los Lagos",
+"rn": 10
+},
+"24": {
+"d": 10,
+"n": "CALERA",
+"r": "Valparaiso",
+"rn": 5
+},
+"240": {
+"d": 48,
+"n": "PUREN",
+"r": "Araucania",
+"rn": 9
+},
+"241": {
+"d": 56,
+"n": "PURRANQUE",
+"r": "Los Lagos",
+"rn": 10
+},
+"242": {
+"d": 11,
+"n": "PUTAENDO",
+"r": "Valparaiso",
+"rn": 5
+},
+"243": {
+"d": 1,
+"n": "PUTRE",
+"r": "Arica y Parinacota",
+"rn": 15
+},
+"244": {
+"d": 56,
+"n": "PUYEHUE",
+"r": "Los Lagos",
+"rn": 10
+},
+"245": {
+"d": 58,
+"n": "QUEILEN",
+"r": "Los Lagos",
+"rn": 10
+},
+"246": {
+"d": 58,
+"n": "QUELLON",
+"r": "Los Lagos",
+"rn": 10
+},
+"247": {
+"d": 58,
+"n": "QUEMCHI",
+"r": "Los Lagos",
+"rn": 10
+},
+"248": {
+"d": 47,
+"n": "QUILACO",
+"r": "Biobio",
+"rn": 8
+},
+"249": {
+"d": 16,
+"n": "QUILICURA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"25": {
+"d": 30,
+"n": "CALERA DE TANGO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"250": {
+"d": 47,
+"n": "QUILLECO",
+"r": "Biobio",
+"rn": 8
+},
+"251": {
+"d": 42,
+"n": "QUILLON",
+"r": "Biobio",
+"rn": 8
+},
+"252": {
+"d": 10,
+"n": "QUILLOTA",
+"r": "Valparaiso",
+"rn": 5
+},
+"253": {
+"d": 12,
+"n": "QUILPUE",
+"r": "Valparaiso",
+"rn": 5
+},
+"254": {
+"d": 58,
+"n": "QUINCHAO",
+"r": "Los Lagos",
+"rn": 10
+},
+"255": {
+"d": 33,
+"n": "QUINTA DE TILCOCO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"256": {
+"d": 18,
+"n": "QUINTA NORMAL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"257": {
+"d": 10,
+"n": "QUINTERO",
+"r": "Valparaiso",
+"rn": 5
+},
+"258": {
+"d": 42,
+"n": "QUIRIHUE",
+"r": "Biobio",
+"rn": 8
+},
+"259": {
+"d": 32,
+"n": "RANCAGUA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"26": {
+"d": 11,
+"n": "CALLE LARGA",
+"r": "Valparaiso",
+"rn": 5
+},
+"260": {
+"d": 42,
+"n": "RANQUIL",
+"r": "Biobio",
+"rn": 8
+},
+"261": {
+"d": 36,
+"n": "RAUCO",
+"r": "Maule",
+"rn": 7
+},
+"262": {
+"d": 19,
+"n": "RECOLETA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"263": {
+"d": 48,
+"n": "RENAICO",
+"r": "Araucania",
+"rn": 9
+},
+"264": {
+"d": 17,
+"n": "RENCA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"265": {
+"d": 33,
+"n": "RENGO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"266": {
+"d": 33,
+"n": "REQUINOA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"267": {
+"d": 40,
+"n": "RETIRO",
+"r": "Maule",
+"rn": 7
+},
+"268": {
+"d": 11,
+"n": "RINCONADA",
+"r": "Valparaiso",
+"rn": 5
+},
+"269": {
+"d": 54,
+"n": "RIO BUENO",
+"r": "Los Rios",
+"rn": 14
+},
+"27": {
+"d": 1,
+"n": "CAMARONES",
+"r": "Arica y Parinacota",
+"rn": 15
+},
+"270": {
+"d": 38,
+"n": "RIO CLARO",
+"r": "Maule",
+"rn": 7
+},
+"271": {
+"d": 8,
+"n": "RIO HURTADO",
+"r": "Coquimbo",
+"rn": 4
+},
+"272": {
+"d": 59,
+"n": "RIO IBAÑEZ",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"273": {
+"d": 56,
+"n": "RIO NEGRO",
+"r": "Los Lagos",
+"rn": 10
+},
+"274": {
+"d": 60,
+"n": "RIO VERDE",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"275": {
+"d": 36,
+"n": "ROMERAL",
+"r": "Maule",
+"rn": 7
+},
+"276": {
+"d": 51,
+"n": "SAAVEDRA",
+"r": "Araucania",
+"rn": 9
+},
+"277": {
+"d": 36,
+"n": "SAGRADA FAMILIA",
+"r": "Maule",
+"rn": 7
+},
+"278": {
+"d": 9,
+"n": "SALAMANCA",
+"r": "Coquimbo",
+"rn": 4
+},
+"279": {
+"d": 15,
+"n": "SAN ANTONIO",
+"r": "Valparaiso",
+"rn": 5
+},
+"28": {
+"d": 2,
+"n": "CAMIÑA",
+"r": "Tarapaca",
+"rn": 1
+},
+"280": {
+"d": 30,
+"n": "SAN BERNARDO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"281": {
+"d": 42,
+"n": "SAN CARLOS",
+"r": "Biobio",
+"rn": 8
+},
+"282": {
+"d": 38,
+"n": "SAN CLEMENTE",
+"r": "Maule",
+"rn": 7
+},
+"283": {
+"d": 11,
+"n": "SAN ESTEBAN",
+"r": "Valparaiso",
+"rn": 5
+},
+"284": {
+"d": 42,
+"n": "SAN FABIAN",
+"r": "Biobio",
+"rn": 8
+},
+"285": {
+"d": 11,
+"n": "SAN FELIPE",
+"r": "Valparaiso",
+"rn": 5
+},
+"286": {
+"d": 34,
+"n": "SAN FERNANDO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"287": {
+"d": 60,
+"n": "SAN GREGORIO",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"288": {
+"d": 41,
+"n": "SAN IGNACIO",
+"r": "Biobio",
+"rn": 8
+},
+"289": {
+"d": 39,
+"n": "SAN JAVIER",
+"r": "Maule",
+"rn": 7
+},
+"29": {
+"d": 9,
+"n": "CANELA",
+"r": "Coquimbo",
+"rn": 4
+},
+"290": {
+"d": 25,
+"n": "SAN JOAQUIN",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"291": {
+"d": 29,
+"n": "SAN JOSE DE MAIPO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"292": {
+"d": 55,
+"n": "SAN JUAN DE LA COSTA",
+"r": "Los Lagos",
+"rn": 10
+},
+"293": {
+"d": 28,
+"n": "SAN MIGUEL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"294": {
+"d": 42,
+"n": "SAN NICOLAS",
+"r": "Biobio",
+"rn": 8
+},
+"295": {
+"d": 55,
+"n": "SAN PABLO",
+"r": "Los Lagos",
+"rn": 10
+},
+"296": {
+"d": 31,
+"n": "SAN PEDRO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"297": {
+"d": 3,
+"n": "SAN PEDRO DE ATACAMA",
+"r": "Antofagasta",
+"rn": 2
+},
+"298": {
+"d": 44,
+"n": "SAN PEDRO DE LA PAZ",
+"r": "Biobio",
+"rn": 8
+},
+"299": {
+"d": 38,
+"n": "SAN RAFAEL",
+"r": "Maule",
+"rn": 7
+},
+"3": {
+"d": 51,
+"n": "CHOLCHOL",
+"r": "Araucania",
+"rn": 9
+},
+"30": {
+"d": 51,
+"n": "CARAHUE",
+"r": "Araucania",
+"rn": 9
+},
+"300": {
+"d": 27,
+"n": "SAN RAMON",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"301": {
+"d": 47,
+"n": "SAN ROSENDO",
+"r": "Biobio",
+"rn": 8
+},
+"302": {
+"d": 34,
+"n": "SAN VICENTE",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"303": {
+"d": 47,
+"n": "SANTA BARBARA",
+"r": "Biobio",
+"rn": 8
+},
+"304": {
+"d": 35,
+"n": "SANTA CRUZ",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"305": {
+"d": 45,
+"n": "SANTA JUANA",
+"r": "Biobio",
+"rn": 8
+},
+"306": {
+"d": 11,
+"n": "SANTA MARIA",
+"r": "Valparaiso",
+"rn": 5
+},
+"307": {
+"d": 22,
+"n": "SANTIAGO",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"308": {
+"d": 15,
+"n": "SANTO DOMINGO",
+"r": "Valparaiso",
+"rn": 5
+},
+"309": {
+"d": 4,
+"n": "SIERRA GORDA",
+"r": "Antofagasta",
+"rn": 2
+},
+"31": {
+"d": 15,
+"n": "CARTAGENA",
+"r": "Valparaiso",
+"rn": 5
+},
+"310": {
+"d": 31,
+"n": "TALAGANTE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"311": {
+"d": 37,
+"n": "TALCA",
+"r": "Maule",
+"rn": 7
+},
+"312": {
+"d": 43,
+"n": "TALCAHUANO",
+"r": "Biobio",
+"rn": 8
+},
+"313": {
+"d": 4,
+"n": "TALTAL",
+"r": "Antofagasta",
+"rn": 2
+},
+"314": {
+"d": 50,
+"n": "TEMUCO",
+"r": "Araucania",
+"rn": 9
+},
+"315": {
+"d": 36,
+"n": "TENO",
+"r": "Maule",
+"rn": 7
+},
+"316": {
+"d": 51,
+"n": "TEODORO SCHMIDT",
+"r": "Araucania",
+"rn": 9
+},
+"317": {
+"d": 6,
+"n": "TIERRA AMARILLA",
+"r": "Atacama",
+"rn": 3
+},
+"318": {
+"d": 16,
+"n": "TILTIL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"319": {
+"d": 60,
+"n": "TIMAUKEL",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"32": {
+"d": 15,
+"n": "CASABLANCA",
+"r": "Valparaiso",
+"rn": 5
+},
+"320": {
+"d": 46,
+"n": "TIRUA",
+"r": "Biobio",
+"rn": 8
+},
+"321": {
+"d": 3,
+"n": "TOCOPILLA",
+"r": "Antofagasta",
+"rn": 2
+},
+"322": {
+"d": 52,
+"n": "TOLTEN",
+"r": "Araucania",
+"rn": 9
+},
+"323": {
+"d": 45,
+"n": "TOME",
+"r": "Biobio",
+"rn": 8
+},
+"324": {
+"d": 60,
+"n": "TORRES DEL PAINE",
+"r": "Magallanes y Antartica Chilena",
+"rn": 12
+},
+"325": {
+"d": 59,
+"n": "TORTEL",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"326": {
+"d": 48,
+"n": "TRAIGUEN",
+"r": "Araucania",
+"rn": 9
+},
+"327": {
+"d": 42,
+"n": "TREGUACO",
+"r": "Biobio",
+"rn": 8
+},
+"328": {
+"d": 47,
+"n": "TUCAPEL",
+"r": "Biobio",
+"rn": 8
+},
+"329": {
+"d": 53,
+"n": "VALDIVIA",
+"r": "Los Rios",
+"rn": 14
+},
+"33": {
+"d": 58,
+"n": "CASTRO",
+"r": "Los Lagos",
+"rn": 10
+},
+"330": {
+"d": 6,
+"n": "VALLENAR",
+"r": "Atacama",
+"rn": 3
+},
+"331": {
+"d": 13,
+"n": "VALPARAISO",
+"r": "Valparaiso",
+"rn": 5
+},
+"332": {
+"d": 36,
+"n": "VICHUQUEN",
+"r": "Maule",
+"rn": 7
+},
+"333": {
+"d": 49,
+"n": "VICTORIA",
+"r": "Araucania",
+"rn": 9
+},
+"334": {
+"d": 7,
+"n": "VICUÑA",
+"r": "Coquimbo",
+"rn": 4
+},
+"335": {
+"d": 49,
+"n": "VILCUN",
+"r": "Araucania",
+"rn": 9
+},
+"336": {
+"d": 39,
+"n": "VILLA ALEGRE",
+"r": "Maule",
+"rn": 7
+},
+"337": {
+"d": 12,
+"n": "VILLA ALEMANA",
+"r": "Valparaiso",
+"rn": 5
+},
+"338": {
+"d": 52,
+"n": "VILLARRICA",
+"r": "Araucania",
+"rn": 9
+},
+"339": {
+"d": 23,
+"n": "VITACURA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"34": {
+"d": 11,
+"n": "CATEMU",
+"r": "Valparaiso",
+"rn": 5
+},
+"340": {
+"d": 14,
+"n": "VIÑA DEL MAR",
+"r": "Valparaiso",
+"rn": 5
+},
+"341": {
+"d": 39,
+"n": "YERBAS BUENAS",
+"r": "Maule",
+"rn": 7
+},
+"342": {
+"d": 42,
+"n": "YUMBEL",
+"r": "Biobio",
+"rn": 8
+},
+"343": {
+"d": 41,
+"n": "YUNGAY",
+"r": "Biobio",
+"rn": 8
+},
+"344": {
+"d": 10,
+"n": "ZAPALLAR",
+"r": "Valparaiso",
+"rn": 5
+},
+"345": {
+"d": 42,
+"n": "ÑIQUEN",
+"r": "Biobio",
+"rn": 8
+},
+"346": {
+"d": 21,
+"n": "ÑUÑOA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"35": {
+"d": 40,
+"n": "CAUQUENES",
+"r": "Maule",
+"rn": 7
+},
+"36": {
+"d": 46,
+"n": "CAÑETE",
+"r": "Biobio",
+"rn": 8
+},
+"37": {
+"d": 20,
+"n": "CERRILLOS",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"38": {
+"d": 18,
+"n": "CERRO NAVIA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"39": {
+"d": 58,
+"n": "CHAITEN",
+"r": "Los Lagos",
+"rn": 10
+},
+"4": {
+"d": 2,
+"n": "ALTO HOSPICIO",
+"r": "Tarapaca",
+"rn": 1
+},
+"40": {
+"d": 40,
+"n": "CHANCO",
+"r": "Maule",
+"rn": 7
+},
+"41": {
+"d": 5,
+"n": "CHAÑARAL",
+"r": "Atacama",
+"rn": 3
+},
+"42": {
+"d": 35,
+"n": "CHEPICA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"43": {
+"d": 44,
+"n": "CHIGUAYANTE",
+"r": "Biobio",
+"rn": 8
+},
+"44": {
+"d": 59,
+"n": "CHILE CHICO",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"45": {
+"d": 41,
+"n": "CHILLAN",
+"r": "Biobio",
+"rn": 8
+},
+"46": {
+"d": 41,
+"n": "CHILLAN VIEJO"
+},
+"47": {
+"d": 34,
+"n": "CHIMBARONGO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"48": {
+"d": 58,
+"n": "CHONCHI",
+"r": "Los Lagos",
+"rn": 10
+},
+"49": {
+"d": 59,
+"n": "CISNES",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"5": {
+"d": 15,
+"n": "ALGARROBO",
+"r": "Valparaiso",
+"rn": 5
+},
+"50": {
+"d": 42,
+"n": "COBQUECURA",
+"r": "Biobio",
+"rn": 8
+},
+"51": {
+"d": 57,
+"n": "COCHAMO",
+"r": "Los Lagos",
+"rn": 10
+},
+"52": {
+"d": 59,
+"n": "COCHRANE",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"53": {
+"d": 33,
+"n": "CODEGUA",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"54": {
+"d": 42,
+"n": "COELEMU",
+"r": "Biobio",
+"rn": 8
+},
+"55": {
+"d": 41,
+"n": "COIHUECO",
+"r": "Biobio",
+"rn": 8
+},
+"56": {
+"d": 33,
+"n": "COINCO",
+"r": "Biobio",
+"rn": 8
+},
+"57": {
+"d": 39,
+"n": "COLBUN",
+"r": "Maule",
+"rn": 7
+},
+"58": {
+"d": 2,
+"n": "COLCHANE",
+"r": "Tarapaca",
+"rn": 1
+},
+"59": {
+"d": 16,
+"n": "COLINA",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"6": {
+"d": 31,
+"n": "ALHUE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"60": {
+"d": 48,
+"n": "COLLIPULLI",
+"r": "Araucania",
+"rn": 9
+},
+"61": {
+"d": 33,
+"n": "COLTAUCO",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"62": {
+"d": 9,
+"n": "COMBARBALA",
+"r": "Coquimbo",
+"rn": 4
+},
+"63": {
+"d": 44,
+"n": "CONCEPCION",
+"r": "Biobio",
+"rn": 8
+},
+"64": {
+"d": 17,
+"n": "CONCHALI",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"65": {
+"d": 14,
+"n": "CONCON",
+"r": "Valparaiso",
+"rn": 5
+},
+"66": {
+"d": 38,
+"n": "CONSTITUCION",
+"r": "Maule",
+"rn": 7
+},
+"67": {
+"d": 46,
+"n": "CONTULMO",
+"r": "Biobio",
+"rn": 8
+},
+"68": {
+"d": 5,
+"n": "COPIAPO",
+"r": "Atacama",
+"rn": 3
+},
+"69": {
+"d": 8,
+"n": "COQUIMBO",
+"r": "Coquimbo",
+"rn": 4
+},
+"7": {
+"d": 6,
+"n": "ALTO DEL CARMEN",
+"r": "Atacama",
+"rn": 3
+},
+"70": {
+"d": 45,
+"n": "CORONEL",
+"r": "Biobio",
+"rn": 8
+},
+"71": {
+"d": 53,
+"n": "CORRAL",
+"r": "Los Rios",
+"rn": 14
+},
+"72": {
+"d": 59,
+"n": "COYHAIQUE",
+"r": "Aisen del General Carlos Ibañez del Campo",
+"rn": 11
+},
+"73": {
+"d": 52,
+"n": "CUNCO",
+"r": "Araucania",
+"rn": 9
+},
+"74": {
+"d": 49,
+"n": "CURACAUTIN",
+"r": "Araucania",
+"rn": 9
+},
+"75": {
+"d": 31,
+"n": "CURACAVI",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"76": {
+"d": 58,
+"n": "CURACO DE VELEZ",
+"r": "Los Lagos",
+"rn": 10
+},
+"77": {
+"d": 46,
+"n": "CURANILAHUE",
+"r": "Biobio",
+"rn": 8
+},
+"78": {
+"d": 52,
+"n": "CURARREHUE",
+"r": "Araucania",
+"rn": 9
+},
+"79": {
+"d": 38,
+"n": "CUREPTO",
+"r": "Maule",
+"rn": 7
+},
+"8": {
+"d": 58,
+"n": "ANCUD",
+"r": "Los Lagos",
+"rn": 10
+},
+"80": {
+"d": 36,
+"n": "CURICO",
+"r": "Maule",
+"rn": 7
+},
+"81": {
+"d": 58,
+"n": "DALCAHUE",
+"r": "Los Lagos",
+"rn": 10
+},
+"82": {
+"d": 5,
+"n": "DIEGO DE ALMAGRO",
+"r": "Atacama",
+"rn": 3
+},
+"83": {
+"d": 33,
+"n": "DOÑIHUE",
+"r": "Libertador General Bernardo O'higgins",
+"rn": 6
+},
+"84": {
+"d": 27,
+"n": "EL BOSQUE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"85": {
+"d": 41,
+"n": "EL CARMEN",
+"r": "Biobio",
+"rn": 8
+},
+"86": {
+"d": 31,
+"n": "EL MONTE",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"87": {
+"d": 15,
+"n": "EL QUISCO",
+"r": "Valparaiso",
+"rn": 5
+},
+"88": {
+"d": 15,
+"n": "EL TABO",
+"r": "Valparaiso",
+"rn": 5
+},
+"89": {
+"d": 38,
+"n": "EMPEDRADO",
+"r": "Maule",
+"rn": 7
+},
+"9": {
+"d": 7,
+"n": "ANDACOLLO",
+"r": "Coquimbo",
+"rn": 4
+},
+"90": {
+"d": 48,
+"n": "ERCILLA",
+"r": "Araucania",
+"rn": 9
+},
+"91": {
+"d": 20,
+"n": "ESTACION CENTRAL",
+"r": "Region Metropolitana",
+"rn": 13
+},
+"92": {
+"d": 45,
+"n": "FLORIDA",
+"r": "Biobio",
+"rn": 8
+},
+"93": {
+"d": 51,
+"n": "FREIRE",
+"r": "Araucania",
+"rn": 9
+},
+"94": {
+"d": 6,
+"n": "FREIRINA",
+"r": "Atacama",
+"rn": 3
+},
+"95": {
+"d": 56,
+"n": "FRESIA",
+"r": "Los Lagos",
+"rn": 10
+},
+"96": {
+"d": 56,
+"n": "FRUTILLAR",
+"r": "Los Lagos",
+"rn": 10
+},
+"97": {
+"d": 58,
+"n": "FUTALEUFU",
+"r": "Los Lagos",
+"rn": 10
+},
+"98": {
+"d": 54,
+"n": "FUTRONO",
+"r": "Los Rios",
+"rn": 14
+},
+"99": {
+"d": 49,
+"n": "GALVARINO",
+"r": "Araucania",
+"rn": 9
+}
+}
+}

@@ -1,0 +1,386 @@
+[
+ {
+  "id": "kast",
+  "nombre": "José Antonio Kast Rist",
+  "corto": "José Antonio Kast",
+  "tipo": "Presidencia",
+  "cargo": "Presidente de la República",
+  "institucion": "Presidencia de la República",
+  "region": "Nacional",
+  "periodo": "2026–2030",
+  "partido": "Partido Republicano",
+  "fuente": "T13, 19 may 2026",
+  "url": "https://www.t13.cl/noticia/politica/con-salida-sedini-steinert-asi-quedo-nuevo-gabinete-del-presidente-jose-antonio-19-5-2026",
+  "oficial": "https://www.gob.cl/"
+ },
+ {
+  "id": "alvarado",
+  "nombre": "Claudio Alvarado",
+  "tipo": "Ministros",
+  "cargo": "Ministro del Interior y de la Secretaría General de Gobierno",
+  "institucion": "Ministerio del Interior",
+  "region": "Nacional",
+  "periodo": "Desde 2026",
+  "partido": "Unión Demócrata Independiente"
+ },
+ {
+  "id": "garciaruminot",
+  "nombre": "José García Ruminot",
+  "tipo": "Ministros",
+  "cargo": "Ministro Secretario General de la Presidencia",
+  "institucion": "Segpres",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "barros",
+  "nombre": "Fernando Barros",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Defensa Nacional",
+  "institucion": "Ministerio de Defensa Nacional",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "wulf",
+  "nombre": "María Jesús Wulf",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Desarrollo Social y Familia",
+  "institucion": "Ministerio de Desarrollo Social y Familia",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "marin",
+  "nombre": "Judith Marín",
+  "tipo": "Ministros",
+  "cargo": "Ministra de la Mujer y la Equidad de Género",
+  "institucion": "Ministerio de la Mujer y la Equidad de Género",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "chomali",
+  "nombre": "May Chomali",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Salud",
+  "institucion": "Ministerio de Salud",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "riveros",
+  "nombre": "Francisco Riveros Cantuarias",
+  "corto": "Francisco Riveros",
+  "tipo": "Ministros",
+  "cargo": "Ministro del Deporte",
+  "institucion": "Ministerio del Deporte",
+  "region": "Nacional",
+  "periodo": "Desde el 14 de agosto de 2026",
+  "fuente": "BioBioChile, 14 ago 2026",
+  "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/14/presidente-kast-designa-a-francisco-riveros-como-nuevo-ministro-de-deportes.shtml"
+ },
+ {
+  "id": "perezmackenna",
+  "nombre": "José Francisco Pérez Mackenna",
+  "corto": "Pérez Mackenna",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Relaciones Exteriores",
+  "institucion": "Ministerio de Relaciones Exteriores",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "degrange",
+  "nombre": "Louis de Grange",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Transportes y de Obras Públicas",
+  "institucion": "Ministerio de Transportes y Telecomunicaciones",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "parot",
+  "nombre": "Catalina Parot",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Bienes Nacionales",
+  "institucion": "Ministerio de Bienes Nacionales",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "rau",
+  "nombre": "Tomás Rau",
+  "tipo": "Ministros",
+  "cargo": "Ministro del Trabajo y Previsión Social",
+  "institucion": "Ministerio del Trabajo y Previsión Social",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "rabat",
+  "nombre": "Fernando Rabat",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Justicia y Derechos Humanos",
+  "institucion": "Ministerio de Justicia y Derechos Humanos",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "ftoledo",
+  "nombre": "Francisca Toledo",
+  "tipo": "Ministros",
+  "cargo": "Ministra del Medio Ambiente",
+  "institucion": "Ministerio del Medio Ambiente",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "lincolao",
+  "nombre": "Ximena Lincolao",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Ciencia, Tecnología, Conocimiento e Innovación",
+  "institucion": "Ministerio de Ciencia",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "rincon",
+  "nombre": "Ximena Rincón",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Energía",
+  "institucion": "Ministerio de Energía",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "arzola",
+  "nombre": "María Paz Arzola",
+  "tipo": "Ministros",
+  "cargo": "Ministra de Educación",
+  "institucion": "Ministerio de Educación",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "campos",
+  "nombre": "Jaime Campos",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Agricultura",
+  "institucion": "Ministerio de Agricultura",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "undurraga",
+  "nombre": "Francisco Undurraga",
+  "tipo": "Ministros",
+  "cargo": "Ministro de las Culturas, las Artes y el Patrimonio",
+  "institucion": "Ministerio de las Culturas",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "mas",
+  "nombre": "Daniel Mas",
+  "tipo": "Ministros",
+  "cargo": "Ministro de Economía y de Minería",
+  "institucion": "Ministerio de Economía",
+  "region": "Nacional",
+  "periodo": "Desde 2026"
+ },
+ {
+  "id": "paco",
+  "nombre": "Diego Paco",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Arica y Parinacota",
+  "institucion": "Gobierno Regional de Arica y Parinacota",
+  "region": "Arica y Parinacota",
+  "periodo": "Desde enero de 2025",
+  "partido": "Renovación Nacional"
+ },
+ {
+  "id": "carvajal",
+  "nombre": "José Miguel Carvajal",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Tarapacá",
+  "institucion": "Gobierno Regional de Tarapacá",
+  "region": "Tarapacá",
+  "periodo": "Desde julio de 2021",
+  "partido": "Independiente"
+ },
+ {
+  "id": "rdiaz",
+  "nombre": "Ricardo Díaz",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Antofagasta",
+  "institucion": "Gobierno Regional de Antofagasta",
+  "region": "Antofagasta",
+  "periodo": "Desde julio de 2021",
+  "partido": "Independiente"
+ },
+ {
+  "id": "vargas",
+  "nombre": "Miguel Vargas",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Atacama",
+  "institucion": "Gobierno Regional de Atacama",
+  "region": "Atacama",
+  "periodo": "Desde julio de 2021",
+  "partido": "Independiente"
+ },
+ {
+  "id": "julia",
+  "nombre": "Cristóbal Juliá",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Coquimbo",
+  "institucion": "Gobierno Regional de Coquimbo",
+  "region": "Coquimbo",
+  "periodo": "Desde enero de 2025",
+  "partido": "Independiente"
+ },
+ {
+  "id": "psilva",
+  "nombre": "Pablo Silva",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de O'Higgins",
+  "institucion": "Gobierno Regional de O'Higgins",
+  "region": "O'Higgins",
+  "periodo": "Desde julio de 2021",
+  "partido": "Partido Socialista"
+ },
+ {
+  "id": "alvarezsalamanca",
+  "nombre": "Pedro Álvarez-Salamanca",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional del Maule",
+  "institucion": "Gobierno Regional del Maule",
+  "region": "Maule",
+  "periodo": "Desde enero de 2025",
+  "partido": "Unión Demócrata Independiente"
+ },
+ {
+  "id": "crisostomo",
+  "nombre": "Óscar Crisóstomo",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Ñuble",
+  "institucion": "Gobierno Regional de Ñuble",
+  "region": "Ñuble",
+  "periodo": "Desde julio de 2021",
+  "partido": "Partido Socialista"
+ },
+ {
+  "id": "giacaman",
+  "nombre": "Sergio Giacaman",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional del Biobío",
+  "institucion": "Gobierno Regional del Biobío",
+  "region": "Biobío",
+  "periodo": "Desde enero de 2025",
+  "partido": "Independiente"
+ },
+ {
+  "id": "saffirio",
+  "nombre": "René Saffirio",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de La Araucanía",
+  "institucion": "Gobierno Regional de La Araucanía",
+  "region": "La Araucanía",
+  "periodo": "Desde enero de 2025",
+  "partido": "Independiente"
+ },
+ {
+  "id": "cuvertino",
+  "nombre": "Luis Cuvertino",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Los Ríos",
+  "institucion": "Gobierno Regional de Los Ríos",
+  "region": "Los Ríos",
+  "periodo": "Desde julio de 2021",
+  "partido": "Partido Socialista"
+ },
+ {
+  "id": "asantana",
+  "nombre": "Alejandro Santana",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Los Lagos",
+  "institucion": "Gobierno Regional de Los Lagos",
+  "region": "Los Lagos",
+  "periodo": "Desde enero de 2025",
+  "partido": "Renovación Nacional"
+ },
+ {
+  "id": "msantana",
+  "nombre": "Marcelo Santana",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Aysén",
+  "institucion": "Gobierno Regional de Aysén",
+  "region": "Aysén",
+  "periodo": "Desde enero de 2025",
+  "partido": "Unión Demócrata Independiente"
+ },
+ {
+  "id": "flies",
+  "nombre": "Jorge Flies",
+  "tipo": "Gobernadores",
+  "cargo": "Gobernador Regional de Magallanes y la Antártica Chilena",
+  "institucion": "Gobierno Regional de Magallanes",
+  "region": "Magallanes",
+  "periodo": "Desde julio de 2021",
+  "partido": "Partido Radical"
+ },
+ {
+  "id": "arrau",
+  "nombre": "Martín Arrau García-Huidobro",
+  "corto": "Martín Arrau",
+  "curado": true
+ },
+ {
+  "id": "poduje",
+  "nombre": "Iván Poduje Capdeville",
+  "corto": "Iván Poduje",
+  "curado": true
+ },
+ {
+  "id": "quiroz",
+  "nombre": "Jorge Quiroz Castro",
+  "corto": "Jorge Quiroz",
+  "curado": true
+ },
+ {
+  "id": "orrego",
+  "nombre": "Claudio Orrego",
+  "corto": "Claudio Orrego",
+  "curado": true
+ },
+ {
+  "id": "mundaca",
+  "nombre": "Rodrigo Mundaca Cabrera",
+  "corto": "Rodrigo Mundaca",
+  "curado": true
+ },
+ {
+  "id": "desbordes",
+  "nombre": "Mario Desbordes Jiménez",
+  "corto": "Mario Desbordes",
+  "curado": true
+ },
+ {
+  "id": "tvodanovic",
+  "nombre": "Tomás Vodanovic Escudero",
+  "corto": "Tomás Vodanovic",
+  "curado": true
+ },
+ {
+  "id": "toledo",
+  "nombre": "Matías Toledo Herrera",
+  "corto": "Matías Toledo",
+  "curado": true
+ },
+ {
+  "id": "bellolio",
+  "nombre": "Jaime Bellolio Avaria",
+  "corto": "Jaime Bellolio",
+  "curado": true
+ }
+]

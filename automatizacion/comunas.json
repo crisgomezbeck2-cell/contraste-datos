@@ -1,0 +1,1732 @@
+[
+[
+"Algarrobo",
+7,
+"Valparaíso"
+],
+[
+"Alhué",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Alto Biobío",
+21,
+"Biobío"
+],
+[
+"Alto Hospicio",
+2,
+"Tarapacá"
+],
+[
+"Alto del Carmen",
+4,
+"Atacama"
+],
+[
+"Ancud",
+26,
+"Los Lagos"
+],
+[
+"Andacollo",
+5,
+"Coquimbo"
+],
+[
+"Angol",
+22,
+"La Araucanía"
+],
+[
+"Antofagasta",
+3,
+"Antofagasta"
+],
+[
+"Antuco",
+21,
+"Biobío"
+],
+[
+"Antártica",
+28,
+"Magallanes"
+],
+[
+"Arauco",
+21,
+"Biobío"
+],
+[
+"Arica",
+1,
+"Arica y Parinacota"
+],
+[
+"Aysén",
+27,
+"Aysén"
+],
+[
+"Buin",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Bulnes",
+19,
+"Ñuble"
+],
+[
+"Cabildo",
+6,
+"Valparaíso"
+],
+[
+"Cabo de Hornos",
+28,
+"Magallanes"
+],
+[
+"Cabrero",
+21,
+"Biobío"
+],
+[
+"Calama",
+3,
+"Antofagasta"
+],
+[
+"Calbuco",
+26,
+"Los Lagos"
+],
+[
+"Caldera",
+4,
+"Atacama"
+],
+[
+"Calera",
+6,
+"Valparaíso"
+],
+[
+"Calera de Tango",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Calle Larga",
+6,
+"Valparaíso"
+],
+[
+"Camarones",
+1,
+"Arica y Parinacota"
+],
+[
+"Camiña",
+2,
+"Tarapacá"
+],
+[
+"Canela",
+5,
+"Coquimbo"
+],
+[
+"Carahue",
+23,
+"La Araucanía"
+],
+[
+"Cartagena",
+7,
+"Valparaíso"
+],
+[
+"Casablanca",
+7,
+"Valparaíso"
+],
+[
+"Castro",
+26,
+"Los Lagos"
+],
+[
+"Catemu",
+6,
+"Valparaíso"
+],
+[
+"Cauquenes",
+18,
+"Maule"
+],
+[
+"Cañete",
+21,
+"Biobío"
+],
+[
+"Cerrillos",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Cerro Navia",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Chaitén",
+26,
+"Los Lagos"
+],
+[
+"Chanco",
+18,
+"Maule"
+],
+[
+"Chañaral",
+4,
+"Atacama"
+],
+[
+"Chiguayante",
+20,
+"Biobío"
+],
+[
+"Chile Chico",
+27,
+"Aysén"
+],
+[
+"Chillán",
+19,
+"Ñuble"
+],
+[
+"Chillán Viejo",
+19,
+"Ñuble"
+],
+[
+"Chimbarongo",
+16,
+"O'Higgins"
+],
+[
+"Cholchol",
+23,
+"La Araucanía"
+],
+[
+"Chonchi",
+26,
+"Los Lagos"
+],
+[
+"Chépica",
+16,
+"O'Higgins"
+],
+[
+"Cisnes",
+27,
+"Aysén"
+],
+[
+"Cobquecura",
+19,
+"Ñuble"
+],
+[
+"Cochamó",
+26,
+"Los Lagos"
+],
+[
+"Cochrane",
+27,
+"Aysén"
+],
+[
+"Codegua",
+15,
+"O'Higgins"
+],
+[
+"Coelemu",
+19,
+"Ñuble"
+],
+[
+"Coihueco",
+19,
+"Ñuble"
+],
+[
+"Coinco",
+15,
+"O'Higgins"
+],
+[
+"Colbún",
+18,
+"Maule"
+],
+[
+"Colchane",
+2,
+"Tarapacá"
+],
+[
+"Colina",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Collipulli",
+22,
+"La Araucanía"
+],
+[
+"Coltauco",
+15,
+"O'Higgins"
+],
+[
+"Combarbalá",
+5,
+"Coquimbo"
+],
+[
+"Concepción",
+20,
+"Biobío"
+],
+[
+"Conchalí",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Concón",
+7,
+"Valparaíso"
+],
+[
+"Constitución",
+17,
+"Maule"
+],
+[
+"Contulmo",
+21,
+"Biobío"
+],
+[
+"Copiapó",
+4,
+"Atacama"
+],
+[
+"Coquimbo",
+5,
+"Coquimbo"
+],
+[
+"Coronel",
+20,
+"Biobío"
+],
+[
+"Corral",
+24,
+"Los Ríos"
+],
+[
+"Coyhaique",
+27,
+"Aysén"
+],
+[
+"Cunco",
+23,
+"La Araucanía"
+],
+[
+"Curacautín",
+22,
+"La Araucanía"
+],
+[
+"Curacaví",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Curaco de Vélez",
+26,
+"Los Lagos"
+],
+[
+"Curanilahue",
+21,
+"Biobío"
+],
+[
+"Curarrehue",
+23,
+"La Araucanía"
+],
+[
+"Curepto",
+17,
+"Maule"
+],
+[
+"Curicó",
+17,
+"Maule"
+],
+[
+"Dalcahue",
+26,
+"Los Lagos"
+],
+[
+"Diego de Almagro",
+4,
+"Atacama"
+],
+[
+"Doñihue",
+15,
+"O'Higgins"
+],
+[
+"El Bosque",
+13,
+"Metropolitana de Santiago"
+],
+[
+"El Carmen",
+19,
+"Ñuble"
+],
+[
+"El Monte",
+14,
+"Metropolitana de Santiago"
+],
+[
+"El Quisco",
+7,
+"Valparaíso"
+],
+[
+"El Tabo",
+7,
+"Valparaíso"
+],
+[
+"Empedrado",
+17,
+"Maule"
+],
+[
+"Ercilla",
+22,
+"La Araucanía"
+],
+[
+"Estación Central",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Florida",
+20,
+"Biobío"
+],
+[
+"Freire",
+23,
+"La Araucanía"
+],
+[
+"Freirina",
+4,
+"Atacama"
+],
+[
+"Fresia",
+25,
+"Los Lagos"
+],
+[
+"Frutillar",
+25,
+"Los Lagos"
+],
+[
+"Futaleufú",
+26,
+"Los Lagos"
+],
+[
+"Futrono",
+24,
+"Los Ríos"
+],
+[
+"Galvarino",
+22,
+"La Araucanía"
+],
+[
+"General Lagos",
+1,
+"Arica y Parinacota"
+],
+[
+"Gorbea",
+23,
+"La Araucanía"
+],
+[
+"Graneros",
+15,
+"O'Higgins"
+],
+[
+"Guaitecas",
+27,
+"Aysén"
+],
+[
+"Hijuelas",
+6,
+"Valparaíso"
+],
+[
+"Hualaihué",
+26,
+"Los Lagos"
+],
+[
+"Hualañé",
+17,
+"Maule"
+],
+[
+"Hualpén",
+20,
+"Biobío"
+],
+[
+"Hualqui",
+20,
+"Biobío"
+],
+[
+"Huara",
+2,
+"Tarapacá"
+],
+[
+"Huasco",
+4,
+"Atacama"
+],
+[
+"Huechuraba",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Illapel",
+5,
+"Coquimbo"
+],
+[
+"Independencia",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Iquique",
+2,
+"Tarapacá"
+],
+[
+"Isla de Maipo",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Isla de Pascua",
+7,
+"Valparaíso"
+],
+[
+"Juan Fernández",
+7,
+"Valparaíso"
+],
+[
+"La Cisterna",
+13,
+"Metropolitana de Santiago"
+],
+[
+"La Cruz",
+6,
+"Valparaíso"
+],
+[
+"La Estrella",
+16,
+"O'Higgins"
+],
+[
+"La Florida",
+12,
+"Metropolitana de Santiago"
+],
+[
+"La Granja",
+10,
+"Metropolitana de Santiago"
+],
+[
+"La Higuera",
+5,
+"Coquimbo"
+],
+[
+"La Ligua",
+6,
+"Valparaíso"
+],
+[
+"La Pintana",
+12,
+"Metropolitana de Santiago"
+],
+[
+"La Reina",
+11,
+"Metropolitana de Santiago"
+],
+[
+"La Serena",
+5,
+"Coquimbo"
+],
+[
+"La Unión",
+24,
+"Los Ríos"
+],
+[
+"Lago Ranco",
+24,
+"Los Ríos"
+],
+[
+"Lago Verde",
+27,
+"Aysén"
+],
+[
+"Laguna Blanca",
+28,
+"Magallanes"
+],
+[
+"Laja",
+21,
+"Biobío"
+],
+[
+"Lampa",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Lanco",
+24,
+"Los Ríos"
+],
+[
+"Las Cabras",
+16,
+"O'Higgins"
+],
+[
+"Las Condes",
+11,
+"Metropolitana de Santiago"
+],
+[
+"Lautaro",
+22,
+"La Araucanía"
+],
+[
+"Lebu",
+21,
+"Biobío"
+],
+[
+"Licantén",
+17,
+"Maule"
+],
+[
+"Limache",
+6,
+"Valparaíso"
+],
+[
+"Linares",
+18,
+"Maule"
+],
+[
+"Litueche",
+16,
+"O'Higgins"
+],
+[
+"Llanquihue",
+25,
+"Los Lagos"
+],
+[
+"Llay Llay",
+6,
+"Valparaíso"
+],
+[
+"Lo Barnechea",
+11,
+"Metropolitana de Santiago"
+],
+[
+"Lo Espejo",
+13,
+"Metropolitana de Santiago"
+],
+[
+"Lo Prado",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Lolol",
+16,
+"O'Higgins"
+],
+[
+"Loncoche",
+23,
+"La Araucanía"
+],
+[
+"Longaví",
+18,
+"Maule"
+],
+[
+"Lonquimay",
+22,
+"La Araucanía"
+],
+[
+"Los Andes",
+6,
+"Valparaíso"
+],
+[
+"Los Lagos",
+24,
+"Los Ríos"
+],
+[
+"Los Muermos",
+25,
+"Los Lagos"
+],
+[
+"Los Sauces",
+22,
+"La Araucanía"
+],
+[
+"Los Vilos",
+5,
+"Coquimbo"
+],
+[
+"Los Álamos",
+21,
+"Biobío"
+],
+[
+"Los Ángeles",
+21,
+"Biobío"
+],
+[
+"Lota",
+21,
+"Biobío"
+],
+[
+"Lumaco",
+22,
+"La Araucanía"
+],
+[
+"Machalí",
+15,
+"O'Higgins"
+],
+[
+"Macul",
+10,
+"Metropolitana de Santiago"
+],
+[
+"Maipú",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Malloa",
+15,
+"O'Higgins"
+],
+[
+"Marchihue",
+16,
+"O'Higgins"
+],
+[
+"Mariquina",
+24,
+"Los Ríos"
+],
+[
+"María Elena",
+3,
+"Antofagasta"
+],
+[
+"María Pinto",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Maule",
+17,
+"Maule"
+],
+[
+"Maullín",
+26,
+"Los Lagos"
+],
+[
+"Mejillones",
+3,
+"Antofagasta"
+],
+[
+"Melipeuco",
+22,
+"La Araucanía"
+],
+[
+"Melipilla",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Molina",
+17,
+"Maule"
+],
+[
+"Monte Patria",
+5,
+"Coquimbo"
+],
+[
+"Mostazal",
+15,
+"O'Higgins"
+],
+[
+"Mulchén",
+21,
+"Biobío"
+],
+[
+"Máfil",
+24,
+"Los Ríos"
+],
+[
+"Nacimiento",
+21,
+"Biobío"
+],
+[
+"Nancagua",
+16,
+"O'Higgins"
+],
+[
+"Natales",
+28,
+"Magallanes"
+],
+[
+"Navidad",
+16,
+"O'Higgins"
+],
+[
+"Negrete",
+21,
+"Biobío"
+],
+[
+"Ninhue",
+19,
+"Ñuble"
+],
+[
+"Nogales",
+6,
+"Valparaíso"
+],
+[
+"Nueva Imperial",
+23,
+"La Araucanía"
+],
+[
+"O'Higgins",
+27,
+"Aysén"
+],
+[
+"Olivar",
+15,
+"O'Higgins"
+],
+[
+"Ollagüe",
+3,
+"Antofagasta"
+],
+[
+"Olmué",
+6,
+"Valparaíso"
+],
+[
+"Osorno",
+25,
+"Los Lagos"
+],
+[
+"Ovalle",
+5,
+"Coquimbo"
+],
+[
+"Padre Hurtado",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Padre Las Casas",
+23,
+"La Araucanía"
+],
+[
+"Paiguano",
+5,
+"Coquimbo"
+],
+[
+"Paillaco",
+24,
+"Los Ríos"
+],
+[
+"Paine",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Palena",
+26,
+"Los Lagos"
+],
+[
+"Palmilla",
+16,
+"O'Higgins"
+],
+[
+"Panguipulli",
+24,
+"Los Ríos"
+],
+[
+"Panquehue",
+6,
+"Valparaíso"
+],
+[
+"Papudo",
+6,
+"Valparaíso"
+],
+[
+"Paredones",
+16,
+"O'Higgins"
+],
+[
+"Parral",
+18,
+"Maule"
+],
+[
+"Pedro Aguirre Cerda",
+13,
+"Metropolitana de Santiago"
+],
+[
+"Pelarco",
+17,
+"Maule"
+],
+[
+"Pelluhue",
+18,
+"Maule"
+],
+[
+"Pemuco",
+19,
+"Ñuble"
+],
+[
+"Pencahue",
+17,
+"Maule"
+],
+[
+"Penco",
+20,
+"Biobío"
+],
+[
+"Peralillo",
+16,
+"O'Higgins"
+],
+[
+"Perquenco",
+22,
+"La Araucanía"
+],
+[
+"Petorca",
+6,
+"Valparaíso"
+],
+[
+"Peumo",
+16,
+"O'Higgins"
+],
+[
+"Peñaflor",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Peñalolén",
+11,
+"Metropolitana de Santiago"
+],
+[
+"Pica",
+2,
+"Tarapacá"
+],
+[
+"Pichidegua",
+16,
+"O'Higgins"
+],
+[
+"Pichilemu",
+16,
+"O'Higgins"
+],
+[
+"Pinto",
+19,
+"Ñuble"
+],
+[
+"Pirque",
+12,
+"Metropolitana de Santiago"
+],
+[
+"Pitrufquén",
+23,
+"La Araucanía"
+],
+[
+"Placilla",
+16,
+"O'Higgins"
+],
+[
+"Portezuelo",
+19,
+"Ñuble"
+],
+[
+"Porvenir",
+28,
+"Magallanes"
+],
+[
+"Pozo Almonte",
+2,
+"Tarapacá"
+],
+[
+"Primavera",
+28,
+"Magallanes"
+],
+[
+"Providencia",
+10,
+"Metropolitana de Santiago"
+],
+[
+"Puchuncaví",
+6,
+"Valparaíso"
+],
+[
+"Pucón",
+23,
+"La Araucanía"
+],
+[
+"Pudahuel",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Puente Alto",
+12,
+"Metropolitana de Santiago"
+],
+[
+"Puerto Montt",
+26,
+"Los Lagos"
+],
+[
+"Puerto Octay",
+25,
+"Los Lagos"
+],
+[
+"Puerto Varas",
+25,
+"Los Lagos"
+],
+[
+"Pumanque",
+16,
+"O'Higgins"
+],
+[
+"Punitaqui",
+5,
+"Coquimbo"
+],
+[
+"Punta Arenas",
+28,
+"Magallanes"
+],
+[
+"Puqueldón",
+26,
+"Los Lagos"
+],
+[
+"Purranque",
+25,
+"Los Lagos"
+],
+[
+"Purén",
+22,
+"La Araucanía"
+],
+[
+"Putaendo",
+6,
+"Valparaíso"
+],
+[
+"Putre",
+1,
+"Arica y Parinacota"
+],
+[
+"Puyehue",
+25,
+"Los Lagos"
+],
+[
+"Queilén",
+26,
+"Los Lagos"
+],
+[
+"Quellón",
+26,
+"Los Lagos"
+],
+[
+"Quemchi",
+26,
+"Los Lagos"
+],
+[
+"Quilaco",
+21,
+"Biobío"
+],
+[
+"Quilicura",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Quilleco",
+21,
+"Biobío"
+],
+[
+"Quillota",
+6,
+"Valparaíso"
+],
+[
+"Quillón",
+19,
+"Ñuble"
+],
+[
+"Quilpué",
+6,
+"Valparaíso"
+],
+[
+"Quinchao",
+26,
+"Los Lagos"
+],
+[
+"Quinta Normal",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Quinta de Tilcoco",
+15,
+"O'Higgins"
+],
+[
+"Quintero",
+6,
+"Valparaíso"
+],
+[
+"Quirihue",
+19,
+"Ñuble"
+],
+[
+"Rancagua",
+15,
+"O'Higgins"
+],
+[
+"Rauco",
+17,
+"Maule"
+],
+[
+"Recoleta",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Renaico",
+22,
+"La Araucanía"
+],
+[
+"Renca",
+9,
+"Metropolitana de Santiago"
+],
+[
+"Rengo",
+15,
+"O'Higgins"
+],
+[
+"Requínoa",
+15,
+"O'Higgins"
+],
+[
+"Retiro",
+18,
+"Maule"
+],
+[
+"Rinconada",
+6,
+"Valparaíso"
+],
+[
+"Romeral",
+17,
+"Maule"
+],
+[
+"Ránquil",
+19,
+"Ñuble"
+],
+[
+"Río Bueno",
+24,
+"Los Ríos"
+],
+[
+"Río Claro",
+17,
+"Maule"
+],
+[
+"Río Hurtado",
+5,
+"Coquimbo"
+],
+[
+"Río Ibáñez",
+27,
+"Aysén"
+],
+[
+"Río Negro",
+25,
+"Los Lagos"
+],
+[
+"Río Verde",
+28,
+"Magallanes"
+],
+[
+"Saavedra",
+23,
+"La Araucanía"
+],
+[
+"Sagrada Familia",
+17,
+"Maule"
+],
+[
+"Salamanca",
+5,
+"Coquimbo"
+],
+[
+"San Antonio",
+7,
+"Valparaíso"
+],
+[
+"San Bernardo",
+14,
+"Metropolitana de Santiago"
+],
+[
+"San Carlos",
+19,
+"Ñuble"
+],
+[
+"San Clemente",
+17,
+"Maule"
+],
+[
+"San Esteban",
+6,
+"Valparaíso"
+],
+[
+"San Fabián",
+19,
+"Ñuble"
+],
+[
+"San Felipe",
+6,
+"Valparaíso"
+],
+[
+"San Fernando",
+16,
+"O'Higgins"
+],
+[
+"San Gregorio",
+28,
+"Magallanes"
+],
+[
+"San Ignacio",
+19,
+"Ñuble"
+],
+[
+"San Javier",
+18,
+"Maule"
+],
+[
+"San Joaquín",
+10,
+"Metropolitana de Santiago"
+],
+[
+"San José de Maipo",
+12,
+"Metropolitana de Santiago"
+],
+[
+"San Juan de la Costa",
+25,
+"Los Lagos"
+],
+[
+"San Miguel",
+13,
+"Metropolitana de Santiago"
+],
+[
+"San Nicolás",
+19,
+"Ñuble"
+],
+[
+"San Pablo",
+25,
+"Los Lagos"
+],
+[
+"San Pedro",
+14,
+"Metropolitana de Santiago"
+],
+[
+"San Pedro de Atacama",
+3,
+"Antofagasta"
+],
+[
+"San Pedro de la Paz",
+20,
+"Biobío"
+],
+[
+"San Rafael",
+17,
+"Maule"
+],
+[
+"San Ramón",
+13,
+"Metropolitana de Santiago"
+],
+[
+"San Rosendo",
+21,
+"Biobío"
+],
+[
+"San Vicente",
+16,
+"O'Higgins"
+],
+[
+"Santa Bárbara",
+21,
+"Biobío"
+],
+[
+"Santa Cruz",
+16,
+"O'Higgins"
+],
+[
+"Santa Juana",
+20,
+"Biobío"
+],
+[
+"Santa María",
+6,
+"Valparaíso"
+],
+[
+"Santiago",
+10,
+"Metropolitana de Santiago"
+],
+[
+"Santo Domingo",
+7,
+"Valparaíso"
+],
+[
+"Sierra Gorda",
+3,
+"Antofagasta"
+],
+[
+"Talagante",
+14,
+"Metropolitana de Santiago"
+],
+[
+"Talca",
+17,
+"Maule"
+],
+[
+"Talcahuano",
+20,
+"Biobío"
+],
+[
+"Taltal",
+3,
+"Antofagasta"
+],
+[
+"Temuco",
+23,
+"La Araucanía"
+],
+[
+"Teno",
+17,
+"Maule"
+],
+[
+"Teodoro Schmidt",
+23,
+"La Araucanía"
+],
+[
+"Tierra Amarilla",
+4,
+"Atacama"
+],
+[
+"Tiltil",
+8,
+"Metropolitana de Santiago"
+],
+[
+"Timaukel",
+28,
+"Magallanes"
+],
+[
+"Tirúa",
+21,
+"Biobío"
+],
+[
+"Tocopilla",
+3,
+"Antofagasta"
+],
+[
+"Toltén",
+23,
+"La Araucanía"
+],
+[
+"Tomé",
+20,
+"Biobío"
+],
+[
+"Torres del Paine",
+28,
+"Magallanes"
+],
+[
+"Tortel",
+27,
+"Aysén"
+],
+[
+"Traiguén",
+22,
+"La Araucanía"
+],
+[
+"Treguaco",
+19,
+"Ñuble"
+],
+[
+"Tucapel",
+21,
+"Biobío"
+],
+[
+"Valdivia",
+24,
+"Los Ríos"
+],
+[
+"Vallenar",
+4,
+"Atacama"
+],
+[
+"Valparaíso",
+7,
+"Valparaíso"
+],
+[
+"Vichuquén",
+17,
+"Maule"
+],
+[
+"Victoria",
+22,
+"La Araucanía"
+],
+[
+"Vicuña",
+5,
+"Coquimbo"
+],
+[
+"Vilcún",
+22,
+"La Araucanía"
+],
+[
+"Villa Alegre",
+18,
+"Maule"
+],
+[
+"Villa Alemana",
+6,
+"Valparaíso"
+],
+[
+"Villarrica",
+23,
+"La Araucanía"
+],
+[
+"Vitacura",
+11,
+"Metropolitana de Santiago"
+],
+[
+"Viña del Mar",
+7,
+"Valparaíso"
+],
+[
+"Yerbas Buenas",
+18,
+"Maule"
+],
+[
+"Yumbel",
+21,
+"Biobío"
+],
+[
+"Yungay",
+19,
+"Ñuble"
+],
+[
+"Zapallar",
+6,
+"Valparaíso"
+],
+[
+"Ñiquén",
+19,
+"Ñuble"
+],
+[
+"Ñuñoa",
+10,
+"Metropolitana de Santiago"
+]
+]

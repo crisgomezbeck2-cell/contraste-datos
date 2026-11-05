@@ -1,0 +1,21 @@
+name: Cargar paquete
+on:
+  push:
+    paths:
+      - semilla.zip
+permissions:
+  contents: write
+jobs:
+  cargar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Desempaquetar
+        run: |
+          unzip -o semilla.zip
+          rm semilla.zip
+          git config user.name "contraste-actualizador"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Carga del paquete de Contraste"
+          git push

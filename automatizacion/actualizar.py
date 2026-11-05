@@ -218,14 +218,14 @@ def senadores(red, per):
     return per
 
 def senado(red, per):
-    vot = cargar("votos_senado.json", {}); prev = len(vot); errores = 0
+    vot = cargar("votos_senado.json", {}); prev = len(vot); errores = 0; ultimo_error = ""
     for leg in LEGISLATURAS_SENADO:
         off = 0
         while True:
             try:
                 d = json.loads(red.get(f"{SB}/votes?id_legislatura={leg}&limit=200&offset={off}&palabra_clave=&desde=&hasta="))["data"]
             except Exception as e:
-                errores += 1; print("  senado", leg, off, e); break
+                errores += 1; ultimo_error = str(e); print("  senado", leg, off, e); break
             filas = d.get("data") or []
             if not filas: break
             for v in filas:
@@ -250,13 +250,18 @@ def senado(red, per):
             off += len(filas)
             if off >= int(d.get("total") or 0): break
     guardar("votos_senado.json", vot); guardar("personas.json", per)
-    anotar("senado_votaciones", errores == 0, len(vot), f"{len(vot) - prev} nuevas")
+    anotar("senado_votaciones", errores == 0, len(vot), f"{len(vot) - prev} nuevas" + (" · " + ultimo_error if ultimo_error else ""))
     return vot
 
 def tramites(red, pro, vot_c, vot_s, solo_cambios=True):
     ult = collections.defaultdict(str)
     for v in list(vot_c.values()) + list(vot_s.values()): ult[v["boletin"]] = max(ult[v["boletin"]], v["fecha"])
     bols = sorted(set(ult) | set(CURADOS)); n = fall = 0
+    try:
+        red.get(f"{TR}?mo=tramitacion&ac=datos_proy&nboletin=15805-07", reintentos=1)
+        anotar("senado_tramitacion_prueba", True)
+    except Exception as e:
+        anotar("senado_tramitacion_prueba", False, None, str(e))
     for b in bols:
         p = pro.setdefault(b, {})
         reciente = ult[b] >= (datetime.date.fromisoformat(HOY) - datetime.timedelta(days=21)).isoformat()

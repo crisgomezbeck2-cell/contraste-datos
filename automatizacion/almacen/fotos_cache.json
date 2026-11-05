@@ -1,11 +1,4 @@
 {
-"D1009": {
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Jorge_Alessandri_Rodr%C3%ADguez.JPG/500px-Jorge_Alessandri_Rodr%C3%ADguez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"pagina": "https://commons.wikimedia.org/wiki/File:Jorge_Alessandri_Rodr%C3%ADguez.JPG",
-"lic": "CC BY 3.0 cl",
-"autor": "Unknown authorUnknown author",
-"wd": "Q576"
-},
 "D1012": {
 "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Boris_Anthony_Barrera_Moreno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
 "pagina": "https://commons.wikimedia.org/wiki/File:Boris_Anthony_Barrera_Moreno.jpg",
@@ -384,13 +377,6 @@
 "autor": "División de Organizaciones Sociales - Ministerio Secretaría General de",
 "nombre": "Ignacio Achurra Díaz"
 },
-"D1199": {
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Jaime_Coloma_2015.jpg/500px-Jaime_Coloma_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"pagina": "https://commons.wikimedia.org/wiki/File:Jaime_Coloma_2015.jpg",
-"lic": "CC BY 3.0",
-"autor": "[https://www.youtube.com/channel/UCl4eVeNuidUAL2dqEDvhdLg \n\nDia de la ",
-"nombre": "Jaime Coloma Álamos"
-},
 "D1148": {
 "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Javiera_Ignacia_Morales_Alvarado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
 "pagina": "https://commons.wikimedia.org/wiki/File:Javiera_Ignacia_Morales_Alvarado.jpg",
@@ -580,13 +566,6 @@
 "autor": "Biblioteca del Congreso Nacional",
 "nombre": "Álvaro Jofré Cáceres"
 },
-"D1253": {
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Fernando_Ugarte.jpg/500px-Fernando_Ugarte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"pagina": "https://commons.wikimedia.org/wiki/File:Fernando_Ugarte.jpg",
-"lic": "CC BY-SA 4.0",
-"autor": "El eretico Ugarte",
-"nombre": "Fernando Ugarte Tejeda"
-},
 "D1247": {
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Javiera_Rodr%C3%ADguez_Pascual_-_Diputada_de_Chile_2026.jpg/500px-Javiera_Rodr%C3%ADguez_Pascual_-_Diputada_de_Chile_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
 "pagina": "https://commons.wikimedia.org/wiki/File:Javiera_Rodr%C3%ADguez_Pascual_-_Diputada_de_Chile_2026.jpg",
@@ -601,26 +580,12 @@
 "autor": "Biblioteca del Congreso Nacional de Chile",
 "nombre": "Leandro Kunstmann Collado"
 },
-"D1209": {
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Mat%C3%ADas_Fern%C3%A1ndez.jpg/500px-Mat%C3%ADas_Fern%C3%A1ndez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"pagina": "https://commons.wikimedia.org/wiki/File:Mat%C3%ADas_Fern%C3%A1ndez.jpg",
-"lic": "CC BY-SA 2.0",
-"autor": "En Todos Lados!! from Chile",
-"nombre": "Matías Fernández Hartwig"
-},
 "D1210": {
 "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Retrato_Gustavo_Gatica_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
 "pagina": "https://commons.wikimedia.org/wiki/File:Retrato_Gustavo_Gatica_(2026).jpg",
 "lic": "CC BY-SA 3.0 cl",
 "autor": "Biblioteca del Congreso Nacional",
 "nombre": "Gustavo Gatica Villarroel"
-},
-"D1218": {
-"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png/500px-Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-"pagina": "https://commons.wikimedia.org/wiki/File:Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png",
-"lic": "CC BY 3.0 cl",
-"autor": "Unknown authorUnknown author",
-"nombre": "José Antonio Kast Adriasola"
 },
 "kast": {
 "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png/500px-Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1154,13 +1119,6 @@
 "autor": "Ministerio Secretaría General de Gobierno de Chile",
 "nombre": "Luis Cuvertino"
 },
-"alvarezsalamanca": {
-"url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Pedro_Pablo_%C3%81lvarez_Salamanca_B%C3%BCchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-"pagina": "https://commons.wikimedia.org/wiki/File:Pedro_Pablo_%C3%81lvarez_Salamanca_B%C3%BCchi.jpg",
-"lic": "CC BY 3.0 cl",
-"autor": "Biblioteca del Congreso Nacional",
-"nombre": "Pedro Álvarez-Salamanca"
-},
 "saffirio": {
 "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ren%C3%A9_Saffirio_Espinoza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
 "pagina": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9_Saffirio_Espinoza.jpg",
@@ -1342,5 +1300,320 @@
 "lic": "CC BY-SA 4.0",
 "autor": "EnriqueRodrigoCruz",
 "nombre": "Carlos Ignacio Kuschel Silva"
+},
+"D1025": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mar%C3%ADa_Catalina_Del_Real_Mihovilovic_%282022%29.jpg/330px-Mar%C3%ADa_Catalina_Del_Real_Mihovilovic_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Catalina_Del_Real_Mihovilovic_(2022).jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Catalina Del Real Mihovilovic"
+},
+"D1122": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Luis_Cuello_Pe%C3%B1a_y_Lillo.jpg/330px-Luis_Cuello_Pe%C3%B1a_y_Lillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Luis_Cuello_Pe%C3%B1a_y_Lillo.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Luis Alberto Cuello Peña y Lillo"
+},
+"D1153": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Diputados_2026_Coca_Ericka_%C3%91anco_V%C3%A1squez.jpg/330px-Diputados_2026_Coca_Ericka_%C3%91anco_V%C3%A1squez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Coca_Ericka_%C3%91anco_V%C3%A1squez.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Coca Ericka Ñanco Vásquez"
+},
+"D1175": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Cristian_Tapia_Ramos.jpg/330px-Cristian_Tapia_Ramos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Cristian_Tapia_Ramos.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Cristián Tapia Ramos"
+},
+"D1191": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Diputados_2026_Valentina_Becerra_Pe%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Valentina_Becerra_Pe%C3%B1a.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Valentina Becerra Peña"
+},
+"D1192": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Diputados_2026_Lilian_Betancurt_Delgado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Lilian_Betancurt_Delgado.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Lilian Betancurt Delgado"
+},
+"D1194": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Daniel_Bustos_Leal_diputado_%28retrato_2%29.jpg/330px-Daniel_Bustos_Leal_diputado_%28retrato_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Daniel_Bustos_Leal_diputado_(retrato_2).jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Daniel Bustos Leal"
+},
+"D1196": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Diputados_2026_Priscilla_Castillo_Gerli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Priscilla_Castillo_Gerli.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Priscilla Castillo Gerli"
+},
+"D1200": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Diputados_2026_Cristi%C3%A1n_Alejandro_Contreras_Radovic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Cristi%C3%A1n_Alejandro_Contreras_Radovic.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Cristian Contreras Radovic"
+},
+"D1201": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Diputados_2026_Flor_Contreras_Vivallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Flor_Contreras_Vivallo.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Flor Contreras Vivallo"
+},
+"D1203": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Diputados_2026_Sebasti%C3%A1n_Cristoffanini_Jaraquemada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Sebasti%C3%A1n_Cristoffanini_Jaraquemada.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Sebastián Cristoffanini Jaraquemada"
+},
+"D1204": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Diputados_2026_Francisco_Cris%C3%B3stomo_Llanos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Francisco_Cris%C3%B3stomo_Llanos.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Francisco Crisóstomo Llanos"
+},
+"D1216": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Diputados_2026_Stephanie_J%C3%A9ldrez_Ortiz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Stephanie_J%C3%A9ldrez_Ortiz.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Stephanie Jéldrez Ortiz"
+},
+"D1225": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cristi%C3%A1n_Menchaca_diputado_%28retrato_2%29.jpg/330px-Cristi%C3%A1n_Menchaca_diputado_%28retrato_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Cristi%C3%A1n_Menchaca_diputado_(retrato_2).jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Cristian Menchaca Pinochet"
+},
+"D1230": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Diputados_2026_Alex_Nahuelqu%C3%ADn_Nahuelqu%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Alex_Nahuelqu%C3%ADn_Nahuelqu%C3%ADn.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Alex Nahuelquin Nahuelquin"
+},
+"D1232": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Diputados_2026_Cristian_Neira_Mart%C3%ADnez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Cristian_Neira_Mart%C3%ADnez.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Cristian Neira Martínez"
+},
+"D1234": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mario_Olavarr%C3%ADa_Rodr%C3%ADguez.jpg/330px-Mario_Olavarr%C3%ADa_Rodr%C3%ADguez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Mario_Olavarr%C3%ADa_Rodr%C3%ADguez.jpg",
+"lic": "CC BY 3.0",
+"autor": "Kiko Benitez",
+"nombre": "Mario Olavarría Rodríguez"
+},
+"D1235": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Diputados_2026_Javier_Ignacio_Olivares_Avenda%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Javier_Ignacio_Olivares_Avenda%C3%B1o.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Javier Olivares Avendaño"
+},
+"D1241": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Patricio_Pinilla_Valencia.jpg/330px-Patricio_Pinilla_Valencia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Patricio_Pinilla_Valencia.jpg",
+"lic": "CC BY-SA 4.0",
+"autor": "Pablopino",
+"nombre": "Patricio Pinilla Valencia"
+},
+"D1242": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Diputados_2026_Rodrigo_Ram%C3%ADrez_Parra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Rodrigo_Ram%C3%ADrez_Parra.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Rodrigo Ramírez Parra"
+},
+"D1246": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Diputados_2026_Jos%C3%A9_Antonio_Rivas_Villalobos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Jos%C3%A9_Antonio_Rivas_Villalobos.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "José Antonio Rivas Villalobos"
+},
+"D1248": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Diputados_2026_Felipe_Ross_Correa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Felipe_Ross_Correa.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Felipe Ross Correa"
+},
+"D1254": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Diputados_2026_Ignacio_Jos%C3%A9_Urcull%C3%BA_Cl%C3%A8ment_Lund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Ignacio_Jos%C3%A9_Urcull%C3%BA_Cl%C3%A8ment_Lund.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Ignacio Urcullú Clèment-Lund"
+},
+"D1257": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Diputados_2026_Alejandra_Valdebenito_Torres.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Alejandra_Valdebenito_Torres.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Alejandra Valdebenito Torres"
+},
+"D1258": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Diputados_2026_Guillermo_Vald%C3%A9s_Carmona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Guillermo_Vald%C3%A9s_Carmona.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Guillermo Valdés Carmona"
+},
+"S1224": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Ximena_Ordenes.png/330px-Ximena_Ordenes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Ximena_Ordenes.png",
+"lic": "CC BY-SA 4.0",
+"autor": "EnriqueRodrigoCruz",
+"nombre": "Ximena Ordenes Neira"
+},
+"S1342": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Enrique_Van_Rysselberghe.png/330px-Enrique_Van_Rysselberghe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Enrique_Van_Rysselberghe.png",
+"lic": "CC BY-SA 4.0",
+"autor": "EnriqueRodrigoCruz",
+"nombre": "Enrique Van Rysselberghe Herrera"
+},
+"S1518": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cristi%C3%A1n_Vial.png/330px-Cristi%C3%A1n_Vial.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Cristi%C3%A1n_Vial.png",
+"lic": "CC BY-SA 4.0",
+"autor": "EnriqueRodrigoCruz",
+"nombre": "Cristian Vial Maceratta"
+},
+"perezmackenna": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Francisco_P%C3%A9rez_Mackenna.jpg/330px-Francisco_P%C3%A9rez_Mackenna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Francisco_P%C3%A9rez_Mackenna.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Ministerio de Relaciones Exteriores - Gobierno de Chile",
+"nombre": "José Francisco Pérez Mackenna"
+},
+"rabat": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Fernando_Rabat_Celis_Justicia_2026.jpg/330px-Fernando_Rabat_Celis_Justicia_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Fernando_Rabat_Celis_Justicia_2026.jpg",
+"lic": "CC BY 3.0",
+"autor": "Gobierno de Chile",
+"nombre": "Fernando Rabat"
+},
+"ftoledo": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Francisca_Toledo_Echegaray.jpg/330px-Francisca_Toledo_Echegaray.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Francisca_Toledo_Echegaray.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Ministerio del Medio Ambiente - Gobierno de Chile",
+"nombre": "Francisca Toledo"
+},
+"paco": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Diego_Paco_Mamani.jpg/330px-Diego_Paco_Mamani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diego_Paco_Mamani.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Prensa Presidencia - Gobierno de Chile",
+"nombre": "Diego Paco"
+},
+"julia": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Crist%C3%B3bal_Juli%C3%A1_de_la_Vega.jpg/330px-Crist%C3%B3bal_Juli%C3%A1_de_la_Vega.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Crist%C3%B3bal_Juli%C3%A1_de_la_Vega.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Prensa Presidencia - Gobierno de Chile",
+"nombre": "Cristóbal Juliá"
+},
+"psilva": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Intendente_Pablo_Silva.jpg/330px-Intendente_Pablo_Silva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Intendente_Pablo_Silva.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Gobierno de Chile",
+"nombre": "Pablo Silva"
+},
+"giacaman": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sergio_Giacaman.jpg/330px-Sergio_Giacaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Sergio_Giacaman.jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Gobierno de Chile",
+"nombre": "Sergio Giacaman"
+},
+"asantana": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Alejandro_Santana_Tirachini_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Alejandro_Santana_Tirachini_2.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Alejandro Santana"
+},
+"msantana": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Marcelo_Santana_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Marcelo_Santana_(cropped).jpg",
+"lic": "CC BY 3.0 cl",
+"autor": "Superintendencia del Medio Ambiente - Gobierno de Chile",
+"nombre": "Marcelo Santana"
+},
+"D1009": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Jorge_Iv%C3%A1n_Alessandri_Vergara_%282022%29.jpg/330px-Jorge_Iv%C3%A1n_Alessandri_Vergara_%282022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Jorge_Iv%C3%A1n_Alessandri_Vergara_(2022).jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Jorge Alessandri Vergara"
+},
+"D1209": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Diputados_2026_Mat%C3%ADas_Fern%C3%A1ndez_Hartwig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Mat%C3%ADas_Fern%C3%A1ndez_Hartwig.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Matías Fernández Hartwig"
+},
+"D1212": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Diputados_2026_Erich_Christ_Grohs_Mar%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Erich_Christ_Grohs_Mar%C3%ADn.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Erich Grohs Marín"
+},
+"D1218": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Diputados_2026_Jos%C3%A9_Antonio_Kast_Adriasola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Jos%C3%A9_Antonio_Kast_Adriasola.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "José Antonio Kast Adriasola"
+},
+"D1229": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Diputados_2026_Javier_Mu%C3%B1oz_Riquelme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Diputados_2026_Javier_Mu%C3%B1oz_Riquelme.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional",
+"nombre": "Javier Muñoz Riquelme"
+},
+"D1253": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/FUT2_%28cropped%29.jpg/330px-FUT2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:FUT2_(cropped).jpg",
+"lic": "CC BY-SA 4.0",
+"autor": "Cpgonzalezrod",
+"nombre": "Fernando Ugarte Tejeda"
+},
+"alvarezsalamanca": {
+"url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Pedro_Pablo_%C3%81lvarez-Salamanca_Ram%C3%ADrez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+"pagina": "https://commons.wikimedia.org/wiki/File:Pedro_Pablo_%C3%81lvarez-Salamanca_Ram%C3%ADrez.jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Pedro Álvarez-Salamanca"
+},
+"D1199": {
+"url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Jaime_Coloma_%C3%81lamos_diputado_%28retrato_3%29.jpg/330px-Jaime_Coloma_%C3%81lamos_diputado_%28retrato_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+"pagina": "https://commons.wikimedia.org/wiki/File:Jaime_Coloma_%C3%81lamos_diputado_(retrato_3).jpg",
+"lic": "CC BY-SA 3.0 cl",
+"autor": "Biblioteca del Congreso Nacional de Chile",
+"nombre": "Jaime Coloma Álamos"
 }
 }

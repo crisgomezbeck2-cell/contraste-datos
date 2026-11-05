@@ -7,7 +7,7 @@ Guarda recortes cuadrados de 240 px en publicar/assets/fotos/auto y los crédito
 Uso: python automatizacion/fotos.py
 """
 import io, json, pathlib, re, time, unicodedata
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 from PIL import Image
 from playwright.sync_api import sync_playwright
 
@@ -16,7 +16,7 @@ ALM = RAIZ / "automatizacion" / "almacen"
 DIR = RAIZ / "publicar" / "assets" / "fotos" / "auto"; DIR.mkdir(parents=True, exist_ok=True)
 SAL = RAIZ / "publicar" / "datos" / "fotos.js"
 CACHE = ALM / "fotos_cache.json"
-UA = "ContrasteBot/1.0 (prototipo universitario de periodismo en Chile; contacto: repositorio del proyecto)"
+UA = "ContrasteBot/1.0 (https://github.com/crisgomezbeck2-cell/contraste-datos; prototipo universitario de periodismo)"
 
 def nrm(t):
     t = unicodedata.normalize("NFD", t or "").encode("ascii", "ignore").decode().lower()
@@ -47,58 +47,77 @@ def main():
                 if r.status == 200: return json.loads(r.body())
                 print("  espera", r.status, flush=True); time.sleep(20 if r.status == 429 else 4)
             raise RuntimeError("HTTP %s" % r.status)
+        def archivo(titulo, nom, pid, pedir_contexto):
+            im = js("https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=330&titles=" + quote(titulo))
+            for pg in im.get("query", {}).get("pages", {}).values():
+                if "imageinfo" not in pg: continue
+                ii = pg["imageinfo"][0]; mt = ii.get("extmetadata", {})
+                lic = (mt.get("LicenseShortName", {}) or {}).get("value", "")
+                if not lic_ok(lic): continue
+                if pedir_contexto:
+                    ctx = titulo + " " + (mt.get("ImageDescription", {}) or {}).get("value", "") + " " + (mt.get("Categories", {}) or {}).get("value", "")
+                    if not re.search(r"chil|diputad|senador|c[aá]mara de|ministr|gobernador|bcn", ctx, re.I): continue
+                autor = re.sub(r"<[^>]+>", "", (mt.get("Artist", {}) or {}).get("value", "")).strip()[:70]
+                cache[pid] = {"url": ii.get("thumburl") or ii["url"], "pagina": ii["descriptionurl"], "lic": lic, "autor": autor, "nombre": nom}
+                print("foto*", nom, lic, titulo[:70], flush=True)
+                return True
+            return False
         faltan = [g for g in gente if g[0] not in cache]
-        for ronda in ("corto", "completo", "apellidos"):
-            if not faltan: break
-            nombres = {}
-            for pid, nom, cor in faltan:
-                pal = nom.split()
-                t = {"corto": cor, "completo": nom, "apellidos": " ".join(pal[:1] + pal[-2:]) if len(pal) > 2 else nom}[ronda]
-                nombres.setdefault(t, []).append((pid, nom))
-            lista = list(nombres)
-            for i in range(0, len(lista), 45):
-                lote = lista[i:i + 45]
-                d = js("https://es.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages|description&piprop=name&pilimit=50&titles=" + quote("|".join(lote)))
-                q = d.get("query", {}); alias = {}
-                for x in q.get("normalized", []) + q.get("redirects", []): alias[x["to"]] = alias.get(x["from"], x["from"])
-                archivos = {}
-                for pg in q.get("pages", {}).values():
-                    if "pageimage" not in pg or "missing" in pg: continue
-                    if not re.search(r"chil|polític|diputad|senador|abogad|ministr", (pg.get("description") or "").lower()): continue
-                    orig = alias.get(pg["title"], pg["title"])
-                    if orig in nombres: archivos[pg["pageimage"]] = orig
-                if archivos:
-                    im = js("https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=330&titles=" + quote("|".join("File:" + a for a in archivos)))
-                    nor = {x["to"]: x["from"] for x in im.get("query", {}).get("normalized", [])}
-                    for pg in im.get("query", {}).get("pages", {}).values():
-                        if "imageinfo" not in pg: continue
-                        ii = pg["imageinfo"][0]; mt = ii.get("extmetadata", {})
-                        lic = (mt.get("LicenseShortName", {}) or {}).get("value", "")
-                        titulo = nor.get(pg["title"], pg["title"]).replace("File:", "").replace("Archivo:", "").replace(" ", "_")
-                        org = archivos.get(titulo) or archivos.get(pg["title"].replace("File:", "").replace(" ", "_"))
-                        if not org or not lic_ok(lic): continue
-                        autor = re.sub(r"<[^>]+>", "", (mt.get("Artist", {}) or {}).get("value", "")).strip()[:70]
-                        for pid, nom in nombres[org]:
-                            cache[pid] = {"url": ii.get("thumburl") or ii["url"], "pagina": ii["descriptionurl"], "lic": lic, "autor": autor, "nombre": nom}
-                            print("foto ", nom, lic, flush=True)
-                CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
-                time.sleep(1.0)
-            faltan = [g for g in gente if g[0] not in cache]
-            print("ronda", ronda, "faltan", len(faltan), flush=True)
+        # Primero, el retrato del artículo que resenas.py ya verificó (nombre, dos apellidos, Chile, cargo político y época)
+        rs = RAIZ / "publicar" / "datos" / "resenas.js"; verif = {}
+        if rs.exists():
+            tx = rs.read_text(encoding="utf-8"); verif = json.loads(tx[tx.index("{"):tx.rindex("}") + 1])
+        nom_de = {g[0]: g[1] for g in gente}
+        ids = [g[0] for g in faltan if g[0] in verif]
+        for pid in ids:
+            tit = unquote(verif[pid]["u"].rsplit("/", 1)[-1]).replace("_", " ")
+            pi = js("https://es.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages&piprop=name&titles=" + quote(tit))
+            for pg in pi.get("query", {}).get("pages", {}).values():
+                if pg.get("pageimage"): archivo("File:" + pg["pageimage"], nom_de[pid], pid, False)
+            time.sleep(0.5)
+        faltan = [g for g in gente if g[0] not in cache]
+        print("con artículo verificado; faltan", len(faltan), flush=True)
+        # Búsqueda para los que quedan: artículo de Wikipedia por nombre y luego archivos de Commons que traigan el nombre completo
+        for pid, nom, cor in faltan:
+            c = nrm(cor)
+            if len(c) < 2: continue
+            d = js("https://es.wikipedia.org/w/api.php?action=query&format=json&list=search&srlimit=3&srsearch=" + quote('"%s" Chile' % cor))
+            hallada = False
+            for h in d.get("query", {}).get("search", []):
+                t = set(nrm(re.sub(r"\(.*?\)", "", h["title"])))
+                if c[0] not in t or c[-1] not in t: continue
+                n = nrm(nom)
+                if len(n) >= 3 and n[-1] not in t: continue
+                pi = js("https://es.wikipedia.org/w/api.php?action=query&format=json&redirects=1&prop=pageimages|description&piprop=name&titles=" + quote(h["title"]))
+                for pg in pi.get("query", {}).get("pages", {}).values():
+                    if pg.get("pageimage") and re.search(r"polític|diputad|senador|ministr|gobernador|alcald|parlamentari", (pg.get("description") or "").lower()):
+                        hallada = archivo("File:" + pg["pageimage"], nom, pid, False)
+                if hallada: break
+            if not hallada:
+                d = js("https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=6&srlimit=6&srsearch=" + quote('"%s"' % cor))
+                for h in d.get("query", {}).get("search", []):
+                    if not re.search(r"\.(jpe?g|png)$", h["title"], re.I): continue
+                    t = set(nrm(h["title"].rsplit(".", 1)[0]))
+                    n = nrm(nom)
+                    if c[0] in t and c[-1] in t and (len(n) < 3 or n[-1] in t) and not re.search(r"\b1[6-9]\d\d\b|estadio", h["title"], re.I) and archivo(h["title"], nom, pid, True): break
+            time.sleep(0.6)
+        CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
         cred = {}
         def escribir():
             SAL.write_text("window.CONTRASTE_FOTOS_AUTO=" + json.dumps(cred, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
-        inicio = time.time()
+        inicio = time.time(); limites = 0
         for pid, c in cache.items():
             if time.time() - inicio > 600: print("tiempo agotado; sigue en la próxima corrida", flush=True); break
             f = DIR / (pid + ".webp")
             if not f.exists():
                 try:
-                    for i in range(4):
-                        r = api.get(re.sub(r"/\d+px-", "/330px-", c["url"]), timeout=40000)
-                        if r.status == 200: break
-                        time.sleep(15)
+                    r = api.get(re.sub(r"/\d+px-", "/330px-", c["url"]), timeout=40000)
+                    if r.status == 429:
+                        limites += 1; print("limite", limites, flush=True); time.sleep(30)
+                        if limites >= 8: print("demasiados limites; sigue en la proxima corrida", flush=True); break
+                        continue
                     if r.status != 200: print("descarga", pid, r.status, flush=True); continue
+                    limites = 0
                     im = Image.open(io.BytesIO(r.body())).convert("RGB")
                     w, h = im.size; s = min(w, h)
                     y = int((h - s) * 0.12) if h > w else 0

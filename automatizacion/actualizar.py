@@ -403,9 +403,12 @@ def noticias(red, per, extra_personas, gnews_cuota, resolver_cuota=150):
     for k, e in per["senadores"].items():
         if e.get("vigente"): claves.append(("s" + k, e))
     for x in extra_personas: claves.append((x["id"], {"n": x["nombre"], "corto": x.get("corto") or x["nombre"]}))
+    # Si dos personas comparten el nombre corto (el Presidente Kast y su hijo diputado), solo vale el nombre completo
+    rep_corto = collections.Counter(nrm(e.get("corto") or e.get("n") or "") for _, e in claves)
     formas = []
     for pid, e in claves:
-        cs = {nrm(e.get("corto") or ""), nrm(e.get("n") or "")}
+        corto = nrm(e.get("corto") or "")
+        cs = {nrm(e.get("n") or "")} | ({corto} if rep_corto[corto] < 2 else set())
         formas.append((pid, [c for c in cs if len(c.split()) >= 2]))
     corto_de = {pid: (e.get("corto") or e.get("n")) for pid, e in claves}
     # limpieza de lo ya guardado con la regla contra homónimos
@@ -454,6 +457,7 @@ def noticias(red, per, extra_personas, gnews_cuota, resolver_cuota=150):
         for _ in range(min(gnews_cuota, len(claves))):
             pid, e = claves[i % len(claves)]; i += 1
             nom = e.get("corto") or e.get("n")
+            if rep_corto[nrm(nom)] > 1: nom = e.get("n") or nom
             q = '"' + nom + '" when:60d'
             from urllib.parse import quote
             try:

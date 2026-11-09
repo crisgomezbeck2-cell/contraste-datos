@@ -659,7 +659,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Autoriza erigir un monumento, en la comuna de Lota, en memoria del escritor chileno Baldomero Lillo Figueroa",
 "tituloSenado": "Autoriza erigir un monumento, en la comuna de Lota, en memoria del escritor chileno Baldomero Lillo Figueroa",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -4682,7 +4682,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
 "tituloSenado": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -7463,7 +7463,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
 "tituloSenado": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -12123,7 +12123,7 @@
 "origen": "Senado",
 "titulo": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
 "tituloSenado": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -12484,7 +12484,7 @@
 "urgencia": "Simple"
 },
 "16836-06": {
-"etapa": "Trámite finalización en Cámara de Origen (C.Diputados) Oficio de ley al Ejecutivo",
+"etapa": "Trámite de aprobacion presidencial (C.Diputados) En espera de promulgación",
 "idCamara": "17445",
 "ingreso": "2024-05-13",
 "iniciativa": "Mensaje",
@@ -12493,7 +12493,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
 "tituloSenado": "Modifica la ley N° 21.325 para perfeccionar el procedimiento de expulsión administrativa",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13070,6 +13070,18 @@
 "f": "2026-10-21",
 "s": "80 / 374",
 "t": "Cuenta oficio aprobación de informe de Comisión Mixta"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-10-21",
+"s": "",
+"t": "Oficio de ley al Ejecutivo"
+},
+{
+"e": "Trámite en Tribunal Constitucional / C.Diputados",
+"f": "2026-10-22",
+"s": "",
+"t": "Oficio al Tribunal Constitucional"
 },
 {
 "e": "Trámite finalización en Cámara de Origen / C.Diputados",
@@ -17075,7 +17087,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de modernizar el sistema de incentivos, extender la carrera a los futuros ingresos a Carabineros de Chile y establecer herramientas de gestión de la planta",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de modernizar el sistema de incentivos, extender la carrera a los futuros ingresos a Carabineros de Chile y establecer herramientas de gestión de la planta",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -17428,12 +17440,6 @@
 {
 "e": "Tercer trámite constitucional / Senado",
 "f": "2026-10-21",
-"s": "",
-"t": "Oficio N° 343-26, que comunica aprobacion de modificaciones"
-},
-{
-"e": "Tercer trámite constitucional / Senado",
-"f": "2026-10-21",
 "s": "71 / 374",
 "t": "Discusión única . Aprobadas las modificaciones"
 },
@@ -17441,7 +17447,19 @@
 "e": "Tercer trámite constitucional / Senado",
 "f": "2026-10-21",
 "s": "",
+"t": "Oficio N° 343-26, que comunica aprobacion de modificaciones"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-10-21",
+"s": "",
 "t": "Oficio de ley al Ejecutivo"
+},
+{
+"e": "Trámite en Tribunal Constitucional / Senado",
+"f": "2026-10-27",
+"s": "73 / 374",
+"t": "Oficio N° 401-374. Mensaje 401-374 de S.E. el Presidente de la República, por el cual comunica que no hará uso de la facultad del artículo 73 de la Carta Fundamental"
 },
 {
 "e": "Trámite en Tribunal Constitucional / Senado",
@@ -19218,7 +19236,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece mecanismos biométricos alternativos para la autentificación de adultos mayores y personas con discapacidad",
 "tituloSenado": "Establece mecanismos biométricos alternativos para la autentificación de adultos mayores y personas con discapacidad",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19280,7 +19298,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.349 para rebajar el monto de las multas que indica y establecer criterios para su graduación",
 "tituloSenado": "Modifica la ley N° 21.349 para rebajar el monto de las multas que indica y establecer criterios para su graduación",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23564,7 +23582,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
 "tituloSenado": "Para la reconstrucción nacional y el desarrollo económico y social",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -24677,7 +24695,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Fortalece la protección de las víctimas de violencia intrafamiliar y previene su revictimización",
 "tituloSenado": "Fortalece la protección de las víctimas de violencia intrafamiliar y previene su revictimización",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25518,7 +25536,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
 "tituloSenado": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25896,7 +25914,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
 "tituloSenado": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26373,7 +26391,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
 "tituloSenado": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26925,7 +26943,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
 "tituloSenado": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27706,7 +27724,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado",
 "tituloSenado": "Modifica la Ley Orgánica de la Empresa de los Ferrocarriles del Estado, con el objeto de establecer una exención de derechos y tributos municipales por la ejecución de obras ferroviarias y declarar dichas obras como infraestructura ejecutada por el Estado",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28158,7 +28176,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
 "tituloSenado": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28270,7 +28288,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
 "tituloSenado": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28596,7 +28614,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
 "tituloSenado": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29020,7 +29038,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
 "tituloSenado": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29132,7 +29150,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
 "tituloSenado": "Reforma al mercado de capitales y financiamiento de la casa propia",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29275,7 +29293,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
 "tituloSenado": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29494,7 +29512,7 @@
 "urgencia": "Discusión inmediata"
 },
 "18702-05": {
-"etapa": "Comisión Mixta Ley de Presupuesto (Senado) Informe de comisión Especial Mixta de Presupuestos",
+"etapa": "Discusión Ley de Presupuesto en Cámara de Origen (C.Diputados) Cuenta informe Comisión Mixta",
 "idCamara": "19391",
 "ingreso": "2026-09-30",
 "iniciativa": "Mensaje",
@@ -29505,7 +29523,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
 "tituloSenado": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29716,12 +29734,18 @@
 "f": "2026-10-20",
 "s": "",
 "t": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro Publico"
+},
+{
+"e": "Comisión Mixta Ley de Presupuesto / Senado",
+"f": "2026-11-09",
+"s": "",
+"t": "Informe de comisión Especial Mixta de Presupuestos"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Informe de comisión Primera Subcomisión Mixta de Presupuestos. PARTIDA 50 Tesoro Publico",
+"descripcion": "Informe de comisión Especial Mixta de Presupuestos",
 "etapa": "Comisión Mixta Ley de Presupuesto / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-09"
 },
 "urgencia": "Sin urgencia"
 },
@@ -29737,7 +29761,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
 "tituloSenado": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -30376,7 +30400,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "urgencia": ""
 },
 "S 2759-05": {
@@ -30396,7 +30420,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "urgencia": ""
 },
 "S 2766-14": {
@@ -30406,7 +30430,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-08",
+"tramVisto": "2026-11-09",
 "urgencia": ""
 }
 }

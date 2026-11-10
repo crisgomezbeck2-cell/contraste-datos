@@ -123,6 +123,7 @@
 "elpinguino.com": true,
 "elquehaydecierto.cl": false,
 "elrancaguino.cl": false,
+"elrancahuaso.cl": false,
 "elreporterodeiquique.com": true,
 "elsiglo.cl": false,
 "elsol.com.ar": true,
@@ -185,6 +186,7 @@
 "malleco7.cl": true,
 "maulehoy.cl": true,
 "meganoticias.cl": false,
+"mendoza24.com.ar": true,
 "mestizos.cl": true,
 "midesof.gob.cl": false,
 "minciencia.gob.cl": false,
@@ -201,6 +203,7 @@
 "munivillalemana.gob.cl": false,
 "musicaynoticias.cl": true,
 "n.com.do": true,
+"newsdigitales.com": true,
 "nostalgica.cl": false,
 "noticias.calamaenlinea.cl": true,
 "noticias.ubiobio.cl": false,
@@ -239,6 +242,7 @@
 "pschile.cl": true,
 "publimetro.cl": true,
 "publimetro.co": true,
+"publimicro.cl": false,
 "puentealtoaldia.com": true,
 "puranoticia.pnt.cl": false,
 "radarbiobio.cl": true,
@@ -314,5 +318,6 @@
 "villagrimaldi.cl": true,
 "vlnradio.cl": true,
 "web2.fenpruss.cl": true,
+"youtu.be": false,
 "zonazero.cl": false
 }

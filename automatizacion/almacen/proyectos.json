@@ -4682,7 +4682,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
 "tituloSenado": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -7451,7 +7451,7 @@
 "urgencia": "Suma"
 },
 "16335-14": {
-"etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora (Senado) Discusión informe de Comisión Mixta",
+"etapa": "Trámite finalización en Cámara de Origen (C.Diputados) Oficio de ley al Ejecutivo",
 "idCamara": "16892",
 "ingreso": "2023-10-03",
 "iniciativa": "Mensaje",
@@ -7463,7 +7463,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
 "tituloSenado": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -8244,12 +8244,30 @@
 "f": "2026-11-10",
 "s": "77 / 374",
 "t": "Discusión informe de Comisión Mixta . Queda pendiente Se solicita aplazamiento de la votación"
+},
+{
+"e": "Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión informe de Comisión Mixta . Aprobado"
+},
+{
+"e": "Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio aprobación de informe de Comisión Mixta a C.de Origen"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta oficio aprobación de informe de Comisión Mixta"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Discusión informe de Comisión Mixta . Queda pendiente Se solicita aplazamiento de la votación",
-"etapa": "Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado",
-"iso": "2026-11-10"
+"descripcion": "Cuenta oficio aprobación de informe de Comisión Mixta",
+"etapa": "Trámite finalización en Cámara de Origen / C.Diputados",
+"iso": "2026-11-12"
 },
 "urgencia": "Discusión inmediata"
 },
@@ -12141,7 +12159,7 @@
 "origen": "Senado",
 "titulo": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
 "tituloSenado": "Modifica el Código Penal, en materia de internación al territorio nacional de enfermedades animales o plagas vegetales",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -19260,7 +19278,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece mecanismos biométricos alternativos para la autentificación de adultos mayores y personas con discapacidad",
 "tituloSenado": "Establece mecanismos biométricos alternativos para la autentificación de adultos mayores y personas con discapacidad",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23606,7 +23624,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
 "tituloSenado": "Para la reconstrucción nacional y el desarrollo económico y social",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -24719,7 +24737,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Fortalece la protección de las víctimas de violencia intrafamiliar y previene su revictimización",
 "tituloSenado": "Fortalece la protección de las víctimas de violencia intrafamiliar y previene su revictimización",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25560,7 +25578,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
 "tituloSenado": "Modifica el Código de Minería y las leyes números 21.420 y 21.649, en materia de amparo minero y otras materias que indica",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25938,7 +25956,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
 "tituloSenado": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26427,7 +26445,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
 "tituloSenado": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26973,7 +26991,7 @@
 "urgencia": "Sin urgencia"
 },
 "18389-04": {
-"etapa": "Segundo trámite constitucional (Senado) Cuenta de primer informe de comisión",
+"etapa": "Segundo trámite constitucional (Senado) Discusión general",
 "idCamara": "19070",
 "ingreso": "2026-06-23",
 "iniciativa": "Mensaje",
@@ -26985,7 +27003,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
 "tituloSenado": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27130,10 +27148,16 @@
 "f": "2026-11-11",
 "s": "",
 "t": "Primer informe de comisión de Educación"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "78 / 374",
+"t": "Cuenta de primer informe de comisión"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Primer informe de comisión de Educación",
+"descripcion": "Cuenta de primer informe de comisión",
 "etapa": "Segundo trámite constitucional / Senado",
 "iso": "2026-11-11"
 },
@@ -28236,7 +28260,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
 "tituloSenado": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28348,7 +28372,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
 "tituloSenado": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28685,7 +28709,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
 "tituloSenado": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29150,14 +29174,14 @@
 "urgencia": "Suma"
 },
 "18623-07": {
-"etapa": "Primer trámite constitucional (Senado) Discusión general",
+"etapa": "Segundo trámite constitucional (C.Diputados) Discusión general",
 "ingreso": "2026-09-01",
 "iniciativa": "Mensaje",
 "leynro": "",
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
 "tituloSenado": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29262,13 +29286,13 @@
 "t": "Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento. Pasa a Comisión de Hacienda"
 },
 {
-"e": "Primer trámite constitucional / Senado",
+"e": "Segundo trámite constitucional / C.Diputados",
 "f": "2026-11-10",
 "s": "91 / 374",
-"t": "Cuenta de primer informe de comisión"
+"t": "Cuenta de primer informe de comisión . (Constitución). Pasa a Hacienda"
 },
 {
-"e": "Primer trámite constitucional / Senado",
+"e": "Segundo trámite constitucional / C.Diputados",
 "f": "2026-11-11",
 "s": "92 / 374",
 "t": "Cuenta del Mensaje 459-374 que retira y hace presente la urgencia Discusión inmediata"
@@ -29276,7 +29300,7 @@
 ],
 "ultimoTramite": {
 "descripcion": "Cuenta del Mensaje 459-374 que retira y hace presente la urgencia Discusión inmediata",
-"etapa": "Primer trámite constitucional / Senado",
+"etapa": "Segundo trámite constitucional / C.Diputados",
 "iso": "2026-11-11"
 },
 "urgencia": "Discusión inmediata"
@@ -29293,7 +29317,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma al mercado de capitales y financiamiento de la casa propia",
 "tituloSenado": "Reforma al mercado de capitales y financiamiento de la casa propia",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29442,7 +29466,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
 "tituloSenado": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29690,7 +29714,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
 "tituloSenado": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-12",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",

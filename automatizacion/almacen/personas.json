@@ -10,7 +10,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1012": {
 "corto": "Boris Barrera",
@@ -21,7 +21,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1013": {
 "corto": "Alejandro Bernales",
@@ -32,7 +32,7 @@
 "partidoActual": "PL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1015": {
 "corto": "Jorge Brito",
@@ -43,7 +43,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1017": {
 "corto": "Álvaro Carter",
@@ -54,7 +54,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1021": {
 "corto": "Andrés Celis",
@@ -65,7 +65,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1025": {
 "corto": "Catalina Del Real",
@@ -76,7 +76,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1028": {
 "corto": "Eduardo Durán",
@@ -87,7 +87,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1038": {
 "corto": "Marcos Ilabaca",
@@ -98,7 +98,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1039": {
 "corto": "Pamela Jiles",
@@ -109,7 +109,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1044": {
 "corto": "Raúl Leiva",
@@ -120,7 +120,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1054": {
 "corto": "Francesca Muñoz",
@@ -131,7 +131,7 @@
 "partidoActual": "PCCH",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1056": {
 "corto": "Emilia Nuyado",
@@ -142,7 +142,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1059": {
 "corto": "Ximena Ossandón",
@@ -154,7 +154,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1060": {
 "corto": "Luis Pardo",
@@ -165,7 +165,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1061": {
 "corto": "Andrea Parra",
@@ -176,7 +176,7 @@
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1062": {
 "corto": "Joanna Pérez",
@@ -187,7 +187,7 @@
 "partidoActual": "DEM",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1065": {
 "corto": "Guillermo Ramírez",
@@ -198,7 +198,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1073": {
 "corto": "Juan Santana",
@@ -209,7 +209,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1074": {
 "corto": "Marisela Santibáñez",
@@ -220,7 +220,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1075": {
 "corto": "Diego Schalper",
@@ -231,7 +231,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1077": {
 "corto": "Raúl Soto",
@@ -242,7 +242,7 @@
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1082": {
 "corto": "Cristóbal Urruticoechea",
@@ -253,7 +253,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1086": {
 "corto": "Gonzalo Winter",
@@ -264,7 +264,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1087": {
 "corto": "Gael Yeomans",
@@ -275,7 +275,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1099": {
 "corto": "Jaime Araya",
@@ -286,7 +286,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1100": {
 "corto": "Cristián Araya",
@@ -297,7 +297,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1102": {
 "corto": "Roberto Arroyo",
@@ -308,7 +308,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1104": {
 "corto": "Chiara Barchiesi",
@@ -319,7 +319,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1105": {
 "corto": "Héctor Barría",
@@ -330,7 +330,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1107": {
 "corto": "María Francisca Bello",
@@ -341,7 +341,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1108": {
 "corto": "Juan Carlos Beltrán",
@@ -352,7 +352,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1110": {
 "corto": "Carlos Bianchi",
@@ -363,7 +363,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1114": {
 "corto": "Félix Bugueño",
@@ -374,7 +374,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1116": {
 "corto": "Felipe Camaño",
@@ -386,7 +386,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1117": {
 "corto": "Nathalie Castillo",
@@ -397,7 +397,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1119": {
 "corto": "Sara Concha",
@@ -408,7 +408,7 @@
 "partidoActual": "PCCH",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1122": {
 "corto": "Luis Alberto Cuello",
@@ -419,7 +419,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1127": {
 "corto": "Lorena Fries",
@@ -430,7 +430,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1128": {
 "corto": "Ana María Gazmuri",
@@ -441,7 +441,7 @@
 "partidoActual": "PAH",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1131": {
 "corto": "Mauro González",
@@ -452,7 +452,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1132": {
 "corto": "Jorge Guzmán",
@@ -463,7 +463,7 @@
 "partidoActual": "EVOP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1133": {
 "corto": "Juan Irarrázaval",
@@ -474,7 +474,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1140": {
 "corto": "Daniel Lilayu",
@@ -485,7 +485,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1141": {
 "corto": "Luis Malla",
@@ -496,7 +496,7 @@
 "partidoActual": "PL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1142": {
 "corto": "Daniel Manouchehri",
@@ -507,7 +507,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1143": {
 "corto": "Cristóbal Martínez",
@@ -518,7 +518,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1146": {
 "corto": "José Carlos Meza",
@@ -529,7 +529,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1148": {
 "corto": "Javiera Morales",
@@ -540,7 +540,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1150": {
 "corto": "Benjamín Moreno",
@@ -551,7 +551,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1152": {
 "corto": "Gloria Naveillan",
@@ -562,7 +562,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1153": {
 "corto": "Coca Ericka Ñanco",
@@ -573,7 +573,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1157": {
 "corto": "Marlene Pérez",
@@ -584,7 +584,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1159": {
 "corto": "Lorena Pizarro",
@@ -595,7 +595,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1165": {
 "corto": "Agustín Romero",
@@ -606,7 +606,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1166": {
 "corto": "Natalia Romero",
@@ -617,7 +617,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1170": {
 "corto": "Luis Sánchez",
@@ -628,7 +628,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1171": {
 "corto": "Emilia Schneider",
@@ -639,7 +639,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1172": {
 "corto": "Stephan Schubert",
@@ -650,7 +650,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1173": {
 "corto": "Daniela Serrano",
@@ -661,7 +661,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1174": {
 "corto": "Marco Antonio Sulantay",
@@ -672,7 +672,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1175": {
 "corto": "Cristián Tapia",
@@ -683,7 +683,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1176": {
 "corto": "Hotuiti Teao",
@@ -694,7 +694,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1177": {
 "corto": "Carolina Tello",
@@ -705,7 +705,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1178": {
 "corto": "Héctor Ulloa",
@@ -716,7 +716,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1180": {
 "corto": "Consuelo Veloso",
@@ -727,7 +727,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1181": {
 "corto": "Nelson Venegas",
@@ -738,7 +738,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1182": {
 "corto": "Sebastián Videla",
@@ -749,7 +749,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1183": {
 "corto": "Flor Weisse",
@@ -760,7 +760,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1184": {
 "corto": "Roberto Celedón",
@@ -771,7 +771,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1186": {
 "corto": "Ignacio Achurra",
@@ -782,7 +782,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1187": {
 "corto": "Carlo Arqueros",
@@ -793,7 +793,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1188": {
 "corto": "Marcos Barraza",
@@ -804,7 +804,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1189": {
 "corto": "Jaime Bassa",
@@ -815,7 +815,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1190": {
 "corto": "Enrique Bassaletti",
@@ -826,7 +826,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1191": {
 "corto": "Valentina Becerra",
@@ -837,7 +837,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1192": {
 "corto": "Lilian Betancurt",
@@ -848,7 +848,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1193": {
 "corto": "Patricio Briones",
@@ -859,7 +859,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1194": {
 "corto": "Daniel Bustos",
@@ -870,7 +870,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1195": {
 "corto": "Carlos Carvajal",
@@ -881,7 +881,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1196": {
 "corto": "Priscilla Castillo",
@@ -892,7 +892,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1197": {
 "corto": "Carlos Chandía",
@@ -903,7 +903,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1198": {
 "corto": "Paz Charpentier",
@@ -914,7 +914,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1199": {
 "corto": "Jaime Coloma",
@@ -925,7 +925,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1200": {
 "corto": "Cristian Contreras",
@@ -936,7 +936,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1201": {
 "corto": "Flor Contreras",
@@ -947,7 +947,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1202": {
 "corto": "Eduardo Cretton",
@@ -958,7 +958,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1203": {
 "corto": "Sebastián Cristoffanini",
@@ -969,7 +969,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1204": {
 "corto": "Francisco Crisóstomo",
@@ -980,7 +980,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1205": {
 "corto": "Carlos Cuadrado",
@@ -991,7 +991,7 @@
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1206": {
 "corto": "Carolina Cucumides",
@@ -1002,7 +1002,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1207": {
 "corto": "Valentina Cáceres",
@@ -1013,7 +1013,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1208": {
 "corto": "Jorge Díaz",
@@ -1024,7 +1024,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1209": {
 "corto": "Matías Fernández",
@@ -1035,7 +1035,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1210": {
 "corto": "Gustavo Gatica",
@@ -1046,7 +1046,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1211": {
 "corto": "Sofía González",
@@ -1057,7 +1057,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1212": {
 "corto": "Erich Grohs",
@@ -1068,7 +1068,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1213": {
 "corto": "Irací Hassler",
@@ -1079,7 +1079,7 @@
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1214": {
 "corto": "Constanza Hube",
@@ -1090,7 +1090,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1215": {
 "corto": "Álvaro Jofré",
@@ -1101,7 +1101,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1216": {
 "corto": "Stephanie Jéldrez",
@@ -1112,7 +1112,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1217": {
 "corto": "Pier Karlezi",
@@ -1123,7 +1123,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1218": {
 "corto": "José Antonio Kast",
@@ -1134,7 +1134,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1219": {
 "corto": "Tomás Kast",
@@ -1145,7 +1145,7 @@
 "partidoActual": "EVOP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1220": {
 "corto": "Leandro Kunstmann",
@@ -1156,7 +1156,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1221": {
 "corto": "Benjamín Lorca",
@@ -1167,7 +1167,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1222": {
 "corto": "Andrea Macías",
@@ -1178,7 +1178,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1223": {
 "corto": "Hans Marowski",
@@ -1189,7 +1189,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1224": {
 "corto": "Cristian Mella",
@@ -1200,7 +1200,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1225": {
 "corto": "Cristian Menchaca",
@@ -1211,7 +1211,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1226": {
 "corto": "José Montalva",
@@ -1222,7 +1222,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1227": {
 "corto": "Claudia Mora",
@@ -1233,7 +1233,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1228": {
 "corto": "Paulina Muñoz",
@@ -1244,7 +1244,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1229": {
 "corto": "Javier Muñoz",
@@ -1255,7 +1255,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1230": {
 "corto": "Alex Nahuelquin",
@@ -1266,7 +1266,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1231": {
 "corto": "Ximena Naranjo",
@@ -1277,7 +1277,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1232": {
 "corto": "Cristian Neira",
@@ -1288,7 +1288,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1233": {
 "corto": "Ricardo Neumann",
@@ -1299,7 +1299,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1234": {
 "corto": "Mario Olavarría",
@@ -1310,7 +1310,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1235": {
 "corto": "Javier Olivares",
@@ -1321,7 +1321,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1236": {
 "corto": "Paula Olmos",
@@ -1332,7 +1332,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1237": {
 "corto": "Francisco Orrego",
@@ -1343,7 +1343,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1238": {
 "corto": "Álvaro Ortiz",
@@ -1354,7 +1354,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1239": {
 "corto": "Fabián Ossandón",
@@ -1365,7 +1365,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1240": {
 "corto": "Zandra Parisi",
@@ -1376,7 +1376,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1241": {
 "corto": "Patricio Pinilla",
@@ -1387,7 +1387,7 @@
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1242": {
 "corto": "Rodrigo Ramírez",
@@ -1398,7 +1398,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1243": {
 "corto": "Tamara Ramírez",
@@ -1409,7 +1409,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1244": {
 "corto": "Claudia Reyes",
@@ -1420,7 +1420,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1245": {
 "corto": "Alejandro Riquelme",
@@ -1431,7 +1431,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1246": {
 "corto": "José Antonio Rivas",
@@ -1442,7 +1442,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1247": {
 "corto": "Javiera Rodríguez",
@@ -1453,7 +1453,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1248": {
 "corto": "Felipe Ross",
@@ -1464,7 +1464,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1249": {
 "corto": "Omar Sabat",
@@ -1475,7 +1475,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1250": {
 "corto": "Bernardo Salinas",
@@ -1486,7 +1486,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1251": {
 "corto": "Macarena Santelices",
@@ -1497,7 +1497,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1252": {
 "corto": "Constanza Schonhaut",
@@ -1508,7 +1508,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1253": {
 "corto": "Fernando Ugarte",
@@ -1519,7 +1519,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1254": {
 "corto": "Ignacio Urcullú",
@@ -1530,7 +1530,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1255": {
 "corto": "Eileen Urqueta",
@@ -1541,7 +1541,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1256": {
 "corto": "Tatiana Urrutia",
@@ -1552,7 +1552,7 @@
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1257": {
 "corto": "Alejandra Valdebenito",
@@ -1563,7 +1563,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 },
 "1258": {
 "corto": "Guillermo Valdés",
@@ -1574,7 +1574,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1259": {
 "corto": "Juan Marcelo Valenzuela",
@@ -1585,7 +1585,7 @@
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1260": {
 "corto": "César Valenzuela",
@@ -1596,7 +1596,7 @@
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1261": {
 "corto": "Daniel Valenzuela",
@@ -1607,7 +1607,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1262": {
 "corto": "Diego Vergara",
@@ -1618,7 +1618,7 @@
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1263": {
 "corto": "Sebastián Zamora",
@@ -1629,7 +1629,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "1264": {
 "corto": "Fernando Zamorano",
@@ -1639,6 +1639,1091 @@
 "n": "Fernando Zamorano Peralta",
 "partidoActual": "PPD",
 "reg": "",
+"sexo": "M",
+"vigente": false
+},
+"1487": {
+"corto": "Ignacio Achurra",
+"m": [],
+"n": "Ignacio Jaime Achurra Diaz",
+"sexo": "M",
+"vigente": true
+},
+"1488": {
+"corto": "Jorge Alessandri",
+"m": [],
+"n": "Jorge Alessandri Vergara",
+"sexo": "M",
+"vigente": true
+},
+"1489": {
+"corto": "René Alinco",
+"m": [],
+"n": "René Alinco Bustos",
+"sexo": "M",
+"vigente": true
+},
+"1490": {
+"corto": "Jaime Araya",
+"m": [],
+"n": "Jaime Rafael Ricardo Araya Guerrero",
+"sexo": "M",
+"vigente": true
+},
+"1491": {
+"corto": "Cristián Araya",
+"m": [],
+"n": "Cristián Araya Lerdo DE Tejada",
+"sexo": "M",
+"vigente": true
+},
+"1492": {
+"corto": "Carlo Arqueros",
+"m": [],
+"n": "Carlo Alejandro Antonio Arqueros Pizarro",
+"sexo": "M",
+"vigente": true
+},
+"1493": {
+"corto": "Roberto Arroyo",
+"m": [],
+"n": "Roberto Arroyo Muñoz",
+"sexo": "M",
+"vigente": true
+},
+"1494": {
+"corto": "Chiara Barchiesi",
+"m": [],
+"n": "Chiara Barchiesi Chávez",
+"sexo": "F",
+"vigente": true
+},
+"1495": {
+"corto": "Marcos Barraza",
+"m": [],
+"n": "Marcos Patricio Barraza Gomez",
+"sexo": "M",
+"vigente": true
+},
+"1496": {
+"corto": "Boris Barrera",
+"m": [],
+"n": "Boris Barrera Moreno",
+"sexo": "M",
+"vigente": true
+},
+"1497": {
+"corto": "Hector Barría",
+"m": [],
+"n": "Hector Alejandro Barría Ángulo",
+"sexo": "M",
+"vigente": true
+},
+"1498": {
+"corto": "Jaime Bassa",
+"m": [],
+"n": "Jaime Andrés Bassa Mercado",
+"sexo": "M",
+"vigente": true
+},
+"1499": {
+"corto": "Enrique Bassaletti",
+"m": [],
+"n": "Enrique Alejandro Bassaletti Riess",
+"sexo": "M",
+"vigente": true
+},
+"1500": {
+"corto": "Valentina Becerra",
+"m": [],
+"n": "Valentina Juliet Becerra Peña",
+"sexo": "F",
+"vigente": true
+},
+"1501": {
+"corto": "Maria Bello",
+"m": [],
+"n": "Maria Francisca Bello Campos",
+"sexo": "F",
+"vigente": true
+},
+"1502": {
+"corto": "Juan Beltran",
+"m": [],
+"n": "Juan Carlos Beltran Silva",
+"sexo": "M",
+"vigente": true
+},
+"1503": {
+"corto": "Alejandro Bernales",
+"m": [],
+"n": "Alejandro Bernales Maldonado",
+"sexo": "M",
+"vigente": true
+},
+"1504": {
+"corto": "Lilian Betancurt",
+"m": [],
+"n": "Lilian Alejandra Betancurt Delgado",
+"sexo": "F",
+"vigente": true
+},
+"1505": {
+"corto": "Carlos Bianchi",
+"m": [],
+"n": "Carlos Bianchi Chelech",
+"sexo": "M",
+"vigente": true
+},
+"1506": {
+"corto": "Sergio Bobadilla",
+"m": [],
+"n": "Sergio Bobadilla Muñoz",
+"sexo": "M",
+"vigente": true
+},
+"1507": {
+"corto": "Patricio Briones",
+"m": [],
+"n": "Patricio Antonio Briones Moller",
+"sexo": "M",
+"vigente": true
+},
+"1508": {
+"corto": "Jorge Brito",
+"m": [],
+"n": "Jorge Brito Hasbún",
+"sexo": "M",
+"vigente": true
+},
+"1509": {
+"corto": "Felix Bugueño",
+"m": [],
+"n": "Felix Elliot Bugueño Sotelo",
+"sexo": "M",
+"vigente": true
+},
+"1510": {
+"corto": "Daniel Bustos",
+"m": [],
+"n": "Daniel Eduardo Bustos Leal",
+"sexo": "M",
+"vigente": true
+},
+"1511": {
+"corto": "Felipe Camaño",
+"m": [],
+"n": "Felipe Camaño Cárdenas",
+"sexo": "M",
+"vigente": true
+},
+"1512": {
+"corto": "Álvaro Carter",
+"m": [],
+"n": "Álvaro Carter Fernández",
+"sexo": "M",
+"vigente": true
+},
+"1513": {
+"corto": "Carlos Carvajal",
+"m": [],
+"n": "Carlos José Carvajal Gallardo",
+"sexo": "M",
+"vigente": true
+},
+"1514": {
+"corto": "Priscilla Castillo",
+"m": [],
+"n": "Priscilla Elena Castillo Gerli",
+"sexo": "F",
+"vigente": true
+},
+"1515": {
+"corto": "Irene Castillo",
+"m": [],
+"n": "Irene Nathalie Castillo Rojas",
+"sexo": "F",
+"vigente": true
+},
+"1516": {
+"corto": "Roberto Celedón",
+"m": [],
+"n": "Roberto Celedón Fernández",
+"sexo": "M",
+"vigente": true
+},
+"1517": {
+"corto": "Andrés Celis",
+"m": [],
+"n": "Andrés Celis Montt",
+"sexo": "M",
+"vigente": true
+},
+"1518": {
+"corto": "Carlos Chandía",
+"m": [],
+"n": "Carlos Luis Chandía Alarcón",
+"sexo": "M",
+"vigente": true
+},
+"1519": {
+"corto": "Paz Charpentier",
+"m": [],
+"n": "Paz Charpentier Rajcevich",
+"sexo": "F",
+"vigente": true
+},
+"1520": {
+"corto": "Jaime Coloma",
+"m": [],
+"n": "Jaime Coloma Álamos",
+"sexo": "M",
+"vigente": true
+},
+"1521": {
+"corto": "Sara Concha",
+"m": [],
+"n": "Sara Concha Smith",
+"sexo": "F",
+"vigente": true
+},
+"1522": {
+"corto": "Cristian Contreras",
+"m": [],
+"n": "Cristian Alejandro Contreras Radovic",
+"sexo": "M",
+"vigente": true
+},
+"1523": {
+"corto": "Flor Contreras",
+"m": [],
+"n": "Flor Rossany Contreras Vivallo",
+"sexo": "F",
+"vigente": true
+},
+"1524": {
+"corto": "Eduardo Cretton",
+"m": [],
+"n": "Eduardo Andrés Cretton Rebolledo",
+"sexo": "M",
+"vigente": true
+},
+"1525": {
+"corto": "Sebastián Cristoffanini",
+"m": [],
+"n": "Sebastián Cristoffanini Jaraquemada",
+"sexo": "M",
+"vigente": true
+},
+"1526": {
+"corto": "Francisco Crisóstomo",
+"m": [],
+"n": "Francisco Javier Crisóstomo Llanos",
+"sexo": "M",
+"vigente": true
+},
+"1527": {
+"corto": "Carlos Cuadrado",
+"m": [],
+"n": "Carlos César Luis Cuadrado Prats",
+"sexo": "M",
+"vigente": true
+},
+"1528": {
+"corto": "Carolina Cucumides",
+"m": [],
+"n": "Carolina Elsa Icela Cucumides Calderón",
+"sexo": "F",
+"vigente": true
+},
+"1529": {
+"corto": "Luis Cuello",
+"m": [],
+"n": "Luis Alberto Cuello Peña y Lillo",
+"sexo": "M",
+"vigente": true
+},
+"1530": {
+"corto": "Valentina Cáceres",
+"m": [],
+"n": "Valentina Belén Cáceres Monsálvez",
+"sexo": "F",
+"vigente": true
+},
+"1531": {
+"corto": "Catalina DEL Real",
+"m": [],
+"n": "Catalina DEL Real Mihovilovic",
+"sexo": "F",
+"vigente": true
+},
+"1532": {
+"corto": "Eduardo Durán",
+"m": [],
+"n": "Eduardo Durán Salinas",
+"sexo": "M",
+"vigente": true
+},
+"1533": {
+"corto": "Jorge Díaz",
+"m": [],
+"n": "Jorge Elías Gregorio Díaz Ibarra",
+"sexo": "M",
+"vigente": true
+},
+"1534": {
+"corto": "Matías Fernández",
+"m": [],
+"n": "Matías José Fernández Hartwig",
+"sexo": "M",
+"vigente": true
+},
+"1535": {
+"corto": "Lorena Fries",
+"m": [],
+"n": "Lorena Fries Monleón",
+"sexo": "F",
+"vigente": true
+},
+"1536": {
+"corto": "René García",
+"m": [],
+"n": "René Manuel García García",
+"sexo": "M",
+"vigente": true
+},
+"1537": {
+"corto": "Gustavo Gatica",
+"m": [],
+"n": "Gustavo Adolfo Gatica Villarroel",
+"sexo": "M",
+"vigente": true
+},
+"1538": {
+"corto": "Ana Gazmuri",
+"m": [],
+"n": "Ana María Gazmuri Vieira",
+"sexo": "F",
+"vigente": true
+},
+"1539": {
+"corto": "Sofía González",
+"m": [],
+"n": "Sofía Alejandra González Cortés",
+"sexo": "F",
+"vigente": true
+},
+"1540": {
+"corto": "Mauro González",
+"m": [],
+"n": "Mauro González Villarroel",
+"sexo": "M",
+"vigente": true
+},
+"1541": {
+"corto": "Erich Grohs",
+"m": [],
+"n": "Erich Christ Grohs Marín",
+"sexo": "M",
+"vigente": true
+},
+"1542": {
+"corto": "Jorge Guzmán",
+"m": [],
+"n": "Jorge Guzmán Zepeda",
+"sexo": "M",
+"vigente": true
+},
+"1543": {
+"corto": "Irací Hassler",
+"m": [],
+"n": "Irací Luiza Hassler Jacob",
+"sexo": "F",
+"vigente": true
+},
+"1544": {
+"corto": "Marcela Hernando",
+"m": [],
+"n": "Marcela Hernando Pérez",
+"sexo": "F",
+"vigente": true
+},
+"1545": {
+"corto": "Constanza Hube",
+"m": [],
+"n": "Constanza Verónica Hube Portus",
+"sexo": "F",
+"vigente": true
+},
+"1546": {
+"corto": "Marcos Ilabaca",
+"m": [],
+"n": "Marcos Ilabaca Cerda",
+"sexo": "M",
+"vigente": true
+},
+"1547": {
+"corto": "Juan Irarrázaval",
+"m": [],
+"n": "Juan Irarrázaval Rossel",
+"sexo": "M",
+"vigente": true
+},
+"1548": {
+"corto": "Pamela Jiles",
+"m": [],
+"n": "Pamela Jiles Moreno",
+"sexo": "F",
+"vigente": true
+},
+"1549": {
+"corto": "Alvaro Jofré",
+"m": [],
+"n": "Alvaro Arturo Jofré Caceres",
+"sexo": "M",
+"vigente": true
+},
+"1550": {
+"corto": "Stephanie Jéldrez",
+"m": [],
+"n": "Stephanie Jéldrez Ortiz",
+"sexo": "F",
+"vigente": true
+},
+"1551": {
+"corto": "Pier Karlezi",
+"m": [],
+"n": "Pier Giuseppe Karlezi Hazleby",
+"sexo": "M",
+"vigente": true
+},
+"1552": {
+"corto": "José Kast",
+"m": [],
+"n": "José Antonio Kast Adriasola",
+"sexo": "M",
+"vigente": true
+},
+"1553": {
+"corto": "Tomás Kast",
+"m": [],
+"n": "Tomás Walter Rafael Kast Sommerhoff",
+"sexo": "M",
+"vigente": true
+},
+"1554": {
+"corto": "Leandro Kunstmann",
+"m": [],
+"n": "Leandro Jorge Kunstmann Collado",
+"sexo": "M",
+"vigente": true
+},
+"1555": {
+"corto": "Raúl Leiva",
+"m": [],
+"n": "Raúl Leiva Carvajal",
+"sexo": "M",
+"vigente": true
+},
+"1556": {
+"corto": "Daniel Lilayu",
+"m": [],
+"n": "Daniel Lilayu Vivanco",
+"sexo": "M",
+"vigente": true
+},
+"1557": {
+"corto": "Benjamín Lorca",
+"m": [],
+"n": "Benjamín Israel Lorca Inzunza",
+"sexo": "M",
+"vigente": true
+},
+"1558": {
+"corto": "Andrea Macías",
+"m": [],
+"n": "Andrea Jacqueline Macías Palma",
+"sexo": "F",
+"vigente": true
+},
+"1559": {
+"corto": "Luis Malla",
+"m": [],
+"n": "Luis Malla Valenzuela",
+"sexo": "M",
+"vigente": true
+},
+"1560": {
+"corto": "Daniel Manouchehri",
+"m": [],
+"n": "Daniel Manouchehri Lobos",
+"sexo": "M",
+"vigente": true
+},
+"1561": {
+"corto": "Hans Marowski",
+"m": [],
+"n": "Hans Alberto Marowski Cuevas",
+"sexo": "M",
+"vigente": true
+},
+"1562": {
+"corto": "Cristóbal Martínez",
+"m": [],
+"n": "Cristóbal Martínez Ramírez",
+"sexo": "M",
+"vigente": true
+},
+"1563": {
+"corto": "Cristian Mella",
+"m": [],
+"n": "Cristian Andrés Mella Andaur",
+"sexo": "M",
+"vigente": true
+},
+"1564": {
+"corto": "Cristian Menchaca",
+"m": [],
+"n": "Cristian Enrique Menchaca Pinochet",
+"sexo": "M",
+"vigente": true
+},
+"1565": {
+"corto": "Jose Meza",
+"m": [],
+"n": "Jose Carlos Meza Pereira",
+"sexo": "M",
+"vigente": true
+},
+"1566": {
+"corto": "José Montalva",
+"m": [],
+"n": "José Francisco Juan Diego Montalva Feuerhake",
+"sexo": "M",
+"vigente": true
+},
+"1567": {
+"corto": "Claudia Mora",
+"m": [],
+"n": "Claudia Patricia Mora Vega",
+"sexo": "F",
+"vigente": true
+},
+"1568": {
+"corto": "Javiera Morales",
+"m": [],
+"n": "Javiera Morales Alvarado",
+"sexo": "F",
+"vigente": true
+},
+"1569": {
+"corto": "Benjamín Moreno",
+"m": [],
+"n": "Benjamín Moreno Bascur",
+"sexo": "M",
+"vigente": true
+},
+"1570": {
+"corto": "Jaime Mulet",
+"m": [],
+"n": "Jaime Mulet Martínez",
+"sexo": "M",
+"vigente": true
+},
+"1571": {
+"corto": "Francesca Muñoz",
+"m": [],
+"n": "Francesca Muñoz González",
+"sexo": "F",
+"vigente": true
+},
+"1572": {
+"corto": "Paulina Muñoz",
+"m": [],
+"n": "Paulina Andrea Muñoz Minte",
+"sexo": "F",
+"vigente": true
+},
+"1573": {
+"corto": "Javier Muñoz",
+"m": [],
+"n": "Javier Antonio Muñoz Riquelme",
+"sexo": "M",
+"vigente": true
+},
+"1574": {
+"corto": "Alex Nahuelquin",
+"m": [],
+"n": "Alex Manuel Nahuelquin Nahuelquin",
+"sexo": "M",
+"vigente": true
+},
+"1575": {
+"corto": "Coca Ñanco",
+"m": [],
+"n": "Coca Ericka Ñanco Vásquez",
+"sexo": "F",
+"vigente": true
+},
+"1576": {
+"corto": "Ximena Naranjo",
+"m": [],
+"n": "Ximena Andrea Naranjo Pinto",
+"sexo": "F",
+"vigente": true
+},
+"1577": {
+"corto": "Gloria Naveillan",
+"m": [],
+"n": "Gloria Naveillan Arriagada",
+"sexo": "F",
+"vigente": true
+},
+"1578": {
+"corto": "Cristian Neira",
+"m": [],
+"n": "Cristian Andrés Neira Martínez",
+"sexo": "M",
+"vigente": true
+},
+"1579": {
+"corto": "Ricardo Neumann",
+"m": [],
+"n": "Ricardo Andrés Neumann Bertín",
+"sexo": "M",
+"vigente": true
+},
+"1580": {
+"corto": "Emilia Nuyado",
+"m": [],
+"n": "Emilia Nuyado Ancapichún",
+"sexo": "F",
+"vigente": true
+},
+"1581": {
+"corto": "Mario Olavarría",
+"m": [],
+"n": "Mario Antonio Olavarría Rodríguez",
+"sexo": "M",
+"vigente": true
+},
+"1582": {
+"corto": "Javier Olivares",
+"m": [],
+"n": "Javier Ignacio Olivares Avendaño",
+"sexo": "M",
+"vigente": true
+},
+"1583": {
+"corto": "Paula Olmos",
+"m": [],
+"n": "Paula Andrea Olmos Contreras",
+"sexo": "F",
+"vigente": true
+},
+"1584": {
+"corto": "Francisco Orrego",
+"m": [],
+"n": "Francisco Javier Orrego Gutiérrez",
+"sexo": "M",
+"vigente": true
+},
+"1585": {
+"corto": "Álvaro Ortiz",
+"m": [],
+"n": "Álvaro Ándrés Ortiz Vera",
+"sexo": "M",
+"vigente": true
+},
+"1586": {
+"corto": "Fabián Ossandón",
+"m": [],
+"n": "Fabián Mauricio Ossandón Briceño",
+"sexo": "M",
+"vigente": true
+},
+"1587": {
+"corto": "Ximena Ossandón",
+"m": [],
+"n": "Ximena Ossandón Irarrázabal",
+"sexo": "F",
+"vigente": true
+},
+"1588": {
+"corto": "Luis Pardo",
+"m": [],
+"n": "Luis Pardo Sáinz",
+"sexo": "M",
+"vigente": true
+},
+"1589": {
+"corto": "Zandra Parisi",
+"m": [],
+"n": "Zandra Esther Parisi Fernández",
+"sexo": "F",
+"vigente": true
+},
+"1590": {
+"corto": "Andrea Parra",
+"m": [],
+"n": "Andrea Parra Sauterel",
+"sexo": "F",
+"vigente": true
+},
+"1591": {
+"corto": "Patricio Pinilla",
+"m": [],
+"n": "Patricio Alfonso Pinilla Valencia",
+"sexo": "M",
+"vigente": true
+},
+"1592": {
+"corto": "Lorena Pizarro",
+"m": [],
+"n": "Lorena Pizarro Sierra",
+"sexo": "F",
+"vigente": true
+},
+"1593": {
+"corto": "Marlene Pérez",
+"m": [],
+"n": "Marlene Pérez Cartes",
+"sexo": "F",
+"vigente": true
+},
+"1594": {
+"corto": "Joanna Pérez",
+"m": [],
+"n": "Joanna Pérez Olea",
+"sexo": "F",
+"vigente": true
+},
+"1595": {
+"corto": "Guillermo Ramírez",
+"m": [],
+"n": "Guillermo Ramírez Diez",
+"sexo": "M",
+"vigente": true
+},
+"1596": {
+"corto": "Rodrigo Ramírez",
+"m": [],
+"n": "Rodrigo Alberto Ramírez Parra",
+"sexo": "M",
+"vigente": true
+},
+"1597": {
+"corto": "Tamara Ramírez",
+"m": [],
+"n": "Tamara Alejandra Ramírez Ramírez",
+"sexo": "F",
+"vigente": true
+},
+"1598": {
+"corto": "Claudia Reyes",
+"m": [],
+"n": "Claudia Elena Reyes Larenas",
+"sexo": "F",
+"vigente": true
+},
+"1599": {
+"corto": "Alejandro Riquelme",
+"m": [],
+"n": "Alejandro Gabriel Riquelme Ducci",
+"sexo": "M",
+"vigente": true
+},
+"1600": {
+"corto": "José Rivas",
+"m": [],
+"n": "José Antonio Rivas Villalobos",
+"sexo": "M",
+"vigente": true
+},
+"1601": {
+"corto": "Javiera Rodríguez",
+"m": [],
+"n": "Javiera Valentina Rodríguez Pascual",
+"sexo": "F",
+"vigente": true
+},
+"1602": {
+"corto": "Agustín Romero",
+"m": [],
+"n": "Agustín Romero Leiva",
+"sexo": "M",
+"vigente": true
+},
+"1603": {
+"corto": "Natalia Romero",
+"m": [],
+"n": "Natalia Angelica Romero Talguia",
+"sexo": "F",
+"vigente": true
+},
+"1604": {
+"corto": "Felipe Ross",
+"m": [],
+"n": "Felipe Ross Correa",
+"sexo": "M",
+"vigente": true
+},
+"1605": {
+"corto": "Omar Sabat",
+"m": [],
+"n": "Omar Rashid Sabat Guzmán",
+"sexo": "M",
+"vigente": true
+},
+"1606": {
+"corto": "Bernardo Salinas",
+"m": [],
+"n": "Bernardo Antonio Salinas Maya",
+"sexo": "M",
+"vigente": true
+},
+"1607": {
+"corto": "Juan Santana",
+"m": [],
+"n": "Juan Santana Castillo",
+"sexo": "M",
+"vigente": true
+},
+"1608": {
+"corto": "Macarena Santelices",
+"m": [],
+"n": "Macarena Eugenia Santelices Cañas",
+"sexo": "F",
+"vigente": true
+},
+"1609": {
+"corto": "Marisela Santibáñez",
+"m": [],
+"n": "Marisela Santibáñez Novoa",
+"sexo": "F",
+"vigente": true
+},
+"1610": {
+"corto": "Diego Schalper",
+"m": [],
+"n": "Diego Schalper Sepúlveda",
+"sexo": "M",
+"vigente": true
+},
+"1611": {
+"corto": "Emilia Schneider",
+"m": [],
+"n": "Emilia Schneider Videla",
+"sexo": "F",
+"vigente": true
+},
+"1612": {
+"corto": "Constanza Schonhaut",
+"m": [],
+"n": "Constanza Gabriela Schonhaut Soto",
+"sexo": "F",
+"vigente": true
+},
+"1613": {
+"corto": "Stephan Schubert",
+"m": [],
+"n": "Stephan Schubert Rubio",
+"sexo": "M",
+"vigente": true
+},
+"1614": {
+"corto": "Daniela Serrano",
+"m": [],
+"n": "Daniela Serrano Salazar",
+"sexo": "F",
+"vigente": true
+},
+"1615": {
+"corto": "Raúl Soto",
+"m": [],
+"n": "Raúl Soto Mardones",
+"sexo": "M",
+"vigente": true
+},
+"1616": {
+"corto": "Marco Sulantay",
+"m": [],
+"n": "Marco Antonio Sulantay Olivares",
+"sexo": "M",
+"vigente": true
+},
+"1617": {
+"corto": "Luis Sánchez",
+"m": [],
+"n": "Luis Sánchez Ossa",
+"sexo": "M",
+"vigente": true
+},
+"1618": {
+"corto": "Cristián Tapia",
+"m": [],
+"n": "Cristián Tapia Ramos",
+"sexo": "M",
+"vigente": true
+},
+"1619": {
+"corto": "Hotuiti Teao",
+"m": [],
+"n": "Hotuiti Teao Drago",
+"sexo": "M",
+"vigente": true
+},
+"1620": {
+"corto": "Carolina Tello",
+"m": [],
+"n": "Carolina Tello Rojas",
+"sexo": "F",
+"vigente": true
+},
+"1621": {
+"corto": "Fernando Ugarte",
+"m": [],
+"n": "Fernando Ugarte Tejeda",
+"sexo": "M",
+"vigente": true
+},
+"1622": {
+"corto": "Héctor Ulloa",
+"m": [],
+"n": "Héctor Ulloa Aguilera",
+"sexo": "M",
+"vigente": true
+},
+"1623": {
+"corto": "Ignacio Urcullú",
+"m": [],
+"n": "Ignacio José Urcullú Clèment-lund",
+"sexo": "M",
+"vigente": true
+},
+"1624": {
+"corto": "Eileen Urqueta",
+"m": [],
+"n": "Eileen Patricia Urqueta Rojas",
+"sexo": "F",
+"vigente": true
+},
+"1625": {
+"corto": "Tatiana Urrutia",
+"m": [],
+"n": "Tatiana Karina Urrutia Herrera",
+"sexo": "F",
+"vigente": true
+},
+"1626": {
+"corto": "Cristóbal Urruticoechea",
+"m": [],
+"n": "Cristóbal Urruticoechea Ríos",
+"sexo": "M",
+"vigente": true
+},
+"1627": {
+"corto": "Alejandra Valdebenito",
+"m": [],
+"n": "Alejandra Valdebenito Torres",
+"sexo": "F",
+"vigente": true
+},
+"1628": {
+"corto": "Guillermo Valdés",
+"m": [],
+"n": "Guillermo Victoriano Valdés Carmona",
+"sexo": "M",
+"vigente": true
+},
+"1629": {
+"corto": "Juan Valenzuela",
+"m": [],
+"n": "Juan Marcelo Valenzuela Henriquez",
+"sexo": "M",
+"vigente": true
+},
+"1630": {
+"corto": "César Valenzuela",
+"m": [],
+"n": "César Ignacio Valenzuela Maass",
+"sexo": "M",
+"vigente": true
+},
+"1631": {
+"corto": "Daniel Valenzuela",
+"m": [],
+"n": "Daniel Elías Valenzuela Salazar",
+"sexo": "M",
+"vigente": true
+},
+"1632": {
+"corto": "Consuelo Veloso",
+"m": [],
+"n": "Consuelo Veloso Ávila",
+"sexo": "F",
+"vigente": true
+},
+"1633": {
+"corto": "Nelson Venegas",
+"m": [],
+"n": "Nelson Venegas Salazar",
+"sexo": "M",
+"vigente": true
+},
+"1634": {
+"corto": "Germán Verdugo",
+"m": [],
+"n": "Germán Verdugo Soto",
+"sexo": "M",
+"vigente": true
+},
+"1635": {
+"corto": "Diego Vergara",
+"m": [],
+"n": "Diego Alfonso Vergara Rodríguez",
+"sexo": "M",
+"vigente": true
+},
+"1636": {
+"corto": "Sebastián Videla",
+"m": [],
+"n": "Sebastián Videla Castillo",
+"sexo": "M",
+"vigente": true
+},
+"1637": {
+"corto": "Flor Weisse",
+"m": [],
+"n": "Flor Weisse Novoa",
+"sexo": "F",
+"vigente": true
+},
+"1638": {
+"corto": "Gonzalo Winter",
+"m": [],
+"n": "Gonzalo Winter Etcheberry",
+"sexo": "M",
+"vigente": true
+},
+"1639": {
+"corto": "Gael Yeomans",
+"m": [],
+"n": "Gael Yeomans Araya",
+"sexo": "F",
+"vigente": true
+},
+"1640": {
+"corto": "Sebastián Zamora",
+"m": [],
+"n": "Sebastián Nicolás Zamora Soto",
+"sexo": "M",
+"vigente": true
+},
+"1641": {
+"corto": "Fernando Zamorano",
+"m": [],
+"n": "Fernando Jorge Zamorano Peralta",
 "sexo": "M",
 "vigente": true
 },
@@ -1651,7 +2736,7 @@
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "815": {
 "corto": "Sergio Bobadilla",
@@ -1662,7 +2747,7 @@
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "843": {
 "corto": "René Manuel García",
@@ -1673,7 +2758,7 @@
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "872": {
 "corto": "Jaime Mulet",
@@ -1684,7 +2769,7 @@
 "partidoActual": "FRVS",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "915": {
 "corto": "Germán Verdugo",
@@ -1695,7 +2780,7 @@
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": true
+"vigente": false
 },
 "986": {
 "corto": "Marcela Hernando",
@@ -1706,7 +2791,7 @@
 "partidoActual": "PR",
 "reg": "",
 "sexo": "F",
-"vigente": true
+"vigente": false
 }
 },
 "senadores": {

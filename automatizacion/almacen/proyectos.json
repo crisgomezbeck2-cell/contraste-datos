@@ -1613,6 +1613,66 @@
 },
 "urgencia": "Sin urgencia"
 },
+"13872-17": {
+"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+"ingreso": "2020-11-03",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Cámara de Diputados",
+"titulo": "Rehabilita la nacionalidad chilena a doña Ana María Posada Montes.",
+"tituloSenado": "Rehabilita la nacionalidad chilena a doña Ana María Posada Montes.",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2020-11-03",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2020-11-03",
+"s": "108 / 368",
+"t": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "",
+"t": "Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "25 / 373",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+"etapa": "Segundo trámite constitucional / C.Diputados",
+"iso": "2026-11-12"
+},
+"urgencia": "Sin urgencia"
+},
 "14309-04": {
 "etapa": "Comisión Mixta por rechazo de modificaciones (Senado) Informe de Comisión Mixta Comisión Mixta para Boletín Nº 14309-04",
 "idCamara": "14891",
@@ -2515,7 +2575,7 @@
 "origen": "Senado",
 "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
 "tituloSenado": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -4791,7 +4851,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
 "tituloSenado": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -7596,7 +7656,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
 "tituloSenado": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -11786,7 +11846,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -14371,6 +14431,66 @@
 "tramVisto": "2026-11-20",
 "urgencia": ""
 },
+"17002-17": {
+"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+"ingreso": "2024-07-24",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Cámara de Diputados",
+"titulo": "Rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer",
+"tituloSenado": "Rehabilita la nacionalidad chilena a la señora María Inés Caorsi Saelzer",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2024-07-24",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2024-07-30",
+"s": "39 / 372",
+"t": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "",
+"t": "Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "25 / 373",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+"etapa": "Segundo trámite constitucional / C.Diputados",
+"iso": "2026-11-12"
+},
+"urgencia": "Sin urgencia"
+},
 "17012-14": {
 "etapa": "Tramitación terminada Ley N° 21.842 (Diario Oficial del 23/09/2026)",
 "idCamara": "17621",
@@ -15162,6 +15282,66 @@
 "iso": "2026-11-10"
 },
 "urgencia": "Suma"
+},
+"17198-17": {
+"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+"ingreso": "2024-10-21",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Cámara de Diputados",
+"titulo": "Rehabilita la nacionalidad chilena al señor André Améstica Lopes",
+"tituloSenado": "Rehabilita la nacionalidad chilena al señor André Améstica Lopes",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2024-10-21",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2024-10-29",
+"s": "68 / 372",
+"t": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "",
+"t": "Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-06-04",
+"s": "25 / 373",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+"etapa": "Segundo trámite constitucional / C.Diputados",
+"iso": "2026-11-12"
+},
+"urgencia": "Sin urgencia"
 },
 "17222-07": {
 "etapa": "Segundo trámite constitucional (Senado) Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento",
@@ -20475,6 +20655,66 @@
 },
 "urgencia": "Sin urgencia"
 },
+"17900-17": {
+"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+"ingreso": "2025-10-08",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Cámara de Diputados",
+"titulo": "Rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt",
+"tituloSenado": "Rehabilita la nacionalidad chilena al señor Alex Cristián De Kartzow Montt",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-10-08",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-10-08",
+"s": "60 / 373",
+"t": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-11-05",
+"s": "",
+"t": "Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2025-11-05",
+"s": "65 / 373",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+"etapa": "Segundo trámite constitucional / C.Diputados",
+"iso": "2026-11-12"
+},
+"urgencia": "Sin urgencia"
+},
 "17912-25": {
 "etapa": "Segundo trámite constitucional (Senado) Primer informe de comisión de Seguridad Pública",
 "idCamara": "18569",
@@ -22149,6 +22389,66 @@
 "descripcion": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
 "etapa": "Segundo trámite constitucional / Senado",
 "iso": "2026-06-10"
+},
+"urgencia": "Sin urgencia"
+},
+"18081-17": {
+"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización",
+"ingreso": "2026-01-26",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Cámara de Diputados",
+"titulo": "Rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro",
+"tituloSenado": "Rehabilita la nacionalidad chilena a la señora Cecilia del Carmen Salgado Alfaro",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-01-26",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-01-27",
+"s": "96 / 373",
+"t": "Cuenta de proyecto . Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-06-23",
+"s": "",
+"t": "Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-06-23",
+"s": "35 / 374",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta de proyecto . Pasa a Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización",
+"etapa": "Segundo trámite constitucional / C.Diputados",
+"iso": "2026-11-12"
 },
 "urgencia": "Sin urgencia"
 },
@@ -23925,7 +24225,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
 "tituloSenado": "Para la reconstrucción nacional y el desarrollo económico y social",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26287,7 +26587,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
 "tituloSenado": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26782,7 +27082,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
 "tituloSenado": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27352,7 +27652,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
 "tituloSenado": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28621,7 +28921,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
 "tituloSenado": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28733,7 +29033,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
 "tituloSenado": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28993,7 +29293,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
 "tituloSenado": "Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29094,7 +29394,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
 "tituloSenado": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29452,7 +29752,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
 "tituloSenado": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29590,7 +29890,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
 "tituloSenado": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29911,7 +30211,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
 "tituloSenado": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -30159,7 +30459,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
 "tituloSenado": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -30470,7 +30770,7 @@
 "urgencia": "Sin urgencia"
 },
 "18709-07": {
-"etapa": "Segundo trámite constitucional (Senado) Discusión general",
+"etapa": "Tramitación terminada Ley N° 21.854 (Diario Oficial del 13/11/2026)",
 "idCamara": "19390",
 "ingreso": "2026-10-05",
 "iniciativa": "Mensaje",
@@ -30481,7 +30781,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
 "tituloSenado": "Modifica la ley N° 21.780, que crea el Servicio Nacional de Acceso a la Justicia y la Defensoría de Víctimas, con el objeto de otorgar mayor eficiencia al proceso de implementación del servicio",
-"tramVisto": "2026-11-11",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -30578,14 +30878,80 @@
 "f": "2026-11-10",
 "s": "76 / 374",
 "t": "Cuenta del Mensaje 449-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular sin modificaciones"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio aprobación sin modificaciones a Cámara de Origen"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta oficio aprobación sin modificaciones de C. Revisora"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 449-374 que hace presente la urgencia Discusión inmediata",
-"etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-11-10"
+"descripcion": "Cuenta oficio aprobación sin modificaciones de C. Revisora",
+"etapa": "Trámite finalización en Cámara de Origen / C.Diputados",
+"iso": "2026-11-12"
 },
 "urgencia": "Discusión inmediata"
+},
+"18860-15": {
+"etapa": "Primer trámite constitucional (Senado) Boletín de indicaciones",
+"ingreso": "2026-11-06",
+"iniciativa": "Moción",
+"leynro": "",
+"origen": "Senado",
+"titulo": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
+"tituloSenado": "Proyecto de ley que modifica el Código de Comercio para regular las condiciones de contratación y pago de los servicios de transporte de carga por carretera por empresas de menor tamaño",
+"tramVisto": "2026-11-21",
+"tramites": [
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-06",
+"s": "",
+"t": "Ingreso de proyecto"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Transportes y Telecomunicaciones"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-12",
+"s": "",
+"t": "Primer informe de comisión de Transportes y Telecomunicaciones"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/11/2026 a las 12:00"
+}
+],
+"ultimoTramite": {
+"descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/11/2026 a las 12:00",
+"etapa": "Primer trámite constitucional / Senado",
+"iso": "2026-11-16"
+},
+"urgencia": "Sin urgencia"
 },
 "18885-05": {
 "etapa": "Tramitación terminada Ley N° 21.857 (Diario Oficial del 17/11/2026)",
@@ -30600,7 +30966,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga",
 "tituloSenado": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga",
-"tramVisto": "2026-11-20",
+"tramVisto": "2026-11-21",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -31280,6 +31646,16 @@
 "tramVisto": "2026-11-10",
 "urgencia": ""
 },
+"S 2765-05": {
+"etapa": "",
+"iniciativa": "",
+"leynro": "",
+"origen": "",
+"titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
+"tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
+"tramVisto": "2026-11-21",
+"urgencia": ""
+},
 "S 2766-14": {
 "etapa": "",
 "iniciativa": "",
@@ -31288,6 +31664,16 @@
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tramVisto": "2026-11-10",
+"urgencia": ""
+},
+"S 2772-14": {
+"etapa": "",
+"iniciativa": "",
+"leynro": "",
+"origen": "",
+"titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
+"tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
+"tramVisto": "2026-11-21",
 "urgencia": ""
 }
 }

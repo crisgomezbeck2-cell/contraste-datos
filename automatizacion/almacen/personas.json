@@ -3,4390 +3,1710 @@
 "1009": {
 "corto": "Jorge Alessandri",
 "dist": 10,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1488",
+"m": [],
 "mesa": "Presidente",
 "n": "Jorge Alessandri Vergara",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1012": {
 "corto": "Boris Barrera",
 "dist": 9,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Comunista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Comunista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1496",
+"m": [],
 "n": "Boris Barrera Moreno",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1013": {
 "corto": "Alejandro Bernales",
 "dist": 26,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Liberal de Chile"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Liberal de Chile"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Liberal de Chile"
-]
-],
+"idCamara": "1503",
+"m": [],
 "n": "Alejandro Bernales Maldonado",
 "partidoActual": "PL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1015": {
 "corto": "Jorge Brito",
 "dist": 7,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Revolución Democrática"
-],
-[
-"2022-03-11",
-"2024-07-02",
-"Revolución Democrática"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1508",
+"m": [],
 "n": "Jorge Brito Hasbún",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1017": {
 "corto": "Álvaro Carter",
 "dist": 12,
-"m": [
-[
-"2018-03-11",
-"2025-03-18",
-"Unión Demócrata Independiente"
-],
-[
-"2020-09-29",
-"2022-03-10",
-"Independientes"
-],
-[
-"2022-03-11",
-"2025-03-18",
-"Unión Demócrata Independiente"
-],
-[
-"2025-03-19",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1512",
+"m": [],
 "n": "Álvaro Carter Fernández",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1021": {
 "corto": "Andrés Celis",
 "dist": 7,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1517",
+"m": [],
 "n": "Andrés Celis Montt",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1025": {
 "corto": "Catalina Del Real",
 "dist": 11,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2023-08-22",
-"Renovación Nacional"
-],
-[
-"2023-08-23",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1531",
+"m": [],
 "n": "Catalina Del Real Mihovilovic",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1028": {
 "corto": "Eduardo Durán",
 "dist": 13,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1532",
+"m": [],
 "n": "Eduardo Durán Salinas",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1038": {
 "corto": "Marcos Ilabaca",
 "dist": 24,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Socialista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1546",
+"m": [],
 "n": "Marcos Ilabaca Cerda",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1039": {
 "corto": "Pamela Jiles",
 "dist": 12,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Humanista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Humanista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1548",
+"m": [],
 "n": "Pamela Jiles Moreno",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1044": {
 "corto": "Raúl Leiva",
 "dist": 14,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Socialista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1555",
+"m": [],
 "n": "Raúl Leiva Carvajal",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1054": {
 "corto": "Francesca Muñoz",
 "dist": 20,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2022-12-11",
-"Renovación Nacional"
-],
-[
-"2022-12-12",
-"2023-05-30",
-"Independientes"
-],
-[
-"2023-05-31",
-"2026-03-10",
-"Partido Social Cristiano"
-],
-[
-"2026-03-11",
-"2026-09-01",
-"Partido Social Cristiano"
-],
-[
-"2026-09-02",
-"2030-03-10",
-"Partido Cristiano de Chile"
-]
-],
+"idCamara": "1571",
+"m": [],
 "n": "Francesca Muñoz González",
 "partidoActual": "PCCH",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1056": {
 "corto": "Emilia Nuyado",
 "dist": 25,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Socialista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1580",
+"m": [],
 "n": "Emilia Nuyado Ancapichun",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1059": {
 "corto": "Ximena Ossandón",
 "dist": 12,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1587",
+"m": [],
 "mesa": "Segunda Vicepresidenta",
 "n": "Ximena Ossandón Irarrázabal",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1060": {
 "corto": "Luis Pardo",
 "dist": 6,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1588",
+"m": [],
 "n": "Luis Pardo Sáinz",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1061": {
 "corto": "Andrea Parra",
 "dist": 22,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Por la Democracia"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Por la Democracia"
-]
-],
+"idCamara": "1590",
+"m": [],
 "n": "Andrea Parra Sauterel",
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1062": {
 "corto": "Joanna Pérez",
 "dist": 21,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Demócrata Cristiano"
-],
-[
-"2022-03-11",
-"2022-12-11",
-"Partido Demócrata Cristiano"
-],
-[
-"2022-12-12",
-"2023-09-04",
-"Independientes"
-],
-[
-"2023-09-05",
-"2026-03-10",
-"Partido Demócratas Chile"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócratas Chile"
-]
-],
+"idCamara": "1594",
+"m": [],
 "n": "Joanna Pérez Olea",
 "partidoActual": "DEM",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1065": {
 "corto": "Guillermo Ramírez",
 "dist": 9,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1595",
+"m": [],
 "n": "Guillermo Ramírez Diez",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1073": {
 "corto": "Juan Santana",
 "dist": 4,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Socialista"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1607",
+"m": [],
 "n": "Juan Santana Castillo",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1074": {
 "corto": "Marisela Santibáñez",
 "dist": 14,
-"m": [
-[
-"2018-03-11",
-"2019-04-16",
-"Partido Progresista"
-],
-[
-"2019-04-17",
-"2019-09-26",
-"Independientes"
-],
-[
-"2019-09-27",
-"2022-03-10",
-"Partido Comunista"
-],
-[
-"2022-03-11",
-"2024-01-16",
-"Partido Comunista"
-],
-[
-"2024-01-17",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1609",
+"m": [],
 "n": "Marisela Santibáñez Novoa",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1075": {
 "corto": "Diego Schalper",
 "dist": 11,
-"m": [
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1610",
+"m": [],
 "n": "Diego Schalper Sepúlveda",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1077": {
 "corto": "Raúl Soto",
 "dist": 15,
-"m": [
-[
-"2018-03-11",
-"2019-08-25",
-"Partido Demócrata Cristiano"
-],
-[
-"2019-08-26",
-"2022-03-10",
-"Independientes"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Por la Democracia"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Por la Democracia"
-]
-],
+"idCamara": "1615",
+"m": [],
 "n": "Raúl Soto Mardones",
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1082": {
 "corto": "Cristóbal Urruticoechea",
 "dist": 21,
-"m": [
-[
-"2018-03-11",
-"2021-06-13",
-"Renovación Nacional"
-],
-[
-"2021-06-14",
-"2022-03-10",
-"Partido Republicano"
-],
-[
-"2022-03-11",
-"2024-10-14",
-"Partido Republicano"
-],
-[
-"2024-10-15",
-"2025-06-17",
-"Independientes"
-],
-[
-"2025-06-18",
-"2026-03-10",
-"Partido Nacional Libertario"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1626",
+"m": [],
 "n": "Cristóbal Urruticoechea Ríos",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1086": {
 "corto": "Gonzalo Winter",
 "dist": 10,
-"m": [
-[
-"2018-03-11",
-"2018-04-04",
-"Revolución Democrática"
-],
-[
-"2018-04-05",
-"2020-03-10",
-"Independientes"
-],
-[
-"2020-03-11",
-"2022-03-10",
-"Partido Convergencia Social"
-],
-[
-"2022-03-11",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1638",
+"m": [],
 "n": "Gonzalo Winter Etcheberry",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1087": {
 "corto": "Gael Yeomans",
 "dist": 13,
-"m": [
-[
-"2018-03-11",
-"2019-04-16",
-"Revolución Democrática"
-],
-[
-"2019-04-17",
-"2020-03-10",
-"Independientes"
-],
-[
-"2020-03-11",
-"2022-03-10",
-"Partido Convergencia Social"
-],
-[
-"2022-03-11",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1639",
+"m": [],
 "n": "Gael Yeomans Araya",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1099": {
 "corto": "Jaime Araya",
 "dist": 3,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1490",
+"m": [],
 "n": "Jaime Araya Guerrero",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1100": {
 "corto": "Cristián Araya",
 "dist": 11,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1491",
+"m": [],
 "n": "Cristián Araya Lerdo de Tejada",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1102": {
 "corto": "Roberto Arroyo",
 "dist": 20,
-"m": [
-[
-"2022-03-11",
-"2023-11-07",
-"Partido de la Gente"
-],
-[
-"2023-11-08",
-"2026-03-10",
-"Partido Social Cristiano"
-],
-[
-"2026-03-11",
-"2026-08-30",
-"Partido Social Cristiano"
-],
-[
-"2026-08-31",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1493",
+"m": [],
 "n": "Roberto Arroyo Muñoz",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1104": {
 "corto": "Chiara Barchiesi",
 "dist": 6,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1494",
+"m": [],
 "n": "Chiara Barchiesi Chávez",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1105": {
 "corto": "Héctor Barría",
 "dist": 25,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Demócrata Cristiano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1497",
+"m": [],
 "n": "Héctor Barría Angulo",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1107": {
 "corto": "María Francisca Bello",
 "dist": 6,
-"m": [
-[
-"2022-03-11",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1501",
+"m": [],
 "n": "María Francisca Bello Campos",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1108": {
 "corto": "Juan Carlos Beltrán",
 "dist": 22,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1502",
+"m": [],
 "n": "Juan Carlos Beltrán Silva",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1110": {
 "corto": "Carlos Bianchi",
 "dist": 28,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1505",
+"m": [],
 "n": "Carlos Bianchi Chelech",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1114": {
 "corto": "Félix Bugueño",
 "dist": 16,
-"m": [
-[
-"2022-03-11",
-"2023-06-12",
-"Federación Regionalista Verde Social"
-],
-[
-"2022-06-13",
-"2024-07-02",
-"Independientes"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1509",
+"m": [],
 "n": "Félix Bugueño Sotelo",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1116": {
 "corto": "Felipe Camaño",
 "dist": 19,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1511",
+"m": [],
 "mesa": "Primer Vicepresidente",
 "n": "Felipe Camaño Cárdenas",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1117": {
 "corto": "Nathalie Castillo",
 "dist": 5,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Comunista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1515",
+"m": [],
 "n": "Nathalie Castillo Rojas",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1119": {
 "corto": "Sara Concha",
 "dist": 19,
-"m": [
-[
-"2022-03-11",
-"2023-03-21",
-"Partido Conservador Cristiano"
-],
-[
-"2023-03-22",
-"2026-03-10",
-"Partido Social Cristiano"
-],
-[
-"2026-03-11",
-"2026-09-01",
-"Partido Social Cristiano"
-],
-[
-"2026-09-02",
-"2030-03-10",
-"Partido Cristiano de Chile"
-]
-],
+"idCamara": "1521",
+"m": [],
 "n": "Sara Concha Smith",
 "partidoActual": "PCCH",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1122": {
 "corto": "Luis Alberto Cuello",
 "dist": 7,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Comunista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1529",
+"m": [],
 "n": "Luis Alberto Cuello Peña y Lillo",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1127": {
 "corto": "Lorena Fries",
 "dist": 10,
-"m": [
-[
-"2022-03-11",
-"2023-03-27",
-"Independientes"
-],
-[
-"2023-03-28",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1535",
+"m": [],
 "n": "Lorena Fries Monleón",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1128": {
 "corto": "Ana María Gazmuri",
 "dist": 12,
-"m": [
-[
-"2022-03-11",
-"2023-03-06",
-"Independientes"
-],
-[
-"2023-03-07",
-"2026-03-10",
-"Partido Acción Humanista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Acción Humanista"
-]
-],
+"idCamara": "1538",
+"m": [],
 "n": "Ana María Gazmuri Vieira",
 "partidoActual": "PAH",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1131": {
 "corto": "Mauro González",
 "dist": 26,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1540",
+"m": [],
 "n": "Mauro González Villarroel",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1132": {
 "corto": "Jorge Guzmán",
 "dist": 17,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Evolución Política"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Evolución Política"
-]
-],
+"idCamara": "1542",
+"m": [],
 "n": "Jorge Guzmán Zepeda",
 "partidoActual": "EVOP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1133": {
 "corto": "Juan Irarrázaval",
 "dist": 14,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1547",
+"m": [],
 "n": "Juan Irarrázaval Rossel",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1140": {
 "corto": "Daniel Lilayu",
 "dist": 25,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1556",
+"m": [],
 "n": "Daniel Lilayu Vivanco",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1141": {
 "corto": "Luis Malla",
 "dist": 1,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Liberal de Chile"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Liberal de Chile"
-]
-],
+"idCamara": "1559",
+"m": [],
 "n": "Luis Malla Valenzuela",
 "partidoActual": "PL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1142": {
 "corto": "Daniel Manouchehri",
 "dist": 5,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1560",
+"m": [],
 "n": "Daniel Manouchehri Lobos",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1143": {
 "corto": "Cristóbal Martínez",
 "dist": 19,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1562",
+"m": [],
 "n": "Cristóbal Martínez Ramírez",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1146": {
 "corto": "José Carlos Meza",
 "dist": 9,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1565",
+"m": [],
 "n": "José Carlos Meza Pereira",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1148": {
 "corto": "Javiera Morales",
 "dist": 28,
-"m": [
-[
-"2022-03-11",
-"2022-04-11",
-"Independientes"
-],
-[
-"2022-04-12",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1568",
+"m": [],
 "n": "Javiera Morales Alvarado",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1150": {
 "corto": "Benjamín Moreno",
 "dist": 17,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1569",
+"m": [],
 "n": "Benjamín Moreno Bascur",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1152": {
 "corto": "Gloria Naveillan",
 "dist": 22,
-"m": [
-[
-"2022-03-11",
-"2022-09-06",
-"Partido Republicano"
-],
-[
-"2022-09-07",
-"2025-06-29",
-"Independientes"
-],
-[
-"2025-06-30",
-"2026-03-10",
-"Partido Nacional Libertario"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1577",
+"m": [],
 "n": "Gloria Naveillan Arriagada",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1153": {
 "corto": "Coca Ericka Ñanco",
 "dist": 23,
-"m": [
-[
-"2022-03-11",
-"2024-07-02",
-"Revolución Democrática"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1575",
+"m": [],
 "n": "Coca Ericka Ñanco Vásquez",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1157": {
 "corto": "Marlene Pérez",
 "dist": 20,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1593",
+"m": [],
 "n": "Marlene Pérez Cartes",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1159": {
 "corto": "Lorena Pizarro",
 "dist": 13,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Comunista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1592",
+"m": [],
 "n": "Lorena Pizarro Sierra",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1165": {
 "corto": "Agustín Romero",
 "dist": 8,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1602",
+"m": [],
 "n": "Agustín Romero Leiva",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1166": {
 "corto": "Natalia Romero",
 "dist": 15,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1603",
+"m": [],
 "n": "Natalia Romero Talguia",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1170": {
 "corto": "Luis Sánchez",
 "dist": 7,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1617",
+"m": [],
 "n": "Luis Sánchez Ossa",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1171": {
 "corto": "Emilia Schneider",
 "dist": 10,
-"m": [
-[
-"2022-03-11",
-"2023-01-17",
-"Partido Comunes"
-],
-[
-"2023-01-18",
-"2024-07-02",
-"Partido Convergencia Social"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1611",
+"m": [],
 "n": "Emilia Schneider Videla",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1172": {
 "corto": "Stephan Schubert",
 "dist": 23,
-"m": [
-[
-"2022-03-11",
-"2025-08-03",
-"Independientes"
-],
-[
-"2025-08-04",
-"2026-03-10",
-"Partido Republicano"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1613",
+"m": [],
 "n": "Stephan Schubert Rubio",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1173": {
 "corto": "Daniela Serrano",
 "dist": 12,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Comunista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1614",
+"m": [],
 "n": "Daniela Serrano Salazar",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1174": {
 "corto": "Marco Antonio Sulantay",
 "dist": 5,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1616",
+"m": [],
 "n": "Marco Antonio Sulantay Olivares",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1175": {
 "corto": "Cristián Tapia",
 "dist": 4,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1618",
+"m": [],
 "n": "Cristián Tapia Ramos",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1176": {
 "corto": "Hotuiti Teao",
 "dist": 7,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1619",
+"m": [],
 "n": "Hotuiti Teao Drago",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1177": {
 "corto": "Carolina Tello",
 "dist": 5,
-"m": [
-[
-"2022-03-11",
-"2024-05-13",
-"Partido Comunista"
-],
-[
-"2024-05-14",
-"2024-07-02",
-"Independientes"
-],
-[
-"2024-07-03",
-"2026-03-10",
-"Frente Amplio"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1620",
+"m": [],
 "n": "Carolina Tello Rojas",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1178": {
 "corto": "Héctor Ulloa",
 "dist": 26,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1622",
+"m": [],
 "n": "Héctor Ulloa Aguilera",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1180": {
 "corto": "Consuelo Veloso",
 "dist": 18,
-"m": [
-[
-"2022-03-11",
-"2024-05-30",
-"Revolución Democrática"
-],
-[
-"2024-05-31",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1632",
+"m": [],
 "n": "Consuelo Veloso Ávila",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1181": {
 "corto": "Nelson Venegas",
 "dist": 6,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Partido Socialista"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1633",
+"m": [],
 "n": "Nelson Venegas Salazar",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1182": {
 "corto": "Sebastián Videla",
 "dist": 3,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1636",
+"m": [],
 "n": "Sebastián Videla Castillo",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1183": {
 "corto": "Flor Weisse",
 "dist": 21,
-"m": [
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1637",
+"m": [],
 "n": "Flor Weisse Novoa",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1184": {
 "corto": "Roberto Celedón",
 "dist": 17,
-"m": [
-[
-"2025-01-08",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1516",
+"m": [],
 "n": "Roberto Celedón Fernández",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1186": {
 "corto": "Ignacio Achurra",
 "dist": 14,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1487",
+"m": [],
 "n": "Ignacio Achurra Díaz",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1187": {
 "corto": "Carlo Arqueros",
 "dist": 3,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1492",
+"m": [],
 "n": "Carlo Arqueros Pizarro",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1188": {
 "corto": "Marcos Barraza",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1495",
+"m": [],
 "n": "Marcos Barraza Gómez",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1189": {
 "corto": "Jaime Bassa",
 "dist": 7,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1498",
+"m": [],
 "n": "Jaime Bassa Mercado",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1190": {
 "corto": "Enrique Bassaletti",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1499",
+"m": [],
 "n": "Enrique Bassaletti Riess",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1191": {
 "corto": "Valentina Becerra",
 "dist": 13,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1500",
+"m": [],
 "n": "Valentina Becerra Peña",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1192": {
 "corto": "Lilian Betancurt",
 "dist": 21,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1504",
+"m": [],
 "n": "Lilian Betancurt Delgado",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1193": {
 "corto": "Patricio Briones",
 "dist": 20,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1507",
+"m": [],
 "n": "Patricio Briones Moller",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1194": {
 "corto": "Daniel Bustos",
 "dist": 18,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1510",
+"m": [],
 "n": "Daniel Bustos Leal",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1195": {
 "corto": "Carlos Carvajal",
 "dist": 2,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1513",
+"m": [],
 "n": "Carlos Carvajal Gallardo",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1196": {
 "corto": "Priscilla Castillo",
 "dist": 17,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1514",
+"m": [],
 "n": "Priscilla Castillo Gerli",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1197": {
 "corto": "Carlos Chandía",
 "dist": 19,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1518",
+"m": [],
 "n": "Carlos Chandía Alarcón",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1198": {
 "corto": "Paz Charpentier",
 "dist": 20,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1519",
+"m": [],
 "n": "Paz Charpentier Rajcevich",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1199": {
 "corto": "Jaime Coloma",
 "dist": 14,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1520",
+"m": [],
 "n": "Jaime Coloma Álamos",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1200": {
 "corto": "Cristian Contreras",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1522",
+"m": [],
 "n": "Cristian Contreras Radovic",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1201": {
 "corto": "Flor Contreras",
 "dist": 23,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1523",
+"m": [],
 "n": "Flor Contreras Vivallo",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1202": {
 "corto": "Eduardo Cretton",
 "dist": 22,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1524",
+"m": [],
 "n": "Eduardo Cretton Rebolledo",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1203": {
 "corto": "Sebastián Cristoffanini",
 "dist": 16,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1525",
+"m": [],
 "n": "Sebastián Cristoffanini Jaraquemada",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1204": {
 "corto": "Francisco Crisóstomo",
 "dist": 19,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1526",
+"m": [],
 "n": "Francisco Crisóstomo Llanos",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1205": {
 "corto": "Carlos Cuadrado",
 "dist": 9,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Por la Democracia"
-]
-],
+"idCamara": "1527",
+"m": [],
 "n": "Carlos Cuadrado Prats",
 "partidoActual": "PPD",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1206": {
 "corto": "Carolina Cucumides",
 "dist": 16,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1528",
+"m": [],
 "n": "Carolina Cucumides Calderón",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1207": {
 "corto": "Valentina Cáceres",
 "dist": 15,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1530",
+"m": [],
 "n": "Valentina Cáceres Monsálvez",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1208": {
 "corto": "Jorge Díaz",
 "dist": 1,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1533",
+"m": [],
 "n": "Jorge Díaz Ibarra",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1209": {
 "corto": "Matías Fernández",
 "dist": 24,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1534",
+"m": [],
 "n": "Matías Fernández Hartwig",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1210": {
 "corto": "Gustavo Gatica",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1537",
+"m": [],
 "n": "Gustavo Gatica Villarroel",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1211": {
 "corto": "Sofía González",
 "dist": 6,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1539",
+"m": [],
 "n": "Sofía González Cortés",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1212": {
 "corto": "Erich Grohs",
 "dist": 5,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1541",
+"m": [],
 "n": "Erich Grohs Marín",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1213": {
 "corto": "Irací Hassler",
 "dist": 10,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Comunista"
-]
-],
+"idCamara": "1543",
+"m": [],
 "n": "Irací Hassler Jacob",
 "partidoActual": "PC",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1214": {
 "corto": "Constanza Hube",
 "dist": 11,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1545",
+"m": [],
 "n": "Constanza Hube Portus",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1215": {
 "corto": "Álvaro Jofré",
 "dist": 2,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1549",
+"m": [],
 "n": "Álvaro Jofré Cáceres",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1216": {
 "corto": "Stephanie Jéldrez",
 "dist": 1,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1550",
+"m": [],
 "n": "Stephanie Jéldrez Ortiz",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1217": {
 "corto": "Pier Karlezi",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1551",
+"m": [],
 "n": "Pier Karlezi Hazleby",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1218": {
 "corto": "José Antonio Kast",
 "dist": 10,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1552",
+"m": [],
 "n": "José Antonio Kast Adriasola",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1219": {
 "corto": "Tomás Kast",
 "dist": 23,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Evolución Política"
-]
-],
+"idCamara": "1553",
+"m": [],
 "n": "Tomás Kast Sommerhoff",
 "partidoActual": "EVOP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1220": {
 "corto": "Leandro Kunstmann",
 "dist": 24,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1554",
+"m": [],
 "n": "Leandro Kunstmann Collado",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1221": {
 "corto": "Benjamín Lorca",
 "dist": 6,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1557",
+"m": [],
 "n": "Benjamín Lorca Inzunza",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1222": {
 "corto": "Andrea Macías",
 "dist": 27,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1558",
+"m": [],
 "n": "Andrea Macías Palma",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1223": {
 "corto": "Hans Marowski",
 "dist": 10,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1561",
+"m": [],
 "n": "Hans Marowski Cuevas",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1224": {
 "corto": "Cristian Mella",
 "dist": 6,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1563",
+"m": [],
 "n": "Cristian Mella Andaur",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1225": {
 "corto": "Cristian Menchaca",
 "dist": 18,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1564",
+"m": [],
 "n": "Cristian Menchaca Pinochet",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1226": {
 "corto": "José Montalva",
 "dist": 23,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1566",
+"m": [],
 "n": "José Montalva Feuerhake",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1227": {
 "corto": "Claudia Mora",
 "dist": 11,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1567",
+"m": [],
 "n": "Claudia Mora Vega",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1228": {
 "corto": "Paulina Muñoz",
 "dist": 25,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1572",
+"m": [],
 "n": "Paulina Muñoz Minte",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1229": {
 "corto": "Javier Muñoz",
 "dist": 17,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1573",
+"m": [],
 "n": "Javier Muñoz Riquelme",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1230": {
 "corto": "Alex Nahuelquin",
 "dist": 26,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1574",
+"m": [],
 "n": "Alex Nahuelquin Nahuelquin",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1231": {
 "corto": "Ximena Naranjo",
 "dist": 2,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1576",
+"m": [],
 "n": "Ximena Naranjo Pinto",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1232": {
 "corto": "Cristian Neira",
 "dist": 23,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1578",
+"m": [],
 "n": "Cristian Neira Martínez",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1233": {
 "corto": "Ricardo Neumann",
 "dist": 16,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1579",
+"m": [],
 "n": "Ricardo Neumann Bertín",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1234": {
 "corto": "Mario Olavarría",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1581",
+"m": [],
 "n": "Mario Olavarría Rodríguez",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1235": {
 "corto": "Javier Olivares",
 "dist": 6,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1582",
+"m": [],
 "n": "Javier Olivares Avendaño",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1236": {
 "corto": "Paula Olmos",
 "dist": 4,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1583",
+"m": [],
 "n": "Paula Olmos Contreras",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1237": {
 "corto": "Francisco Orrego",
 "dist": 10,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1584",
+"m": [],
 "n": "Francisco Orrego Gutiérrez",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1238": {
 "corto": "Álvaro Ortiz",
 "dist": 20,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1585",
+"m": [],
 "n": "Álvaro Ortiz Vera",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1239": {
 "corto": "Fabián Ossandón",
 "dist": 3,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1586",
+"m": [],
 "n": "Fabián Ossandón Briceño",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1240": {
 "corto": "Zandra Parisi",
 "dist": 12,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1589",
+"m": [],
 "n": "Zandra Parisi Fernández",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1241": {
 "corto": "Patricio Pinilla",
 "dist": 21,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Demócrata Cristiano"
-]
-],
+"idCamara": "1591",
+"m": [],
 "n": "Patricio Pinilla Valencia",
 "partidoActual": "DC",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1242": {
 "corto": "Rodrigo Ramírez",
 "dist": 18,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1596",
+"m": [],
 "n": "Rodrigo Ramírez Parra",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1243": {
 "corto": "Tamara Ramírez",
 "dist": 9,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1597",
+"m": [],
 "n": "Tamara Ramírez Ramírez",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1244": {
 "corto": "Claudia Reyes",
 "dist": 26,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1598",
+"m": [],
 "n": "Claudia Reyes Larenas",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1245": {
 "corto": "Alejandro Riquelme",
 "dist": 28,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1599",
+"m": [],
 "n": "Alejandro Riquelme Ducci",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1246": {
 "corto": "José Antonio Rivas",
 "dist": 20,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1600",
+"m": [],
 "n": "José Antonio Rivas Villalobos",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1247": {
 "corto": "Javiera Rodríguez",
 "dist": 9,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1601",
+"m": [],
 "n": "Javiera Rodríguez Pascual",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1248": {
 "corto": "Felipe Ross",
 "dist": 13,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1604",
+"m": [],
 "n": "Felipe Ross Correa",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1249": {
 "corto": "Omar Sabat",
 "dist": 24,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1605",
+"m": [],
 "n": "Omar Sabat Guzmán",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1250": {
 "corto": "Bernardo Salinas",
 "dist": 5,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1606",
+"m": [],
 "n": "Bernardo Salinas Maya",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1251": {
 "corto": "Macarena Santelices",
 "dist": 12,
-"m": [
-[
-"2026-03-11",
-"2026-10-19",
-"Partido Republicano"
-],
-[
-"2026-10-20",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1608",
+"m": [],
 "n": "Macarena Santelices Cañas",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1252": {
 "corto": "Constanza Schonhaut",
 "dist": 11,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1612",
+"m": [],
 "n": "Constanza Schonhaut Soto",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1253": {
 "corto": "Fernando Ugarte",
 "dist": 15,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1621",
+"m": [],
 "n": "Fernando Ugarte Tejeda",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1254": {
 "corto": "Ignacio Urcullú",
 "dist": 4,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1623",
+"m": [],
 "n": "Ignacio Urcullú Clèment-Lund",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1255": {
 "corto": "Eileen Urqueta",
 "dist": 5,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1624",
+"m": [],
 "n": "Eileen Urqueta Rojas",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1256": {
 "corto": "Tatiana Urrutia",
 "dist": 8,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Frente Amplio"
-]
-],
+"idCamara": "1625",
+"m": [],
 "n": "Tatiana Urrutia Herrera",
 "partidoActual": "FA",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1257": {
 "corto": "Alejandra Valdebenito",
 "dist": 27,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1627",
+"m": [],
 "n": "Alejandra Valdebenito Torres",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 },
 "1258": {
 "corto": "Guillermo Valdés",
 "dist": 17,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1628",
+"m": [],
 "n": "Guillermo Valdés Carmona",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1259": {
 "corto": "Juan Marcelo Valenzuela",
 "dist": 7,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido de la Gente"
-]
-],
+"idCamara": "1629",
+"m": [],
 "n": "Juan Marcelo Valenzuela Henríquez",
 "partidoActual": "PDG",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1260": {
 "corto": "César Valenzuela",
 "dist": 9,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Socialista"
-]
-],
+"idCamara": "1630",
+"m": [],
 "n": "César Valenzuela Maass",
 "partidoActual": "PS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1261": {
 "corto": "Daniel Valenzuela",
 "dist": 24,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1631",
+"m": [],
 "n": "Daniel Valenzuela Salazar",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1262": {
 "corto": "Diego Vergara",
 "dist": 14,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Republicano"
-]
-],
+"idCamara": "1635",
+"m": [],
 "n": "Diego Vergara Rodríguez",
 "partidoActual": "PREP",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1263": {
 "corto": "Sebastián Zamora",
 "dist": 7,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1640",
+"m": [],
 "n": "Sebastián Zamora Soto",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "1264": {
 "corto": "Fernando Zamorano",
 "dist": 15,
-"m": [
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Por la Democracia"
-]
-],
+"idCamara": "1641",
+"m": [],
 "n": "Fernando Zamorano Peralta",
 "partidoActual": "PPD",
 "reg": "",
-"sexo": "M",
-"vigente": false
-},
-"1487": {
-"corto": "IGNACIO JAIME ACHURRA",
-"m": [],
-"n": "IGNACIO JAIME ACHURRA DIAZ",
-"sexo": "M",
-"vigente": true
-},
-"1488": {
-"corto": "JORGE ALESSANDRI",
-"m": [],
-"n": "JORGE ALESSANDRI VERGARA",
-"sexo": "M",
-"vigente": true
-},
-"1489": {
-"corto": "RENÉ ALINCO",
-"m": [],
-"n": "RENÉ ALINCO BUSTOS",
-"sexo": "M",
-"vigente": true
-},
-"1490": {
-"corto": "JAIME RAFAEL RICARDO ARAYA",
-"m": [],
-"n": "JAIME RAFAEL RICARDO ARAYA GUERRERO",
-"sexo": "M",
-"vigente": true
-},
-"1491": {
-"corto": "CRISTIÁN ARAYA",
-"m": [],
-"n": "CRISTIÁN ARAYA LERDO DE TEJADA",
-"sexo": "M",
-"vigente": true
-},
-"1492": {
-"corto": "CARLO ARQUEROS",
-"m": [],
-"n": "CARLO ALEJANDRO ANTONIO ARQUEROS PIZARRO",
-"sexo": "M",
-"vigente": true
-},
-"1493": {
-"corto": "ROBERTO ARROYO",
-"m": [],
-"n": "ROBERTO ARROYO MUÑOZ",
-"sexo": "M",
-"vigente": true
-},
-"1494": {
-"corto": "CHIARA BARCHIESI",
-"m": [],
-"n": "CHIARA BARCHIESI CHÁVEZ",
-"sexo": "F",
-"vigente": true
-},
-"1495": {
-"corto": "MARCOS BARRAZA",
-"m": [],
-"n": "MARCOS PATRICIO BARRAZA GOMEZ",
-"sexo": "M",
-"vigente": true
-},
-"1496": {
-"corto": "BORIS BARRERA",
-"m": [],
-"n": "BORIS BARRERA MORENO",
-"sexo": "M",
-"vigente": true
-},
-"1497": {
-"corto": "HECTOR ALEJANDRO BARRÍA",
-"m": [],
-"n": "HECTOR ALEJANDRO BARRÍA ÁNGULO",
-"sexo": "M",
-"vigente": true
-},
-"1498": {
-"corto": "JAIME BASSA",
-"m": [],
-"n": "JAIME ANDRÉS BASSA MERCADO",
-"sexo": "M",
-"vigente": true
-},
-"1499": {
-"corto": "ENRIQUE BASSALETTI",
-"m": [],
-"n": "ENRIQUE ALEJANDRO BASSALETTI RIESS",
-"sexo": "M",
-"vigente": true
-},
-"1500": {
-"corto": "VALENTINA BECERRA",
-"m": [],
-"n": "VALENTINA JULIET BECERRA PEÑA",
-"sexo": "F",
-"vigente": true
-},
-"1501": {
-"corto": "MARIA FRANCISCA BELLO",
-"m": [],
-"n": "MARIA FRANCISCA BELLO CAMPOS",
-"sexo": "F",
-"vigente": true
-},
-"1502": {
-"corto": "JUAN CARLOS BELTRAN",
-"m": [],
-"n": "JUAN CARLOS BELTRAN SILVA",
-"sexo": "M",
-"vigente": true
-},
-"1503": {
-"corto": "ALEJANDRO BERNALES",
-"m": [],
-"n": "ALEJANDRO BERNALES MALDONADO",
-"sexo": "M",
-"vigente": true
-},
-"1504": {
-"corto": "LILIAN BETANCURT",
-"m": [],
-"n": "LILIAN ALEJANDRA BETANCURT DELGADO",
-"sexo": "F",
-"vigente": true
-},
-"1505": {
-"corto": "CARLOS BIANCHI",
-"m": [],
-"n": "CARLOS BIANCHI CHELECH",
-"sexo": "M",
-"vigente": true
-},
-"1506": {
-"corto": "SERGIO BOBADILLA",
-"m": [],
-"n": "SERGIO BOBADILLA MUÑOZ",
-"sexo": "M",
-"vigente": true
-},
-"1507": {
-"corto": "PATRICIO BRIONES",
-"m": [],
-"n": "PATRICIO ANTONIO BRIONES MOLLER",
-"sexo": "M",
-"vigente": true
-},
-"1508": {
-"corto": "JORGE BRITO",
-"m": [],
-"n": "JORGE BRITO HASBÚN",
-"sexo": "M",
-"vigente": true
-},
-"1509": {
-"corto": "FELIX ELLIOT BUGUEÑO",
-"m": [],
-"n": "FELIX ELLIOT BUGUEÑO SOTELO",
-"sexo": "M",
-"vigente": true
-},
-"1510": {
-"corto": "DANIEL BUSTOS",
-"m": [],
-"n": "DANIEL EDUARDO BUSTOS LEAL",
-"sexo": "M",
-"vigente": true
-},
-"1511": {
-"corto": "FELIPE CAMAÑO",
-"m": [],
-"n": "FELIPE CAMAÑO CÁRDENAS",
-"sexo": "M",
-"vigente": true
-},
-"1512": {
-"corto": "ÁLVARO CARTER",
-"m": [],
-"n": "ÁLVARO CARTER FERNÁNDEZ",
-"sexo": "M",
-"vigente": true
-},
-"1513": {
-"corto": "CARLOS CARVAJAL",
-"m": [],
-"n": "CARLOS JOSÉ CARVAJAL GALLARDO",
-"sexo": "M",
-"vigente": true
-},
-"1514": {
-"corto": "PRISCILLA CASTILLO",
-"m": [],
-"n": "PRISCILLA ELENA CASTILLO GERLI",
-"sexo": "F",
-"vigente": true
-},
-"1515": {
-"corto": "IRENE NATHALIE CASTILLO",
-"m": [],
-"n": "IRENE NATHALIE CASTILLO ROJAS",
-"sexo": "F",
-"vigente": true
-},
-"1516": {
-"corto": "Roberto Celedón",
-"m": [],
-"n": "Roberto Celedón Fernández",
-"sexo": "M",
-"vigente": true
-},
-"1517": {
-"corto": "ANDRÉS CELIS",
-"m": [],
-"n": "ANDRÉS CELIS MONTT",
-"sexo": "M",
-"vigente": true
-},
-"1518": {
-"corto": "CARLOS CHANDÍA",
-"m": [],
-"n": "CARLOS LUIS CHANDÍA ALARCÓN",
-"sexo": "M",
-"vigente": true
-},
-"1519": {
-"corto": "PAZ CHARPENTIER",
-"m": [],
-"n": "PAZ CHARPENTIER RAJCEVICH",
-"sexo": "F",
-"vigente": true
-},
-"1520": {
-"corto": "JAIME COLOMA",
-"m": [],
-"n": "JAIME COLOMA ÁLAMOS",
-"sexo": "M",
-"vigente": true
-},
-"1521": {
-"corto": "SARA CONCHA",
-"m": [],
-"n": "SARA CONCHA SMITH",
-"sexo": "F",
-"vigente": true
-},
-"1522": {
-"corto": "CRISTIAN CONTRERAS",
-"m": [],
-"n": "CRISTIAN ALEJANDRO CONTRERAS RADOVIC",
-"sexo": "M",
-"vigente": true
-},
-"1523": {
-"corto": "FLOR CONTRERAS",
-"m": [],
-"n": "FLOR ROSSANY CONTRERAS VIVALLO",
-"sexo": "F",
-"vigente": true
-},
-"1524": {
-"corto": "EDUARDO CRETTON",
-"m": [],
-"n": "EDUARDO ANDRÉS CRETTON REBOLLEDO",
-"sexo": "M",
-"vigente": true
-},
-"1525": {
-"corto": "SEBASTIÁN CRISTOFFANINI",
-"m": [],
-"n": "SEBASTIÁN CRISTOFFANINI JARAQUEMADA",
-"sexo": "M",
-"vigente": true
-},
-"1526": {
-"corto": "FRANCISCO CRISÓSTOMO",
-"m": [],
-"n": "FRANCISCO JAVIER CRISÓSTOMO LLANOS",
-"sexo": "M",
-"vigente": true
-},
-"1527": {
-"corto": "CARLOS CUADRADO",
-"m": [],
-"n": "CARLOS CÉSAR LUIS CUADRADO PRATS",
-"sexo": "M",
-"vigente": true
-},
-"1528": {
-"corto": "CAROLINA CUCUMIDES",
-"m": [],
-"n": "CAROLINA ELSA ICELA CUCUMIDES CALDERÓN",
-"sexo": "F",
-"vigente": true
-},
-"1529": {
-"corto": "LUIS ALBERTO CUELLO",
-"m": [],
-"n": "LUIS ALBERTO CUELLO PEÑA Y LILLO",
-"sexo": "M",
-"vigente": true
-},
-"1530": {
-"corto": "VALENTINA CÁCERES",
-"m": [],
-"n": "VALENTINA BELÉN CÁCERES MONSÁLVEZ",
-"sexo": "F",
-"vigente": true
-},
-"1531": {
-"corto": "CATALINA DEL REAL",
-"m": [],
-"n": "CATALINA DEL REAL MIHOVILOVIC",
-"sexo": "F",
-"vigente": true
-},
-"1532": {
-"corto": "EDUARDO DURÁN",
-"m": [],
-"n": "EDUARDO DURÁN SALINAS",
-"sexo": "M",
-"vigente": true
-},
-"1533": {
-"corto": "JORGE DÍAZ",
-"m": [],
-"n": "JORGE ELÍAS GREGORIO DÍAZ IBARRA",
-"sexo": "M",
-"vigente": true
-},
-"1534": {
-"corto": "MATÍAS FERNÁNDEZ",
-"m": [],
-"n": "MATÍAS JOSÉ FERNÁNDEZ HARTWIG",
-"sexo": "M",
-"vigente": true
-},
-"1535": {
-"corto": "LORENA FRIES",
-"m": [],
-"n": "LORENA FRIES MONLEÓN",
-"sexo": "F",
-"vigente": true
-},
-"1536": {
-"corto": "RENÉ MANUEL GARCÍA",
-"m": [],
-"n": "RENÉ MANUEL GARCÍA GARCÍA",
-"sexo": "M",
-"vigente": true
-},
-"1537": {
-"corto": "GUSTAVO GATICA",
-"m": [],
-"n": "GUSTAVO ADOLFO GATICA VILLARROEL",
-"sexo": "M",
-"vigente": true
-},
-"1538": {
-"corto": "ANA MARÍA GAZMURI",
-"m": [],
-"n": "ANA MARÍA GAZMURI VIEIRA",
-"sexo": "F",
-"vigente": true
-},
-"1539": {
-"corto": "SOFÍA GONZÁLEZ",
-"m": [],
-"n": "SOFÍA ALEJANDRA GONZÁLEZ CORTÉS",
-"sexo": "F",
-"vigente": true
-},
-"1540": {
-"corto": "MAURO GONZÁLEZ",
-"m": [],
-"n": "MAURO GONZÁLEZ VILLARROEL",
-"sexo": "M",
-"vigente": true
-},
-"1541": {
-"corto": "ERICH GROHS",
-"m": [],
-"n": "ERICH CHRIST GROHS MARÍN",
-"sexo": "M",
-"vigente": true
-},
-"1542": {
-"corto": "JORGE GUZMÁN",
-"m": [],
-"n": "JORGE GUZMÁN ZEPEDA",
-"sexo": "M",
-"vigente": true
-},
-"1543": {
-"corto": "IRACÍ HASSLER",
-"m": [],
-"n": "IRACÍ LUIZA HASSLER JACOB",
-"sexo": "F",
-"vigente": true
-},
-"1544": {
-"corto": "MARCELA HERNANDO",
-"m": [],
-"n": "MARCELA HERNANDO PÉREZ",
-"sexo": "F",
-"vigente": true
-},
-"1545": {
-"corto": "CONSTANZA HUBE",
-"m": [],
-"n": "CONSTANZA VERÓNICA HUBE PORTUS",
-"sexo": "F",
-"vigente": true
-},
-"1546": {
-"corto": "MARCOS ILABACA",
-"m": [],
-"n": "MARCOS ILABACA CERDA",
-"sexo": "M",
-"vigente": true
-},
-"1547": {
-"corto": "JUAN IRARRÁZAVAL",
-"m": [],
-"n": "JUAN IRARRÁZAVAL ROSSEL",
-"sexo": "M",
-"vigente": true
-},
-"1548": {
-"corto": "PAMELA JILES",
-"m": [],
-"n": "PAMELA JILES MORENO",
-"sexo": "F",
-"vigente": true
-},
-"1549": {
-"corto": "ALVARO ARTURO JOFRÉ",
-"m": [],
-"n": "ALVARO ARTURO JOFRÉ CACERES",
-"sexo": "M",
-"vigente": true
-},
-"1550": {
-"corto": "STEPHANIE JÉLDREZ",
-"m": [],
-"n": "STEPHANIE JÉLDREZ ORTIZ",
-"sexo": "F",
-"vigente": true
-},
-"1551": {
-"corto": "PIER KARLEZI",
-"m": [],
-"n": "PIER GIUSEPPE KARLEZI HAZLEBY",
-"sexo": "M",
-"vigente": true
-},
-"1552": {
-"corto": "JOSÉ ANTONIO KAST",
-"m": [],
-"n": "JOSÉ ANTONIO KAST ADRIASOLA",
-"sexo": "M",
-"vigente": true
-},
-"1553": {
-"corto": "TOMÁS KAST",
-"m": [],
-"n": "TOMÁS WALTER RAFAEL KAST SOMMERHOFF",
-"sexo": "M",
-"vigente": true
-},
-"1554": {
-"corto": "LEANDRO KUNSTMANN",
-"m": [],
-"n": "LEANDRO JORGE KUNSTMANN COLLADO",
-"sexo": "M",
-"vigente": true
-},
-"1555": {
-"corto": "RAÚL LEIVA",
-"m": [],
-"n": "RAÚL LEIVA CARVAJAL",
-"sexo": "M",
-"vigente": true
-},
-"1556": {
-"corto": "DANIEL LILAYU",
-"m": [],
-"n": "DANIEL LILAYU VIVANCO",
-"sexo": "M",
-"vigente": true
-},
-"1557": {
-"corto": "BENJAMÍN LORCA",
-"m": [],
-"n": "BENJAMÍN ISRAEL LORCA INZUNZA",
-"sexo": "M",
-"vigente": true
-},
-"1558": {
-"corto": "ANDREA MACÍAS",
-"m": [],
-"n": "ANDREA JACQUELINE MACÍAS PALMA",
-"sexo": "F",
-"vigente": true
-},
-"1559": {
-"corto": "LUIS MALLA",
-"m": [],
-"n": "LUIS MALLA VALENZUELA",
-"sexo": "M",
-"vigente": true
-},
-"1560": {
-"corto": "DANIEL MANOUCHEHRI",
-"m": [],
-"n": "DANIEL MANOUCHEHRI LOBOS",
-"sexo": "M",
-"vigente": true
-},
-"1561": {
-"corto": "HANS ALBERTO MAROWSKI",
-"m": [],
-"n": "HANS ALBERTO MAROWSKI CUEVAS",
-"sexo": "M",
-"vigente": true
-},
-"1562": {
-"corto": "CRISTÓBAL MARTÍNEZ",
-"m": [],
-"n": "CRISTÓBAL MARTÍNEZ RAMÍREZ",
-"sexo": "M",
-"vigente": true
-},
-"1563": {
-"corto": "CRISTIAN MELLA",
-"m": [],
-"n": "CRISTIAN ANDRÉS MELLA ANDAUR",
-"sexo": "M",
-"vigente": true
-},
-"1564": {
-"corto": "CRISTIAN MENCHACA",
-"m": [],
-"n": "CRISTIAN ENRIQUE MENCHACA PINOCHET",
-"sexo": "M",
-"vigente": true
-},
-"1565": {
-"corto": "JOSE CARLOS MEZA",
-"m": [],
-"n": "JOSE CARLOS MEZA PEREIRA",
-"sexo": "M",
-"vigente": true
-},
-"1566": {
-"corto": "JOSÉ MONTALVA",
-"m": [],
-"n": "JOSÉ FRANCISCO JUAN DIEGO MONTALVA FEUERHAKE",
-"sexo": "M",
-"vigente": true
-},
-"1567": {
-"corto": "CLAUDIA MORA",
-"m": [],
-"n": "CLAUDIA PATRICIA MORA VEGA",
-"sexo": "F",
-"vigente": true
-},
-"1568": {
-"corto": "JAVIERA MORALES",
-"m": [],
-"n": "JAVIERA MORALES ALVARADO",
-"sexo": "F",
-"vigente": true
-},
-"1569": {
-"corto": "BENJAMÍN MORENO",
-"m": [],
-"n": "BENJAMÍN MORENO BASCUR",
-"sexo": "M",
-"vigente": true
-},
-"1570": {
-"corto": "JAIME MULET",
-"m": [],
-"n": "JAIME MULET MARTÍNEZ",
-"sexo": "M",
-"vigente": true
-},
-"1571": {
-"corto": "FRANCESCA MUÑOZ",
-"m": [],
-"n": "FRANCESCA MUÑOZ GONZÁLEZ",
-"sexo": "F",
-"vigente": true
-},
-"1572": {
-"corto": "PAULINA MUÑOZ",
-"m": [],
-"n": "PAULINA ANDREA MUÑOZ MINTE",
-"sexo": "F",
-"vigente": true
-},
-"1573": {
-"corto": "JAVIER MUÑOZ",
-"m": [],
-"n": "JAVIER ANTONIO MUÑOZ RIQUELME",
-"sexo": "M",
-"vigente": true
-},
-"1574": {
-"corto": "ALEX NAHUELQUIN",
-"m": [],
-"n": "ALEX MANUEL NAHUELQUIN NAHUELQUIN",
-"sexo": "M",
-"vigente": true
-},
-"1575": {
-"corto": "COCA ÑANCO",
-"m": [],
-"n": "COCA ERICKA ÑANCO VÁSQUEZ",
-"sexo": "F",
-"vigente": true
-},
-"1576": {
-"corto": "XIMENA NARANJO",
-"m": [],
-"n": "XIMENA ANDREA NARANJO PINTO",
-"sexo": "F",
-"vigente": true
-},
-"1577": {
-"corto": "GLORIA NAVEILLAN",
-"m": [],
-"n": "GLORIA NAVEILLAN ARRIAGADA",
-"sexo": "F",
-"vigente": true
-},
-"1578": {
-"corto": "CRISTIAN NEIRA",
-"m": [],
-"n": "CRISTIAN ANDRÉS NEIRA MARTÍNEZ",
-"sexo": "M",
-"vigente": true
-},
-"1579": {
-"corto": "RICARDO NEUMANN",
-"m": [],
-"n": "RICARDO ANDRÉS NEUMANN BERTÍN",
-"sexo": "M",
-"vigente": true
-},
-"1580": {
-"corto": "EMILIA NUYADO",
-"m": [],
-"n": "EMILIA NUYADO ANCAPICHÚN",
-"sexo": "F",
-"vigente": true
-},
-"1581": {
-"corto": "MARIO OLAVARRÍA",
-"m": [],
-"n": "MARIO ANTONIO OLAVARRÍA RODRÍGUEZ",
-"sexo": "M",
-"vigente": true
-},
-"1582": {
-"corto": "JAVIER OLIVARES",
-"m": [],
-"n": "JAVIER IGNACIO OLIVARES AVENDAÑO",
-"sexo": "M",
-"vigente": true
-},
-"1583": {
-"corto": "PAULA OLMOS",
-"m": [],
-"n": "PAULA ANDREA OLMOS CONTRERAS",
-"sexo": "F",
-"vigente": true
-},
-"1584": {
-"corto": "FRANCISCO ORREGO",
-"m": [],
-"n": "FRANCISCO JAVIER ORREGO GUTIÉRREZ",
-"sexo": "M",
-"vigente": true
-},
-"1585": {
-"corto": "ÁLVARO ORTIZ",
-"m": [],
-"n": "ÁLVARO ÁNDRÉS ORTIZ VERA",
-"sexo": "M",
-"vigente": true
-},
-"1586": {
-"corto": "FABIÁN OSSANDÓN",
-"m": [],
-"n": "FABIÁN MAURICIO OSSANDÓN BRICEÑO",
-"sexo": "M",
-"vigente": true
-},
-"1587": {
-"corto": "XIMENA OSSANDÓN",
-"m": [],
-"n": "XIMENA OSSANDÓN IRARRÁZABAL",
-"sexo": "F",
-"vigente": true
-},
-"1588": {
-"corto": "LUIS PARDO",
-"m": [],
-"n": "LUIS PARDO SÁINZ",
-"sexo": "M",
-"vigente": true
-},
-"1589": {
-"corto": "ZANDRA PARISI",
-"m": [],
-"n": "ZANDRA ESTHER PARISI FERNÁNDEZ",
-"sexo": "F",
-"vigente": true
-},
-"1590": {
-"corto": "ANDREA PARRA",
-"m": [],
-"n": "ANDREA PARRA SAUTEREL",
-"sexo": "F",
-"vigente": true
-},
-"1591": {
-"corto": "PATRICIO PINILLA",
-"m": [],
-"n": "PATRICIO ALFONSO PINILLA VALENCIA",
-"sexo": "M",
-"vigente": true
-},
-"1592": {
-"corto": "LORENA PIZARRO",
-"m": [],
-"n": "LORENA PIZARRO SIERRA",
-"sexo": "F",
-"vigente": true
-},
-"1593": {
-"corto": "MARLENE PÉREZ",
-"m": [],
-"n": "MARLENE PÉREZ CARTES",
-"sexo": "F",
-"vigente": true
-},
-"1594": {
-"corto": "JOANNA PÉREZ",
-"m": [],
-"n": "JOANNA PÉREZ OLEA",
-"sexo": "F",
-"vigente": true
-},
-"1595": {
-"corto": "GUILLERMO RAMÍREZ",
-"m": [],
-"n": "GUILLERMO RAMÍREZ DIEZ",
-"sexo": "M",
-"vigente": true
-},
-"1596": {
-"corto": "RODRIGO RAMÍREZ",
-"m": [],
-"n": "RODRIGO ALBERTO RAMÍREZ PARRA",
-"sexo": "M",
-"vigente": true
-},
-"1597": {
-"corto": "TAMARA RAMÍREZ",
-"m": [],
-"n": "TAMARA ALEJANDRA RAMÍREZ RAMÍREZ",
-"sexo": "F",
-"vigente": true
-},
-"1598": {
-"corto": "CLAUDIA REYES",
-"m": [],
-"n": "CLAUDIA ELENA REYES LARENAS",
-"sexo": "F",
-"vigente": true
-},
-"1599": {
-"corto": "ALEJANDRO RIQUELME",
-"m": [],
-"n": "ALEJANDRO GABRIEL RIQUELME DUCCI",
-"sexo": "M",
-"vigente": true
-},
-"1600": {
-"corto": "JOSÉ ANTONIO RIVAS",
-"m": [],
-"n": "JOSÉ ANTONIO RIVAS VILLALOBOS",
-"sexo": "M",
-"vigente": true
-},
-"1601": {
-"corto": "JAVIERA VALENTINA RODRÍGUEZ",
-"m": [],
-"n": "JAVIERA VALENTINA RODRÍGUEZ PASCUAL",
-"sexo": "F",
-"vigente": true
-},
-"1602": {
-"corto": "AGUSTÍN ROMERO",
-"m": [],
-"n": "AGUSTÍN ROMERO LEIVA",
-"sexo": "M",
-"vigente": true
-},
-"1603": {
-"corto": "NATALIA ANGELICA ROMERO",
-"m": [],
-"n": "NATALIA ANGELICA ROMERO TALGUIA",
-"sexo": "F",
-"vigente": true
-},
-"1604": {
-"corto": "FELIPE ROSS",
-"m": [],
-"n": "FELIPE ROSS CORREA",
-"sexo": "M",
-"vigente": true
-},
-"1605": {
-"corto": "OMAR SABAT",
-"m": [],
-"n": "OMAR RASHID SABAT GUZMÁN",
-"sexo": "M",
-"vigente": true
-},
-"1606": {
-"corto": "BERNARDO SALINAS",
-"m": [],
-"n": "BERNARDO ANTONIO SALINAS MAYA",
-"sexo": "M",
-"vigente": true
-},
-"1607": {
-"corto": "JUAN SANTANA",
-"m": [],
-"n": "JUAN SANTANA CASTILLO",
-"sexo": "M",
-"vigente": true
-},
-"1608": {
-"corto": "MACARENA SANTELICES",
-"m": [],
-"n": "MACARENA EUGENIA SANTELICES CAÑAS",
-"sexo": "F",
-"vigente": true
-},
-"1609": {
-"corto": "MARISELA SANTIBÁÑEZ",
-"m": [],
-"n": "MARISELA SANTIBÁÑEZ NOVOA",
-"sexo": "F",
-"vigente": true
-},
-"1610": {
-"corto": "DIEGO SCHALPER",
-"m": [],
-"n": "DIEGO SCHALPER SEPÚLVEDA",
-"sexo": "M",
-"vigente": true
-},
-"1611": {
-"corto": "EMILIA SCHNEIDER",
-"m": [],
-"n": "EMILIA SCHNEIDER VIDELA",
-"sexo": "F",
-"vigente": true
-},
-"1612": {
-"corto": "CONSTANZA GABRIELA SCHONHAUT",
-"m": [],
-"n": "CONSTANZA GABRIELA SCHONHAUT SOTO",
-"sexo": "F",
-"vigente": true
-},
-"1613": {
-"corto": "STEPHAN SCHUBERT",
-"m": [],
-"n": "STEPHAN SCHUBERT RUBIO",
-"sexo": "M",
-"vigente": true
-},
-"1614": {
-"corto": "DANIELA SERRANO",
-"m": [],
-"n": "DANIELA SERRANO SALAZAR",
-"sexo": "F",
-"vigente": true
-},
-"1615": {
-"corto": "RAÚL SOTO",
-"m": [],
-"n": "RAÚL SOTO MARDONES",
-"sexo": "M",
-"vigente": true
-},
-"1616": {
-"corto": "MARCO ANTONIO SULANTAY",
-"m": [],
-"n": "MARCO ANTONIO SULANTAY OLIVARES",
-"sexo": "M",
-"vigente": true
-},
-"1617": {
-"corto": "LUIS SÁNCHEZ",
-"m": [],
-"n": "LUIS SÁNCHEZ OSSA",
-"sexo": "M",
-"vigente": true
-},
-"1618": {
-"corto": "CRISTIÁN TAPIA",
-"m": [],
-"n": "CRISTIÁN TAPIA RAMOS",
-"sexo": "M",
-"vigente": true
-},
-"1619": {
-"corto": "HOTUITI TEAO",
-"m": [],
-"n": "HOTUITI TEAO DRAGO",
-"sexo": "M",
-"vigente": true
-},
-"1620": {
-"corto": "CAROLINA TELLO",
-"m": [],
-"n": "CAROLINA TELLO ROJAS",
-"sexo": "F",
-"vigente": true
-},
-"1621": {
-"corto": "FERNANDO UGARTE",
-"m": [],
-"n": "FERNANDO UGARTE TEJEDA",
-"sexo": "M",
-"vigente": true
-},
-"1622": {
-"corto": "HÉCTOR ULLOA",
-"m": [],
-"n": "HÉCTOR ULLOA AGUILERA",
-"sexo": "M",
-"vigente": true
-},
-"1623": {
-"corto": "IGNACIO URCULLÚ",
-"m": [],
-"n": "IGNACIO JOSÉ URCULLÚ CLÈMENT-LUND",
-"sexo": "M",
-"vigente": true
-},
-"1624": {
-"corto": "EILEEN URQUETA",
-"m": [],
-"n": "EILEEN PATRICIA URQUETA ROJAS",
-"sexo": "F",
-"vigente": true
-},
-"1625": {
-"corto": "TATIANA KARINA URRUTIA",
-"m": [],
-"n": "TATIANA KARINA URRUTIA HERRERA",
-"sexo": "F",
-"vigente": true
-},
-"1626": {
-"corto": "CRISTÓBAL URRUTICOECHEA",
-"m": [],
-"n": "CRISTÓBAL URRUTICOECHEA RÍOS",
-"sexo": "M",
-"vigente": true
-},
-"1627": {
-"corto": "ALEJANDRA VALDEBENITO",
-"m": [],
-"n": "ALEJANDRA VALDEBENITO TORRES",
-"sexo": "F",
-"vigente": true
-},
-"1628": {
-"corto": "GUILLERMO VALDÉS",
-"m": [],
-"n": "GUILLERMO VICTORIANO VALDÉS CARMONA",
-"sexo": "M",
-"vigente": true
-},
-"1629": {
-"corto": "JUAN MARCELO VALENZUELA",
-"m": [],
-"n": "JUAN MARCELO VALENZUELA HENRIQUEZ",
-"sexo": "M",
-"vigente": true
-},
-"1630": {
-"corto": "CÉSAR VALENZUELA",
-"m": [],
-"n": "CÉSAR IGNACIO VALENZUELA MAASS",
-"sexo": "M",
-"vigente": true
-},
-"1631": {
-"corto": "DANIEL VALENZUELA",
-"m": [],
-"n": "DANIEL ELÍAS VALENZUELA SALAZAR",
-"sexo": "M",
-"vigente": true
-},
-"1632": {
-"corto": "CONSUELO VELOSO",
-"m": [],
-"n": "CONSUELO VELOSO ÁVILA",
-"sexo": "F",
-"vigente": true
-},
-"1633": {
-"corto": "NELSON VENEGAS",
-"m": [],
-"n": "NELSON VENEGAS SALAZAR",
-"sexo": "M",
-"vigente": true
-},
-"1634": {
-"corto": "Germán Verdugo",
-"m": [],
-"n": "Germán Verdugo Soto",
-"sexo": "M",
-"vigente": true
-},
-"1635": {
-"corto": "DIEGO VERGARA",
-"m": [],
-"n": "DIEGO ALFONSO VERGARA RODRÍGUEZ",
-"sexo": "M",
-"vigente": true
-},
-"1636": {
-"corto": "SEBASTIÁN VIDELA",
-"m": [],
-"n": "SEBASTIÁN VIDELA CASTILLO",
-"sexo": "M",
-"vigente": true
-},
-"1637": {
-"corto": "FLOR WEISSE",
-"m": [],
-"n": "FLOR WEISSE NOVOA",
-"sexo": "F",
-"vigente": true
-},
-"1638": {
-"corto": "GONZALO WINTER",
-"m": [],
-"n": "GONZALO WINTER ETCHEBERRY",
-"sexo": "M",
-"vigente": true
-},
-"1639": {
-"corto": "GAEL YEOMANS",
-"m": [],
-"n": "GAEL YEOMANS ARAYA",
-"sexo": "F",
-"vigente": true
-},
-"1640": {
-"corto": "SEBASTIÁN NICOLÁS ZAMORA",
-"m": [],
-"n": "SEBASTIÁN NICOLÁS ZAMORA SOTO",
-"sexo": "M",
-"vigente": true
-},
-"1641": {
-"corto": "FERNANDO ZAMORANO",
-"m": [],
-"n": "FERNANDO JORGE ZAMORANO PERALTA",
 "sexo": "M",
 "vigente": true
 },
 "803": {
 "corto": "René Alinco",
 "dist": 27,
-"m": [
-[
-"2006-03-11",
-"2010-03-10",
-"Partido Por la Democracia"
-],
-[
-"2010-03-11",
-"2014-03-10",
-"Independientes"
-],
-[
-"2018-03-11",
-"2022-03-10",
-"Independientes"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Independientes"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Independientes"
-]
-],
+"idCamara": "1489",
+"m": [],
 "n": "René Alinco Bustos",
 "partidoActual": "IND",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "815": {
 "corto": "Sergio Bobadilla",
 "dist": 20,
-"m": [
-[
-"2006-03-11",
-"2010-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2010-03-11",
-"2014-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2018-03-11",
-"2022-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Unión Demócrata Independiente"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Unión Demócrata Independiente"
-]
-],
+"idCamara": "1506",
+"m": [],
 "n": "Sergio Bobadilla Muñoz",
 "partidoActual": "UDI",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "843": {
 "corto": "René Manuel García",
 "dist": 23,
-"m": [
-[
-"1990-03-11",
-"1994-03-10",
-"Renovación Nacional"
-],
-[
-"1994-03-11",
-"1998-03-10",
-"Renovación Nacional"
-],
-[
-"1998-03-11",
-"2002-03-10",
-"Renovación Nacional"
-],
-[
-"2002-03-11",
-"2006-03-10",
-"Renovación Nacional"
-],
-[
-"2006-03-11",
-"2010-03-10",
-"Renovación Nacional"
-],
-[
-"2010-03-11",
-"2014-03-10",
-"Renovación Nacional"
-],
-[
-"2014-03-11",
-"2018-03-10",
-"Renovación Nacional"
-],
-[
-"2018-03-11",
-"2022-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Renovación Nacional"
-]
-],
+"idCamara": "1536",
+"m": [],
 "n": "René Manuel García García",
 "partidoActual": "RN",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "872": {
 "corto": "Jaime Mulet",
 "dist": 4,
-"m": [
-[
-"1998-03-11",
-"2002-03-10",
-"Partido Demócrata Cristiano"
-],
-[
-"2002-03-11",
-"2006-03-10",
-"Partido Demócrata Cristiano"
-],
-[
-"2006-03-11",
-"2010-03-10",
-"Partido Regionalista Independiente"
-],
-[
-"2018-03-11",
-"2022-03-10",
-"Federación Regionalista Verde Social"
-],
-[
-"2022-03-11",
-"2026-03-10",
-"Federación Regionalista Verde Social"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Federación Regionalista Verde Social"
-]
-],
+"idCamara": "1570",
+"m": [],
 "n": "Jaime Mulet Martínez",
 "partidoActual": "FRVS",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "915": {
 "corto": "Germán Verdugo",
 "dist": 17,
-"m": [
-[
-"2006-03-11",
-"2010-03-10",
-"Renovación Nacional"
-],
-[
-"2010-03-11",
-"2014-03-10",
-"Renovación Nacional"
-],
-[
-"2014-03-11",
-"2018-03-10",
-"Renovación Nacional"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Nacional Libertario"
-]
-],
+"idCamara": "1634",
+"m": [],
 "n": "Germán Verdugo Soto",
 "partidoActual": "PNL",
 "reg": "",
 "sexo": "M",
-"vigente": false
+"vigente": true
 },
 "986": {
 "corto": "Marcela Hernando",
 "dist": 3,
-"m": [
-[
-"2014-03-11",
-"2018-03-10",
-"Partido Radical de Chile"
-],
-[
-"2018-03-11",
-"2022-03-10",
-"Partido Radical de Chile"
-],
-[
-"2026-03-11",
-"2030-03-10",
-"Partido Radical de Chile"
-]
-],
+"idCamara": "1544",
+"m": [],
 "n": "Marcela Hernando Pérez",
 "partidoActual": "PR",
 "reg": "",
 "sexo": "F",
-"vigente": false
+"vigente": true
 }
 },
 "senadores": {

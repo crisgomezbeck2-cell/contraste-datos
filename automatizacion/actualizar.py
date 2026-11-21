@@ -141,14 +141,31 @@ def diputados(red, navegador):
     per = cargar("personas.json", {"diputados": {}, "senadores": {}})
     x = red.xml(f"{W}/WSDiputado.asmx/retornarDiputadosPeriodoActual")
     vistos = set()
+    # En noviembre de 2026 la Cámara volvió a numerar a los 155 diputados (y los nombres pasaron a mayúsculas), pero las
+    # votaciones siguen usando los números antiguos. Cada persona se reconoce por su nombre y conserva su número original.
+    def toks(s): return nrm(s).split()
+    # todas las palabras del nombre que teníamos deben estar en el nuevo (la Cámara agregó segundos nombres, a veces delante)
+    def misma(viejo, nuevo): return len(viejo) >= 3 and set(viejo) <= set(nuevo)
+    def titulo(s):
+        if not s.isupper(): return s
+        return " ".join(w if w in ("DE", "DEL", "LA", "LAS", "LOS", "Y") and i else w.capitalize() for i, w in enumerate(s.split())).replace(" De ", " de ").replace(" Del ", " del ").replace(" Y ", " y ").replace(" La ", " la ")
     for d in x.findall("c:DiputadoPeriodo", NS):
         dip = d.find("c:Diputado", NS)
         g = lambda t: (dip.findtext("c:" + t, namespaces=NS) or "").strip()
-        did = g("Id"); vistos.add(did)
+        did = g("Id")
+        completo = " ".join(filter(None, [g("Nombre"), g("Nombre2"), g("ApellidoPaterno"), g("ApellidoMaterno")]))
+        tn = toks(completo)
+        cands = [k for k, v in per["diputados"].items() if k != did and not v.get("idCamara") and misma(toks(v.get("n", "")), tn)]
+        if len(cands) > 1: cands = sorted(cands, key=int)[:1]
+        clave = cands[0] if cands else did
+        if clave != did: per["diputados"].pop(did, None)          # copia duplicada que dejó una corrida con los números nuevos
+        vistos.add(clave)
         mil = [[(m.findtext("c:FechaInicio", namespaces=NS) or "")[:10], (m.findtext("c:FechaTermino", namespaces=NS) or "")[:10], m.findtext("c:Partido/c:Nombre", namespaces=NS) or ""] for m in dip.findall("c:Militancias/c:Militancia", NS)]
-        e = per["diputados"].setdefault(did, {})
-        e.update({"n": " ".join(filter(None, [g("Nombre"), g("Nombre2"), g("ApellidoPaterno"), g("ApellidoMaterno")])), "corto": (g("Nombre") + " " + g("ApellidoPaterno")).strip(),
-                  "sexo": "F" if g("Sexo").startswith("Fem") else "M", "m": sorted(mil), "vigente": True})
+        e = per["diputados"].setdefault(clave, {})
+        nuevo = {"sexo": "F" if g("Sexo").startswith("Fem") else "M", "m": sorted(mil), "vigente": True}
+        if clave != did: nuevo["idCamara"] = did
+        if not e.get("n"): nuevo.update({"n": titulo(completo), "corto": titulo((g("Nombre").split() or [""])[0] + " " + g("ApellidoPaterno")).strip()})
+        e.update(nuevo)
     for did, e in per["diputados"].items():
         if did not in vistos: e["vigente"] = False
     if len(vistos) < 150: raise RuntimeError("la nómina de diputados vino incompleta: %d" % len(vistos))
@@ -167,6 +184,7 @@ def diputados(red, navegador):
             pa = re.search(r"Partido:\s*([^<]+)", art)
             if not (m and dm): continue
             did = m.group(1)
+            did = next((k for k, v in per["diputados"].items() if v.get("idCamara") == did), did)
             if did in per["diputados"]:
                 per["diputados"][did].update({"dist": int(dm.group(1)), "reg": limpio(rg.group(1)) if rg else "", "partidoActual": limpio(pa.group(1)) if pa else ""}); n += 1
             cargo = re.findall(r"<p>\s*([^<]*?(?:Presidente|Presidenta|Vicepresident[ea]s?)[^<]*?)\s*</p>", art)

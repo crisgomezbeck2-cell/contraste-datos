@@ -9,7 +9,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 20.019, que Regula las Sociedades Anónimas Deportivas Profesionales, en materia de fiscalización, de conflictos de interés, y de fomento de la participación de los hinchas en la propiedad de las mismas",
 "tituloSenado": "Modifica la ley N° 20.019, que Regula las Sociedades Anónimas Deportivas Profesionales, en materia de fiscalización, de conflictos de interés, y de fomento de la participación de los hinchas en la propiedad de las mismas",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -851,7 +851,7 @@
 "origen": "Senado",
 "titulo": "Sobre el uso de agua de mar para desalinización.",
 "tituloSenado": "Sobre el uso de agua de mar para desalinización.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -1459,7 +1459,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°20.380, sobre Protección de los animales, para regular las carreras de perros",
 "tituloSenado": "Modifica la ley N°20.380, sobre Protección de los animales, para regular las carreras de perros",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -1543,7 +1543,7 @@
 "origen": "Senado",
 "titulo": "Proyecto de ley que modifica el Código Penal, con el objeto de sancionar el delito de trata de personas con fines de adopción ilegal e incorporar su imprescriptibilidad",
 "tituloSenado": "Proyecto de ley que modifica el Código Penal, con el objeto de sancionar el delito de trata de personas con fines de adopción ilegal e incorporar su imprescriptibilidad",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -1626,7 +1626,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
 "tituloSenado": "Establece un sistema de subvenciones para la modalidad educativa de reingreso",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -2023,12 +2023,24 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 395-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Comisión Mixta por rechazo de modificaciones / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Comisión Mixta por rechazo de modificaciones / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 395-374 que hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma",
 "etapa": "Comisión Mixta por rechazo de modificaciones / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-18"
 },
 "urgencia": "Suma"
 },
@@ -2047,7 +2059,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección",
 "tituloSenado": "Modifica la ley N°17.336, sobre Propiedad Intelectual, con el objeto de regular las medidas tecnológicas de protección",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -2184,7 +2196,7 @@
 "origen": "Senado",
 "titulo": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
 "tituloSenado": "Crea la Comisión de Comercio Estratégico y regula la exportación de material de uso dual y de defensa y otras materias que indica.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -2489,14 +2501,21 @@
 "urgencia": "Simple"
 },
 "14782-13": {
-"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Trabajo y Seguridad Social",
+"etapa": "Tercer trámite constitucional (Senado) Discusión única",
+"idCamara": "15274",
 "ingreso": "2022-01-04",
 "iniciativa": "Mensaje",
 "leynro": "",
-"origen": "Cámara de Diputados",
+"ministerios": [
+"Ministerio de Hacienda",
+"Ministerio de la Mujer y Equidad de Género",
+"Ministerio de Trabajo y Previsión Social",
+"Ministerio de Desarrollo Social y Famili"
+],
+"origen": "Senado",
 "titulo": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
 "tituloSenado": "Equipara el derecho de sala cuna para las trabajadoras, los trabajadores y los independientes que indica, en las condiciones que establece, modifica el Código del Trabajo para tales efectos y crea un fondo solidario de sala cuna.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -2826,13 +2845,13 @@
 "e": "Primer trámite constitucional / Senado",
 "f": "2026-08-18",
 "s": "51 / 374",
-"t": "Cuenta del Mensaje 266-374 que hace presente la urgencia Discusión inmediata"
+"t": "Cuenta de segundo informe de comisión"
 },
 {
 "e": "Primer trámite constitucional / Senado",
 "f": "2026-08-18",
 "s": "51 / 374",
-"t": "Cuenta de segundo informe de comisión"
+"t": "Cuenta del Mensaje 266-374 que hace presente la urgencia Discusión inmediata"
 },
 {
 "e": "Primer trámite constitucional / Senado",
@@ -2917,12 +2936,72 @@
 "f": "2026-11-03",
 "s": "87 / 374",
 "t": "Cuenta del Mensaje 442-374 que retira y hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-09",
+"s": "89 / 374",
+"t": "Cuenta del Mensaje 446-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta del Mensaje 461-374 que retira y hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Primer informe de comisión de Trabajo y Seguridad Social. Pasa a Comisión de Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "94 / 374",
+"t": "Cuenta de primer informe de comisión . (Trabajo). Pasa a Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-18",
+"s": "",
+"t": "Primer informe de comisión de Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-18",
+"s": "96 / 374",
+"t": "Discusión general . Aprobado en general y particular con modificaciones"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-18",
+"s": "96 / 374",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-19",
+"s": "",
+"t": "Oficio modificaciones a Cámara de Origen"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-19",
+"s": "86 / 374",
+"t": "Cuenta oficio con modificaciones de Cámara Revisora . Queda para tabla"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-19",
+"s": "86 / 374",
+"t": "Cuenta del Mensaje 475-374 que hace presente la urgencia Discusión inmediata"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 442-374 que retira y hace presente la urgencia Discusión inmediata",
-"etapa": "Segundo trámite constitucional / C.Diputados",
-"iso": "2026-11-03"
+"descripcion": "Cuenta del Mensaje 475-374 que hace presente la urgencia Discusión inmediata",
+"etapa": "Tercer trámite constitucional / Senado",
+"iso": "2026-11-19"
 },
 "urgencia": "Discusión inmediata"
 },
@@ -2936,7 +3015,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°20.931, para permitir la aplicación de medidas de control de identidad preventivo en zonas fronterizas, instalaciones estratégicas y sus inmediaciones",
 "tituloSenado": "Modifica la ley N°20.931, para permitir la aplicación de medidas de control de identidad preventivo en zonas fronterizas, instalaciones estratégicas y sus inmediaciones",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -3092,7 +3171,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio nacional",
 "tituloSenado": "Modifica la ley N°21.325, de migración y extranjería, para tipificar el delito de ingreso clandestino al territorio nacional",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -3303,12 +3382,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -3322,7 +3407,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el decreto ley N°321, de 1925, a fin de restringir los requisitos necesarios para acceder al beneficio de libertad condicional",
 "tituloSenado": "Modifica el decreto ley N°321, de 1925, a fin de restringir los requisitos necesarios para acceder al beneficio de libertad condicional",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -3498,7 +3583,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, con el objeto de incorporar las circunstancias agravantes que se indican.",
 "tituloSenado": "Modifica la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, con el objeto de incorporar las circunstancias agravantes que se indican.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -3644,7 +3729,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros",
 "tituloSenado": "Modifica la ley N°21.020, sobre tenencia responsable de mascotas y animales de compañía, para prohibir y sancionar las carreras de perros",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -3710,7 +3795,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
 "tituloSenado": "Modifica la ley N°20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal, para fortalecer la respuesta sancionatoria frente a conductas consideradas de especial gravedad",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -3951,24 +4036,30 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
-"urgencia": "Suma"
+"urgencia": "Simple"
 },
 "15610-03": {
-"etapa": "Segundo trámite constitucional (Senado) Boletín de indicaciones",
+"etapa": "Segundo trámite constitucional (Senado) Segundo informe de comisión de Economía",
 "ingreso": "2022-12-20",
 "iniciativa": "Moción",
 "leynro": "",
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°19.496, que establece normas sobre protección de los derechos de los consumidores, para prohibir llamadas telefónicas publicitarias de proveedores sin consentimiento del consumidor",
 "tituloSenado": "Modifica la ley N°19.496, que establece normas sobre protección de los derechos de los consumidores, para prohibir llamadas telefónicas publicitarias de proveedores sin consentimiento del consumidor",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -4191,12 +4282,24 @@
 "f": "2026-10-06",
 "s": "65 / 374",
 "t": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 06/11/2026 a las 12:00"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-06",
+"s": "",
+"t": "Boletín de indicaciones"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-06",
+"s": "",
+"t": "Oficio N°IF 267-202"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 06/11/2026 a las 12:00",
+"descripcion": "Oficio N°IF 267-202",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-06"
+"iso": "2026-11-06"
 },
 "urgencia": "Sin urgencia"
 },
@@ -4208,7 +4311,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, en materia de exportación de residuos peligrosos.",
 "tituloSenado": "Modifica la ley Nº 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, en materia de exportación de residuos peligrosos.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -4364,7 +4467,7 @@
 "origen": "Senado",
 "titulo": "Promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica",
 "tituloSenado": "Promueve la transparencia y la adopción de medidas para la inclusión laboral de las mujeres en las empresas que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -4520,7 +4623,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte",
 "tituloSenado": "Deroga la ley N°18.356, que establece normas sobre control de las artes marciales y deroga la ley N°18.039, e incorpora el concepto de artes marciales en la ley N°19.712, del Deporte",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -4659,12 +4762,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -4682,7 +4791,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
 "tituloSenado": "Establece normas generales sobre el uso de la fuerza para el personal de las fuerzas de orden y seguridad pública y de las fuerzas armadas en las circunstancias que se señala",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -5396,7 +5505,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal",
 "tituloSenado": "Modifica diversos cuerpos legales para regular la comercialización de productos farmacéuticos y sancionar su venta ilegal",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -5829,12 +5938,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta de segundo informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta de segundo informe de comisión",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Primer trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -5848,7 +5963,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica cuerpos legales que indica para prohibir el porte y tenencia de armas de fuego a personas procesadas o condenadas por violencia intrafamiliar",
 "tituloSenado": "Modifica cuerpos legales que indica para prohibir el porte y tenencia de armas de fuego a personas procesadas o condenadas por violencia intrafamiliar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -6250,7 +6365,7 @@
 "origen": "Senado",
 "titulo": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
 "tituloSenado": "Crea el Subsistema de Inteligencia Económica y establece otras medidas para la prevención y alerta de actividades que digan relación con el crimen organizado",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -7289,12 +7404,18 @@
 "f": "2026-10-21",
 "s": "71 / 374",
 "t": "Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta"
+},
+{
+"e": "Comisión Mixta por rechazo de modificaciones / Senado",
+"f": "2026-11-16",
+"s": "",
+"t": "Oficio N°"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del oficio N° 21.661, por el que informa reemplazo de integrante de la Comisión Mixta",
+"descripcion": "Oficio N°",
 "etapa": "Comisión Mixta por rechazo de modificaciones / Senado",
-"iso": "2026-10-21"
+"iso": "2026-11-16"
 },
 "urgencia": "Sin urgencia"
 },
@@ -7308,7 +7429,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
 "tituloSenado": "Modifica el Código Penal para extender la legítima defensa privilegiada al funcionario militar o policial que actúe en defensa de su persona o derechos, o de los de un tercero, encontrándose en calidad de franco",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -7441,14 +7562,26 @@
 "f": "2026-10-27",
 "s": "73 / 374",
 "t": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 453-374 que retira y hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-19",
+"s": "86 / 374",
+"t": "Cuenta del Mensaje 476-374 que hace presente la urgencia Discusión inmediata"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 476-374 que hace presente la urgencia Discusión inmediata",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-19"
 },
-"urgencia": "Suma"
+"urgencia": "Discusión inmediata"
 },
 "16335-14": {
 "etapa": "Trámite finalización en Cámara de Origen (C.Diputados) Oficio de ley al Ejecutivo",
@@ -7463,7 +7596,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
 "tituloSenado": "Regula la prevención y mitigación de incendios forestales, y otras materias que indica",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -8272,7 +8405,7 @@
 "urgencia": "Discusión inmediata"
 },
 "16397-15": {
-"etapa": "Segundo trámite constitucional (Senado) Cuenta de segundo informe de comisión",
+"etapa": "Primer trámite constitucional (C.Diputados) Discusión particular",
 "idCamara": "16958",
 "ingreso": "2023-10-31",
 "iniciativa": "Moción",
@@ -8281,7 +8414,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
 "tituloSenado": "Modifica la ley N° 18.290, de Tránsito, para aumentar las sanciones por no usar sistemas de retención infantil y por trasladar menores de 12 años en asientos delanteros",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -8380,16 +8513,22 @@
 "t": "Cuenta del Mensaje 438-374 que retira y hace presente la urgencia Simple"
 },
 {
-"e": "Segundo trámite constitucional / Senado",
+"e": "Primer trámite constitucional / C.Diputados",
 "f": "2026-11-04",
 "s": "",
 "t": "Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-09",
+"s": "89 / 374",
+"t": "Cuenta de segundo informe de comisión"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones",
-"etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-11-04"
+"descripcion": "Cuenta de segundo informe de comisión",
+"etapa": "Primer trámite constitucional / C.Diputados",
+"iso": "2026-11-09"
 },
 "urgencia": "Simple"
 },
@@ -8401,7 +8540,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 19.831, en materia de responsabilidad del transportista escolar durante el traslado de niños, niñas y adolescentes",
 "tituloSenado": "Modifica la ley N° 19.831, en materia de responsabilidad del transportista escolar durante el traslado de niños, niñas y adolescentes",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -8732,12 +8871,18 @@
 "f": "2026-10-06",
 "s": "65 / 374",
 "t": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple",
+"descripcion": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-06"
+"iso": "2026-11-10"
 },
 "urgencia": "Simple"
 },
@@ -8751,7 +8896,7 @@
 "origen": "Senado",
 "titulo": "Modifica el Código Procesal Penal, con el objeto de aumentar el plazo máximo para considerar una situación entre las hipótesis de flagrancia",
 "tituloSenado": "Modifica el Código Procesal Penal, con el objeto de aumentar el plazo máximo para considerar una situación entre las hipótesis de flagrancia",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -9179,7 +9324,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, para prohibir temporalmente la importación de plásticos que indica, que sean destinados a la elaboración de productos de un solo uso",
 "tituloSenado": "Modifica la ley N° 20.920, que establece marco para la gestión de residuos, la responsabilidad extendida del productor y fomento al reciclaje, para prohibir temporalmente la importación de plásticos que indica, que sean destinados a la elaboración de productos de un solo uso",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -9263,7 +9408,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de fortalecer la institucionalidad ambiental y mejorar su eficiencia",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -9750,12 +9895,18 @@
 "f": "2026-10-27",
 "s": "82 / 374",
 "t": "Cuenta del Mensaje 410-374 que hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-18",
+"s": "",
+"t": "S.E. el Presidente de la República retira y formula indicación al proyecto. (441-374). Incluye informe financiero complementario N° 272/17.11.2026"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 410-374 que hace presente la urgencia Simple",
+"descripcion": "S.E. el Presidente de la República retira y formula indicación al proyecto. (441-374). Incluye informe financiero complementario N° 272/17.11.2026",
 "etapa": "Segundo trámite constitucional / C.Diputados",
-"iso": "2026-10-27"
+"iso": "2026-11-18"
 },
 "urgencia": "Simple"
 },
@@ -9769,7 +9920,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de los recintos penales",
 "tituloSenado": "Amplía la penalización dispuesta en el artículo 304 bis del Código Penal, para fortalecer la seguridad perimetral de los recintos penales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -10197,7 +10348,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
 "tituloSenado": "Declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad Chileno-Palestina",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -10341,7 +10492,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Dicta normas sobre transferencia de tecnología y conocimiento",
 "tituloSenado": "Dicta normas sobre transferencia de tecnología y conocimiento",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -10865,7 +11016,7 @@
 "origen": "Senado",
 "titulo": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad",
 "tituloSenado": "Modifica el Código Sanitario, para incorporar entre los servicios de los profesionales que señala, la adopción de acciones para prevenir la infertilidad",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -10984,7 +11135,7 @@
 "urgencia": "Simple"
 },
 "16709-11": {
-"etapa": "Segundo trámite constitucional (C.Diputados) Segundo informe de comisión de Salud",
+"etapa": "Segundo trámite constitucional (C.Diputados) Discusión particular",
 "idCamara": "17284",
 "ingreso": "2024-04-03",
 "iniciativa": "Moción",
@@ -10993,7 +11144,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
 "tituloSenado": "Modifica la ley N° 20.418, que fija normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad, para promover la información y educación sobre la infertilidad",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -11090,12 +11241,24 @@
 "f": "2026-10-26",
 "s": "81 / 374",
 "t": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-03",
+"s": "",
+"t": "Segundo informe de comisión de Salud"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de segundo informe de comisión"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 406-374 que retira y hace presente la urgencia Simple",
+"descripcion": "Cuenta de segundo informe de comisión",
 "etapa": "Segundo trámite constitucional / C.Diputados",
-"iso": "2026-10-26"
+"iso": "2026-11-12"
 },
 "urgencia": "Simple"
 },
@@ -11109,7 +11272,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica cuerpos legales que indica para derogar el feriado en días de elecciones y plebiscitos",
 "tituloSenado": "Modifica cuerpos legales que indica para derogar el feriado en días de elecciones y plebiscitos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -11236,12 +11399,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -11255,7 +11424,7 @@
 "origen": "Senado",
 "titulo": "Modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las Fuerzas de Orden y Seguridad Pública",
 "tituloSenado": "Modifica la Ley del Tránsito, para establecer la reserva de los datos registrales de los vehículos pertenecientes a las Fuerzas de Orden y Seguridad Pública",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -11387,7 +11556,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica diversos cuerpos legales, para fortalecer la accesibilidad universal a la información de productos farmacéuticos y otros que indica",
 "tituloSenado": "Modifica diversos cuerpos legales, para fortalecer la accesibilidad universal a la información de productos farmacéuticos y otros que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -11608,7 +11777,7 @@
 "urgencia": "Simple"
 },
 "16743-04": {
-"etapa": "Tercer trámite constitucional (Senado) Discusión única",
+"etapa": "Comisión Mixta por rechazo de modificaciones (Senado) Oficio integrantes de Comisión Mixta",
 "idCamara": "17342",
 "ingreso": "2024-04-09",
 "iniciativa": "Moción",
@@ -11617,7 +11786,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de facilitar la creación de nuevos establecimientos educacionales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -11942,14 +12111,50 @@
 "f": "2026-10-28",
 "s": "74 / 374",
 "t": "Cuenta del Mensaje 432-374 que retira y hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Los Honorable Senadores señoras Pascual y Provoste y señor De Urresti hicieron reserva de constitucionalidad"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión única . Rechazadas las modificaciones"
+},
+{
+"e": "Tercer trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio rechazo modificaciones a Cámara Revisora"
+},
+{
+"e": "Comisión Mixta por rechazo de modificaciones / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta oficio rechazo a modificaciones . Comunica que ha rechazado parcialmente las enmiendas introducidas al proyecto y que ha designado a los senadores miembros de la Comisión de Educación para integrar la comisión mixta correspondiente. (374/SEC/26)"
+},
+{
+"e": "Comisión Mixta por rechazo de modificaciones / C.Diputados",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 432-374 que retira y hace presente la urgencia Discusión inmediata",
-"etapa": "Tercer trámite constitucional / Senado",
-"iso": "2026-10-28"
+"descripcion": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma",
+"etapa": "Comisión Mixta por rechazo de modificaciones / C.Diputados",
+"iso": "2026-11-18"
 },
-"urgencia": "Discusión inmediata"
+"urgencia": "Suma"
 },
 "16763-04": {
 "etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Educación",
@@ -11959,7 +12164,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar",
 "tituloSenado": "Modifica la Ley sobre Subvención del Estado a Establecimientos Educacionales, en cuanto al proceso de admisión escolar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -12395,7 +12600,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
 "tituloSenado": "Modifica la ley N° 19.913 para prevenir y sancionar con mayor rigurosidad el lavado de activos asociado al comercio ilegal",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13149,7 +13354,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.450 para autorizar la adquisición de terrenos, destinados a viviendas para familias vulnerables, emplazados en comunas distintas de aquellas que registran mayor demanda de estos grupos",
 "tituloSenado": "Modifica la ley N° 21.450 para autorizar la adquisición de terrenos, destinados a viviendas para familias vulnerables, emplazados en comunas distintas de aquellas que registran mayor demanda de estos grupos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13271,7 +13476,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para autorizar el uso de agentes encubiertos en Internet para la persecución de delitos sexuales contra niños, niñas y adolescentes",
 "tituloSenado": "Modifica el Código Penal para autorizar el uso de agentes encubiertos en Internet para la persecución de delitos sexuales contra niños, niñas y adolescentes",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13417,7 +13622,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley General de Telecomunicaciones en materia de asignación de direcciones IP y deber de información de los proveedores de acceso a Internet",
 "tituloSenado": "Modifica la Ley General de Telecomunicaciones en materia de asignación de direcciones IP y deber de información de los proveedores de acceso a Internet",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13472,12 +13677,18 @@
 "f": "2026-10-05",
 "s": "74 / 374",
 "t": "Discusión general . Aprobado en general"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-09",
+"s": "89 / 374",
+"t": "Cuenta del Mensaje 451-374 que retira y hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Discusión general . Aprobado en general",
+"descripcion": "Cuenta del Mensaje 451-374 que retira y hace presente la urgencia Simple",
 "etapa": "Primer trámite constitucional / C.Diputados",
-"iso": "2026-10-05"
+"iso": "2026-11-09"
 },
 "urgencia": "Simple"
 },
@@ -13491,7 +13702,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Crea el tipo penal especial de daños en infraestructura penitenciaria",
 "tituloSenado": "Crea el tipo penal especial de daños en infraestructura penitenciaria",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13613,7 +13824,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para tipificar el reclutamiento, transporte y traslado, por medios no autorizados, de inmigrantes ilegales",
 "tituloSenado": "Modifica el Código Penal para tipificar el reclutamiento, transporte y traslado, por medios no autorizados, de inmigrantes ilegales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -13732,7 +13943,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece, para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio, en conformidad con lo dispuesto en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses",
 "tituloSenado": "Establece, para el personal de Gendarmería de Chile, la obligación de efectuar declaraciones de intereses y patrimonio, en conformidad con lo dispuesto en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -14157,7 +14368,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "17012-14": {
@@ -14170,7 +14381,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.442, que aprueba nueva ley de copropiedad inmobiliaria, con el objeto de implementar sistemas de seguridad adicionales para impedir caídas accidentales desde edificaciones en altura",
 "tituloSenado": "Modifica la ley N° 21.442, que aprueba nueva ley de copropiedad inmobiliaria, con el objeto de implementar sistemas de seguridad adicionales para impedir caídas accidentales desde edificaciones en altura",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -14488,7 +14699,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.100, que prohíbe la entrega de bolsas plásticas de comercio en todo el territorio nacional, para extender la prohibición contemplada al expendio de productos que indica, y sancionar la reincidencia",
 "tituloSenado": "Modifica la ley N° 21.100, que prohíbe la entrega de bolsas plásticas de comercio en todo el territorio nacional, para extender la prohibición contemplada al expendio de productos que indica, y sancionar la reincidencia",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -14550,7 +14761,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece límites al desarrollo de la inteligencia artificial, en resguardo de los derechos humanos fundamentales",
 "tituloSenado": "Establece límites al desarrollo de la inteligencia artificial, en resguardo de los derechos humanos fundamentales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -14610,7 +14821,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en servicios de turismo aventura",
 "tituloSenado": "Modifica la ley N° 20.423, para establecer medidas que garanticen el cumplimiento de estándares de seguridad en servicios de turismo aventura",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -14774,7 +14985,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para agravar la pena y agregar una nueva circunstancia en el delito de robo en lugar no habitado",
 "tituloSenado": "Modifica el Código Penal para agravar la pena y agregar una nueva circunstancia en el delito de robo en lugar no habitado",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -14937,12 +15148,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -14956,7 +15173,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, para permitir la votación dividida de las acusaciones constitucionales, en los casos que indica",
 "tituloSenado": "Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, para permitir la votación dividida de las acusaciones constitucionales, en los casos que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -15018,7 +15235,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el decreto ley N° 3.063, de 1979, para exigir la emisión de un permiso de circulación estandarizado en todas las comunas del país",
 "tituloSenado": "Modifica el decreto ley N° 3.063, de 1979, para exigir la emisión de un permiso de circulación estandarizado en todas las comunas del país",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -15145,12 +15362,18 @@
 "f": "2026-10-06",
 "s": "65 / 374",
 "t": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple",
+"descripcion": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-06"
+"iso": "2026-11-10"
 },
 "urgencia": "Simple"
 },
@@ -15164,7 +15387,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para crear el tipo especial de robo cometido por tumulto o multitud",
 "tituloSenado": "Modifica el Código Penal para crear el tipo especial de robo cometido por tumulto o multitud",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -15286,7 +15509,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en el transporte público remunerado de pasajeros",
 "tituloSenado": "Modifica las leyes que indica para mejorar la fiscalización y aumentar las sanciones por evasión del pago de tarifas en el transporte público remunerado de pasajeros",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -15636,7 +15859,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación",
 "tituloSenado": "Modifica textos legales que indica para agilizar la obtención de permisos de urbanización y edificación",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -15956,7 +16179,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código de Aguas para garantizar la participación de comités y cooperativas de agua potable rural, prestadoras de servicios sanitarios rurales, en los directorios de las comunidades de agua",
 "tituloSenado": "Modifica el Código de Aguas para garantizar la participación de comités y cooperativas de agua potable rural, prestadoras de servicios sanitarios rurales, en los directorios de las comunidades de agua",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16065,12 +16288,18 @@
 "f": "2026-09-09",
 "s": "66 / 374",
 "t": "Cuenta de segundo informe de comisión . Queda para tabla"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-10-21",
+"s": "",
+"t": "Los Comités Parlamentarios acordaron pasar de nuevo el proyecto a la Comisión de Recursos Hídricos y Desertificación, conforme al artículo 112 inciso quinto número 2 del Reglamento de la Corporación"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta de segundo informe de comisión . Queda para tabla",
+"descripcion": "Los Comités Parlamentarios acordaron pasar de nuevo el proyecto a la Comisión de Recursos Hídricos y Desertificación, conforme al artículo 112 inciso quinto número 2 del Reglamento de la Corporación",
 "etapa": "Primer trámite constitucional / C.Diputados",
-"iso": "2026-09-09"
+"iso": "2026-10-21"
 },
 "urgencia": "Sin urgencia"
 },
@@ -16082,7 +16311,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Declara el 8 de diciembre de cada año como el \"Día Nacional para la Conmemoración de las Víctimas del Incendio de La Compañía\"",
 "tituloSenado": "Declara el 8 de diciembre de cada año como el \"Día Nacional para la Conmemoración de las Víctimas del Incendio de La Compañía\"",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -16138,7 +16367,7 @@
 "origen": "Senado",
 "titulo": "Autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique",
 "tituloSenado": "Autoriza erigir un monumento en memoria del ex Presidente de la República, señor Sebastián Piñera Echenique",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -16300,7 +16529,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica por medio de receta electrónica y sancionar su falsificación",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de establecer la prescripción médica por medio de receta electrónica y sancionar su falsificación",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -16410,7 +16639,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Prohíbe subcontratar servicios de teleoperadores que funcionen fuera del territorio nacional",
 "tituloSenado": "Prohíbe subcontratar servicios de teleoperadores que funcionen fuera del territorio nacional",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16484,7 +16713,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la prestación de servicios de cuidado de vehículos y limpieza de parabrisas en la vía pública, y sanciona el ejercicio no autorizado de dichas actividades",
 "tituloSenado": "Regula la prestación de servicios de cuidado de vehículos y limpieza de parabrisas en la vía pública, y sanciona el ejercicio no autorizado de dichas actividades",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16570,7 +16799,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Autoriza la circulación en el país de vehículos que participen en competiciones de carácter internacional o federadas, en las formas y condiciones que señala",
 "tituloSenado": "Autoriza la circulación en el país de vehículos que participen en competiciones de carácter internacional o federadas, en las formas y condiciones que señala",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16734,7 +16963,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.119 para tipificar los delitos de robo y receptación de medidores de agua potable",
 "tituloSenado": "Modifica la ley N° 18.119 para tipificar los delitos de robo y receptación de medidores de agua potable",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16820,7 +17049,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley Nº 21.325, de Migración y Extranjería, para restringir el acceso de inmigrantes en situación irregular a beneficios de cargo fiscal",
 "tituloSenado": "Modifica la ley Nº 21.325, de Migración y Extranjería, para restringir el acceso de inmigrantes en situación irregular a beneficios de cargo fiscal",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -16966,7 +17195,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Fortalece la transparencia y probidad en la entrega de recursos por parte del Estado",
 "tituloSenado": "Fortalece la transparencia y probidad en la entrega de recursos por parte del Estado",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -17058,7 +17287,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aumenta sanciones aplicables a la incineración de basura y promueve la educación ambiental en manejo de residuos",
 "tituloSenado": "Aumenta sanciones aplicables a la incineración de basura y promueve la educación ambiental en manejo de residuos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -17536,7 +17765,7 @@
 "origen": "Senado",
 "titulo": "Aprueba el &quot;Acuerdo entre la República de Chile y la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor&quot;, hecho en Santiago, República de Chile, el 5 de agosto de 2024.",
 "tituloSenado": "Aprueba el \"Acuerdo entre la República de Chile y la República Federativa de Brasil para el reconocimiento recíproco de licencias de conductor\", hecho en Santiago, República de Chile, el 5 de agosto de 2024.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -17643,7 +17872,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
 "tituloSenado": "Modifica diversos cuerpos legales, para promover la gobernabilidad y la representatividad del sistema político",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -18065,7 +18294,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aumenta sanciones aplicables al delito de atentado contra la autoridad cometido contra miembros de las Fuerzas de Orden y Seguridad Pública",
 "tituloSenado": "Aumenta sanciones aplicables al delito de atentado contra la autoridad cometido contra miembros de las Fuerzas de Orden y Seguridad Pública",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18192,14 +18421,20 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 396-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 473-374 que retira y hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 396-374 que retira y hace presente la urgencia Simple",
+"descripcion": "Cuenta del Mensaje 473-374 que retira y hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-18"
 },
-"urgencia": "Simple"
+"urgencia": "Suma"
 },
 "17690-07": {
 "etapa": "Archivado",
@@ -18211,7 +18446,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para disponer la intervención de la fiscalía militar en la investigación del delito de espionaje",
 "tituloSenado": "Modifica el Código Penal para disponer la intervención de la fiscalía militar en la investigación del delito de espionaje",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18301,7 +18536,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
 "tituloSenado": "Modifica la ley N° 18.290, de Tránsito, para tipificar y sancionar la conducción temeraria de vehículos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18493,7 +18728,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Tratado Constitutivo de la Comunidad de Policías de América, suscrito en Brasilia el 9 de noviembre de 2023",
 "tituloSenado": "Aprueba el Tratado Constitutivo de la Comunidad de Policías de América, suscrito en Brasilia el 9 de noviembre de 2023",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18636,7 +18871,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980",
 "tituloSenado": "Reemplaza el artículo 5 bis del decreto ley N° 3.500, de 1980",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18834,7 +19069,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba las enmiendas al Convenio Constitutivo de la Organización Marítima Internacional, adoptadas por la asamblea ordinaria de dicha organización, el 8 de diciembre de 2021",
 "tituloSenado": "Aprueba las enmiendas al Convenio Constitutivo de la Organización Marítima Internacional, adoptadas por la asamblea ordinaria de dicha organización, el 8 de diciembre de 2021",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -18956,7 +19191,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
 "tituloSenado": "Modifica la ley N° 21.442, que aprueba nueva Ley de Copropiedad Inmobiliaria, a fin de facultar a los administradores de condominios para emitir certificados de residencia",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19052,7 +19287,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Costa Rica sobre Coproducción Audiovisual, suscrito en Santiago, República de Chile, el 12 de octubre de 2023, y en San José, República de Costa Rica, el 13 de octubre de 2023",
 "tituloSenado": "Aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Costa Rica sobre Coproducción Audiovisual, suscrito en Santiago, República de Chile, el 12 de octubre de 2023, y en San José, República de Costa Rica, el 13 de octubre de 2023",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19180,7 +19415,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 19.327 para imponer nuevas obligaciones a los organizadores de espectáculos de fútbol profesional",
 "tituloSenado": "Modifica la ley N° 19.327 para imponer nuevas obligaciones a los organizadores de espectáculos de fútbol profesional",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19522,7 +19757,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial",
 "tituloSenado": "Regula la creación y difusión de imitaciones digitales realistas de la imagen, cuerpo o voz de las personas, generadas mediante inteligencia artificial",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19644,7 +19879,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica diversos cuerpos legales para reconocer y promover el circo tradicional chileno",
 "tituloSenado": "Modifica diversos cuerpos legales para reconocer y promover el circo tradicional chileno",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19706,7 +19941,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código del Trabajo y otros cuerpos legales para fortalecer la protección de la salud y seguridad de las personas trabajadoras",
 "tituloSenado": "Modifica el Código del Trabajo y otros cuerpos legales para fortalecer la protección de la salud y seguridad de las personas trabajadoras",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19768,7 +20003,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.902, que crea la Superintendencia de Servicios Sanitarios, para establecer un estándar mínimo de reducción de aguas no facturadas",
 "tituloSenado": "Modifica la ley N° 18.902, que crea la Superintendencia de Servicios Sanitarios, para establecer un estándar mínimo de reducción de aguas no facturadas",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -19828,7 +20063,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
 "tituloSenado": "Modifica la ley N° 20.998, con el propósito de modernizar y fortalecer el régimen jurídico aplicable a los servicios sanitarios rurales.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -19984,7 +20219,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
 "tituloSenado": "Crea un nuevo Juzgado de Letras del Trabajo en Santiago y fortalece los juzgados de letras del trabajo que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -20250,7 +20485,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
 "tituloSenado": "Modifica la ley N° 19.913 para incorporar los delitos contra la propiedad industrial al catálogo de precedentes de lavado de activos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -20330,7 +20565,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código del Trabajo para calificar el uso indebido de licencias médicas como falta de probidad del trabajador en el desempeño de sus funciones",
 "tituloSenado": "Modifica el Código del Trabajo para calificar el uso indebido de licencias médicas como falta de probidad del trabajador en el desempeño de sus funciones",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -20427,17 +20662,23 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
 "17956-10": {
-"etapa": "Tramitación terminada En tramitación",
+"etapa": "Tramitación terminada D.S N° 215 (Diario Oficial del 10/11/2026)",
 "idCamara": "18613",
 "ingreso": "2025-11-14",
 "iniciativa": "Mensaje",
@@ -20449,7 +20690,7 @@
 "origen": "Senado",
 "titulo": "Aprueba el &quot;Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España&quot;, suscrito en Montreal, Canadá, el 1 de octubre de 2022",
 "tituloSenado": "Aprueba el \"Acuerdo sobre transporte aéreo entre la República de Chile y el Reino de España\", suscrito en Montreal, Canadá, el 1 de octubre de 2022",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -20550,7 +20791,7 @@
 "urgencia": "Sin urgencia"
 },
 "17957-10": {
-"etapa": "Tramitación terminada En tramitación",
+"etapa": "Tramitación terminada D.S N° 214 (Diario Oficial del 10/11/2026)",
 "idCamara": "18614",
 "ingreso": "2025-11-14",
 "iniciativa": "Mensaje",
@@ -20562,7 +20803,7 @@
 "origen": "Senado",
 "titulo": "Aprueba el &quot;Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República Helénica en materia de servicios aéreos&quot;, suscrito en Atenas, Grecia, el 27 de mayo de 2021",
 "tituloSenado": "Aprueba el \"Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República Helénica en materia de servicios aéreos\", suscrito en Atenas, Grecia, el 27 de mayo de 2021",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -20675,7 +20916,7 @@
 "origen": "Senado",
 "titulo": "Aprueba el &quot;Acuerdo de servicios aéreos entre el Reino de los Países Bajos y la República de Chile&quot;, suscrito en Santiago, Chile, el 24 de mayo de 2021",
 "tituloSenado": "Aprueba el \"Acuerdo de servicios aéreos entre el Reino de los Países Bajos y la República de Chile\", suscrito en Santiago, Chile, el 24 de mayo de 2021",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -20776,14 +21017,14 @@
 "urgencia": "Sin urgencia"
 },
 "17959-10": {
-"etapa": "Trámite de aprobacion presidencial (C.Diputados) En espera de promulgación",
+"etapa": "Tramitación terminada D.S N° 213 (Diario Oficial del 18/11/2026)",
 "ingreso": "2025-11-14",
 "iniciativa": "Mensaje",
 "leynro": "",
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno del Reino de Arabia Saudita, suscrito en Leipzig, Alemania, el 24 de mayo de 2023",
 "tituloSenado": "Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno del Reino de Arabia Saudita, suscrito en Leipzig, Alemania, el 24 de mayo de 2023",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -20903,7 +21144,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de la República de Cabo Verde, suscrito en Bogotá, Colombia, el 8 de diciembre de 2021",
 "tituloSenado": "Aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de la República de Cabo Verde, suscrito en Bogotá, Colombia, el 8 de diciembre de 2021",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21005,7 +21246,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno de la República de Letonia, suscrito en Bogotá, Colombia, el 6 de diciembre de 2021",
 "tituloSenado": "Aprueba el Acuerdo sobre Servicios Aéreos entre el Gobierno de la República de Chile y el Gobierno de la República de Letonia, suscrito en Bogotá, Colombia, el 6 de diciembre de 2021",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21107,7 +21348,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo",
 "tituloSenado": "Modifica la ley N° 19.712, del Deporte, con el objeto de precisar el alcance del concepto de discapacidad en el ámbito deportivo",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -21208,7 +21449,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "18003-35": {
@@ -21221,7 +21462,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para eximir al Servicio Electoral del deber de denunciar a personas postradas y electrodependientes, por incumplimiento de la obligación de sufragar",
 "tituloSenado": "Modifica la ley N° 18.700, orgánica constitucional sobre Votaciones Populares y Escrutinios, para eximir al Servicio Electoral del deber de denunciar a personas postradas y electrodependientes, por incumplimiento de la obligación de sufragar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21307,7 +21548,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código del Trabajo en lo tocante a la jornada laboral de los trabajadores del cine y el audiovisual que indica",
 "tituloSenado": "Modifica el Código del Trabajo en lo tocante a la jornada laboral de los trabajadores del cine y el audiovisual que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21373,7 +21614,7 @@
 "origen": "Senado",
 "titulo": "Establece el reconocimiento, calificación y reparación, cuando corresponda, de víctimas de violencia del conflicto intercultural y territorial en las regiones del Biobío, La Araucanía, Los Ríos y Los Lagos",
 "tituloSenado": "Establece el reconocimiento, calificación y reparación, cuando corresponda, de víctimas de violencia del conflicto intercultural y territorial en las regiones del Biobío, La Araucanía, Los Ríos y Los Lagos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -21476,12 +21717,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Primer trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -21495,7 +21742,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, para impedir el establecimiento de nuevos sitios prioritarios mientras no se dicte el reglamento que señala",
 "tituloSenado": "Modifica la ley N° 21.600, que crea el Servicio de Biodiversidad y Áreas Protegidas y el Sistema Nacional de Áreas Protegidas, para impedir el establecimiento de nuevos sitios prioritarios mientras no se dicte el reglamento que señala",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21663,7 +21910,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Carta Fundamental para incorporar a Gendarmería de Chile dentro de las Fuerzas de Orden y Seguridad Pública",
 "tituloSenado": "Modifica la Carta Fundamental para incorporar a Gendarmería de Chile dentro de las Fuerzas de Orden y Seguridad Pública",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21785,7 +22032,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Concede, por especial gracia, la nacionalidad chilena al sacerdote alemán Wolter Josef Tilmann Dütting",
 "tituloSenado": "Concede, por especial gracia, la nacionalidad chilena al sacerdote alemán Wolter Josef Tilmann Dütting",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21847,7 +22094,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Concede, por especial gracia, la nacionalidad chilena a la destacada deportista juvenil colombiana María Camila Valencia Mosquera",
 "tituloSenado": "Concede, por especial gracia, la nacionalidad chilena a la destacada deportista juvenil colombiana María Camila Valencia Mosquera",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -21915,7 +22162,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, en materia de quórum necesario para revertir la declaración de inadmisibilidad recaída en proyectos de ley e indicaciones",
 "tituloSenado": "Modifica la ley N° 18.918, orgánica constitucional del Congreso Nacional, en materia de quórum necesario para revertir la declaración de inadmisibilidad recaída en proyectos de ley e indicaciones",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22015,7 +22262,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Adopta medidas transitorias para contener el precio del kerosene doméstico en el contexto de la emergencia energética internacional, y otras medidas que indica",
 "tituloSenado": "Adopta medidas transitorias para contener el precio del kerosene doméstico en el contexto de la emergencia energética internacional, y otras medidas que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22140,7 +22387,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para establecer nuevas agravantes por delitos cometidos contra la comunidad educativa y en recintos educacionales",
 "tituloSenado": "Modifica el Código Penal para establecer nuevas agravantes por delitos cometidos contra la comunidad educativa y en recintos educacionales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22327,14 +22574,20 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
-"urgencia": "Suma"
+"urgencia": "Simple"
 },
 "18156-04": {
 "etapa": "Tramitación terminada Ley N° 21.827 (Diario Oficial del 12/08/2026)",
@@ -22350,7 +22603,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece medidas de seguridad, orden y respeto para la comunidad educativa",
 "tituloSenado": "Establece medidas de seguridad, orden y respeto para la comunidad educativa",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22616,7 +22869,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Prorroga el plazo para la regularización e inscripción de derechos de aprovechamiento de aguas hasta el año 2030",
 "tituloSenado": "Prorroga el plazo para la regularización e inscripción de derechos de aprovechamiento de aguas hasta el año 2030",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22784,7 +23037,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece el 6 de abril de cada año como el Día Nacional de Reconocimiento a las Organizaciones de Pacientes",
 "tituloSenado": "Establece el 6 de abril de cada año como el Día Nacional de Reconocimiento a las Organizaciones de Pacientes",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -22842,7 +23095,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Tayikistán sobre la exención mutua del requisito de visa para titulares de pasaportes diplomáticos oficiales y de servicio, suscrito en Dushanbe, República de Tayikistán, el 9 de marzo de 2023",
 "tituloSenado": "Aprueba el Acuerdo entre el Gobierno de la República de Chile y el Gobierno de la República de Tayikistán sobre la exención mutua del requisito de visa para titulares de pasaportes diplomáticos oficiales y de servicio, suscrito en Dushanbe, República de Tayikistán, el 9 de marzo de 2023",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -22958,7 +23211,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
 "tituloSenado": "Modifica la ley N° 20.898, con el objeto de ampliar el régimen excepcional de regularización de viviendas y actualizar la fecha de su aplicación",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23061,24 +23314,30 @@
 "f": "2026-10-27",
 "s": "73 / 374",
 "t": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 414-374 que hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 471-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-18"
 },
 "urgencia": "Suma"
 },
 "18208-25": {
-"etapa": "Segundo trámite constitucional (C.Diputados) Primer informe de comisión de Seguridad Ciudadana",
+"etapa": "Segundo trámite constitucional (C.Diputados) Discusión general",
 "ingreso": "2026-04-20",
 "iniciativa": "Mensaje",
 "leynro": "",
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
 "tituloSenado": "Modifica el Código Procesal Penal, para regular la continuidad del juicio oral y permitir la dictación de sentencia definitiva ante la incomparecencia injustificada del acusado",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -23253,14 +23512,44 @@
 "f": "2026-11-02",
 "s": "86 / 374",
 "t": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-09",
+"s": "",
+"t": "Primer informe de comisión de Seguridad Ciudadana"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-09",
+"s": "89 / 374",
+"t": "Cuenta de primer informe de comisión . Queda para tabla"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta, oficio N° 313-2026 de la Corte Suprema, mediante el cual remite opinión sobre el proyecto (informe N° 51-2026)"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "94 / 374",
+"t": "Cuenta del Mensaje 465-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-18",
+"s": "96 / 374",
+"t": "Cuenta, oficio de la Comisión de Constitución, Legislación, Justicia y Reglamento por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. (53/3/2026). RECHAZADO"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 437-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta, oficio de la Comisión de Constitución, Legislación, Justicia y Reglamento por el cual solicita recabar el acuerdo de la Sala para que le sea remitido el proyecto. (53/3/2026). RECHAZADO",
 "etapa": "Segundo trámite constitucional / C.Diputados",
-"iso": "2026-11-02"
+"iso": "2026-11-18"
 },
-"urgencia": "Suma"
+"urgencia": "Simple"
 },
 "18210-06": {
 "etapa": "Segundo trámite constitucional (Senado) Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía",
@@ -23272,7 +23561,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Concede la nacionalidad chilena por gracia al ciudadano uruguayo Pablo Lemoine",
 "tituloSenado": "Concede la nacionalidad chilena por gracia al ciudadano uruguayo Pablo Lemoine",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23334,7 +23623,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
 "tituloSenado": "Modifica el Código Penal, con el objeto de tipificar el delito de ocultamiento de identidad en el contexto de eventos masivos y desórdenes públicos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23479,12 +23768,24 @@
 "f": "2026-10-27",
 "s": "73 / 374",
 "t": "Cuenta del Mensaje 412-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 470-374 que hace presente la urgencia Discusión inmediata"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 412-374 que hace presente la urgencia Discusión inmediata",
+"descripcion": "Cuenta del Mensaje 470-374 que hace presente la urgencia Discusión inmediata",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-18"
 },
 "urgencia": "Discusión inmediata"
 },
@@ -23500,7 +23801,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Acuerdo de mutua exención del requisito de visa para los titulares de pasaportes diplomáticos, especiales y oficiales entre el Gobierno de la República de Chile y el Gobierno del Estado de Catar",
 "tituloSenado": "Acuerdo de mutua exención del requisito de visa para los titulares de pasaportes diplomáticos, especiales y oficiales entre el Gobierno de la República de Chile y el Gobierno del Estado de Catar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -23624,7 +23925,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Para la reconstrucción nacional y el desarrollo económico y social",
 "tituloSenado": "Para la reconstrucción nacional y el desarrollo económico y social",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -24325,7 +24626,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reajusta el monto del ingreso mínimo mensual, así como de la asignación familiar y maternal y del subsidio familiar",
 "tituloSenado": "Reajusta el monto del ingreso mínimo mensual, así como de la asignación familiar y maternal y del subsidio familiar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -24486,7 +24787,7 @@
 "urgencia": "Sin urgencia"
 },
 "18231-35": {
-"etapa": "Trámite de aprobacion presidencial (Senado) En espera de promulgación",
+"etapa": "Tramitación terminada Ley N° 21.846 (Diario Oficial del 05/11/2026)",
 "idCamara": "18882",
 "ingreso": "2026-05-04",
 "iniciativa": "Mensaje",
@@ -24497,7 +24798,7 @@
 "origen": "Senado",
 "titulo": "Establece el Día Nacional de la Teletón y el Día Nacional del Encuentro Familiar",
 "tituloSenado": "Establece el Día Nacional de la Teletón y el Día Nacional del Encuentro Familiar",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -24621,7 +24922,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.659, sobre seguridad privada, para aumentar el plazo de presentación y pronunciamiento sobre los estudios de seguridad que dispone, y extiende la prórroga de vigencia de la última autorización del personal de seguridad privada que indica",
 "tituloSenado": "Modifica la ley N° 21.659, sobre seguridad privada, para aumentar el plazo de presentación y pronunciamiento sobre los estudios de seguridad que dispone, y extiende la prórroga de vigencia de la última autorización del personal de seguridad privada que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -24881,7 +25182,7 @@
 "origen": "Senado",
 "titulo": "Establece sanciones en el caso de acusaciones, denuncias o querellas falsas y regula el procedimiento para su aplicación",
 "tituloSenado": "Establece sanciones en el caso de acusaciones, denuncias o querellas falsas y regula el procedimiento para su aplicación",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -25020,17 +25321,23 @@
 "f": "2026-10-27",
 "s": "73 / 374",
 "t": "Cuenta del Mensaje 412-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 412-374 que hace presente la urgencia Discusión inmediata",
+"descripcion": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata",
 "etapa": "Primer trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-10"
 },
 "urgencia": "Discusión inmediata"
 },
 "18255-31": {
-"etapa": "Segundo trámite constitucional (Senado) Primer informe de comisión de Familia, Infancia y Adolescencia.",
+"etapa": "Segundo trámite constitucional (Senado) Discusión general",
 "idCamara": "18918",
 "ingreso": "2026-05-18",
 "iniciativa": "Mensaje",
@@ -25042,7 +25349,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Establece un beneficio de compensación por la compra de pañales y de medicamentos",
 "tituloSenado": "Establece un beneficio de compensación por la compra de pañales y de medicamentos",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25187,12 +25494,30 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 395-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Primer informe de comisión de Familia, Infancia y Adolescencia"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Cuenta de primer informe de comisión"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 395-374 que hace presente la urgencia Suma",
+"descripcion": "Cuenta de primer informe de comisión",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-16"
 },
 "urgencia": "Suma"
 },
@@ -25208,7 +25533,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo entre la República de Chile y la República Helénica sobre el empleo remunerado de dependientes de miembros de una misión diplomática o representación consular, suscrito en Santiago, el 24 de abril de 2024",
 "tituloSenado": "Aprueba el Acuerdo entre la República de Chile y la República Helénica sobre el empleo remunerado de dependientes de miembros de una misión diplomática o representación consular, suscrito en Santiago, el 24 de abril de 2024",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25308,7 +25633,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo general sobre los privilegios e inmunidades de la Organización Internacional de Policía Criminal-INTERPOL, aprobado en Marrakech, Marruecos, el 24 de noviembre de 2025",
 "tituloSenado": "Aprueba el Acuerdo general sobre los privilegios e inmunidades de la Organización Internacional de Policía Criminal-INTERPOL, aprobado en Marrakech, Marruecos, el 24 de noviembre de 2025",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25417,7 +25742,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°18.415, orgánica constitucional de los estados de excepción, en materia de control de identidad y otros",
 "tituloSenado": "Modifica la ley N°18.415, orgánica constitucional de los estados de excepción, en materia de control de identidad y otros",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -25556,12 +25881,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -25852,7 +26183,7 @@
 "origen": "Senado",
 "titulo": "Aprueba el Acuerdo que modifica el Convenio entre la República de Chile y el Gobierno de la República de Hungría con el Objeto de Autorizar el Ejercicio de Actividades Remuneradas en el Estado Receptor por los Familiares Dependientes del Personal Diplomático, Consular, Administrativo y Técnico de las Misiones Diplomáticas y Consulares Acreditadas ante los respectivos Gobiernos, y por los Familiares Dependientes de Nacionales Chilenos o Húngaros Acreditados ante Organizaciones Internacionales con Sede en Cualquiera de los Dos Países, adoptado por intercambio de Notas, fechadas en Santiago y Budapest, el 15 de julio de 2024.",
 "tituloSenado": "Aprueba el Acuerdo que modifica el Convenio entre la República de Chile y el Gobierno de la República de Hungría con el Objeto de Autorizar el Ejercicio de Actividades Remuneradas en el Estado Receptor por los Familiares Dependientes del Personal Diplomático, Consular, Administrativo y Técnico de las Misiones Diplomáticas y Consulares Acreditadas ante los respectivos Gobiernos, y por los Familiares Dependientes de Nacionales Chilenos o Húngaros Acreditados ante Organizaciones Internacionales con Sede en Cualquiera de los Dos Países, adoptado por intercambio de Notas, fechadas en Santiago y Budapest, el 15 de julio de 2024.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -25956,7 +26287,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
 "tituloSenado": "Modifica el Código Penal para sancionar toda forma de instrumentalización de niños, niñas y adolescentes para cometer delitos",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26104,7 +26435,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Autoriza mayor endeudamiento del gobierno central durante el año 2026",
 "tituloSenado": "Autoriza mayor endeudamiento del gobierno central durante el año 2026",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26241,7 +26572,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de la República de Costa Rica, suscrito en Lima, Perú, el 13 de diciembre de 2023",
 "tituloSenado": "Aprueba el Convenio de Transporte Aéreo entre el Gobierno de la República de Chile y el Gobierno de la República de Costa Rica, suscrito en Lima, Perú, el 13 de diciembre de 2023",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26337,7 +26668,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 20.606, sobre composición nutricional de los alimentos y su publicidad, con el objeto de facilitar el acceso a alimentos libres de gluten en establecimientos de comercio y garantizar su inocuidad",
 "tituloSenado": "Modifica la ley N° 20.606, sobre composición nutricional de los alimentos y su publicidad, con el objeto de facilitar el acceso a alimentos libres de gluten en establecimientos de comercio y garantizar su inocuidad",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -26391,13 +26722,13 @@
 "e": "Primer trámite constitucional / Senado",
 "f": "2026-08-27",
 "s": "",
-"t": "Boletín de indicaciones"
+"t": "Oficio N°. I.F. 205-2026"
 },
 {
 "e": "Primer trámite constitucional / Senado",
 "f": "2026-08-27",
 "s": "",
-"t": "Oficio N°. I.F. 205-2026"
+"t": "Boletín de indicaciones"
 },
 {
 "e": "Primer trámite constitucional / Senado",
@@ -26422,12 +26753,18 @@
 "f": "2026-10-06",
 "s": "65 / 374",
 "t": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple"
+},
+{
+"e": "Primer trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 374-374 que retira y hace presente la urgencia Simple",
+"descripcion": "Cuenta del Mensaje 456-374 que hace presente la urgencia Simple",
 "etapa": "Primer trámite constitucional / Senado",
-"iso": "2026-10-06"
+"iso": "2026-11-10"
 },
 "urgencia": "Simple"
 },
@@ -26445,7 +26782,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
 "tituloSenado": "Reforma la Constitución Política en materia de detención para la ejecución de expulsiones administrativas",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -26578,12 +26915,18 @@
 "f": "2026-11-10",
 "s": "76 / 374",
 "t": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Insistencia / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "Cuenta del Mensaje 470-374 que hace presente la urgencia Discusión inmediata"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 452-374 que hace presente la urgencia Discusión inmediata",
+"descripcion": "Cuenta del Mensaje 470-374 que hace presente la urgencia Discusión inmediata",
 "etapa": "Insistencia / Senado",
-"iso": "2026-11-10"
+"iso": "2026-11-18"
 },
 "urgencia": "Discusión inmediata"
 },
@@ -26595,7 +26938,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria",
 "tituloSenado": "Aprueba la \"Enmienda del Artículo VI del Estatuto del Organismo Internacional de Energía Atómica\", aprobada por la Conferencia General del Organismo, celebrada el 1 de octubre de 1999 en Viena, Austria",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -26647,6 +26990,12 @@
 },
 {
 "e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-03",
+"s": "",
+"t": "Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
 "f": "2026-11-04",
 "s": "88 / 374",
 "t": "Cuenta de primer informe de comisión"
@@ -26660,7 +27009,7 @@
 "urgencia": "Sin urgencia"
 },
 "18337-12": {
-"etapa": "Trámite de aprobacion presidencial (Senado) En espera de promulgación",
+"etapa": "Tramitación terminada Ley N° 21.847 (Diario Oficial del 09/11/2026)",
 "idCamara": "19017",
 "ingreso": "2026-06-10",
 "iniciativa": "Moción",
@@ -26669,7 +27018,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.368, con el objeto de prorrogar la entrada en vigencia de su reglamento y flexibilizar la aplicación de las disposiciones que indica",
 "tituloSenado": "Modifica la ley N° 21.368, con el objeto de prorrogar la entrada en vigencia de su reglamento y flexibilizar la aplicación de las disposiciones que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -26842,7 +27191,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Ley de protección tarifaria eléctrica",
 "tituloSenado": "Ley de protección tarifaria eléctrica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27003,7 +27352,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
 "tituloSenado": "Faculta a los establecimientos educacionales a implementar un mecanismo de elección mutua en el proceso de admisión escolar",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27173,7 +27522,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Declara feriado regional el 10 de agosto de los años 2026 y 2027 en reemplazo de los feriados que indica",
 "tituloSenado": "Declara feriado regional el 10 de agosto de los años 2026 y 2027 en reemplazo de los feriados que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27257,7 +27606,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Entrega un bono extraordinario de apoyo a la niñez",
 "tituloSenado": "Entrega un bono extraordinario de apoyo a la niñez",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27467,7 +27816,7 @@
 "origen": "Senado",
 "titulo": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
 "tituloSenado": "Modifica diversos cuerpos legales, con el objeto de fortalecer la seguridad portuaria ante acciones promovidas por el crimen organizado",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -27562,7 +27911,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Tratado entre la República de Chile y la República Federativa de Brasil sobre Asistencia Jurídica Mutua en Materia Penal, hecho en Brasilia, el 22 de abril de 2025",
 "tituloSenado": "Aprueba el Tratado entre la República de Chile y la República Federativa de Brasil sobre Asistencia Jurídica Mutua en Materia Penal, hecho en Brasilia, el 22 de abril de 2025",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27644,7 +27993,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.805, que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados, y otros cuerpos normativos que indica",
 "tituloSenado": "Modifica la ley N° 21.805, que reconoce el derecho al cuidado y crea el Sistema Nacional de Apoyos y Cuidados, y otros cuerpos normativos que indica",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -27943,7 +28292,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia",
 "tituloSenado": "Modifica el decreto ley N° 2.695, de 1979, estableciendo un nuevo procedimiento para la regularización de la posesión de la pequeña propiedad raíz y la constitución del dominio sobre ella, en situaciones de emergencia",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28076,12 +28425,18 @@
 "f": "2026-10-20",
 "s": "70 / 374",
 "t": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 394-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-20"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
@@ -28095,7 +28450,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N°18.290, de Tránsito, para ampliar los supuestos de procedencia de la suspensión provisoria de la licencia de conducir",
 "tituloSenado": "Modifica la ley N°18.290, de Tránsito, para ampliar los supuestos de procedencia de la suspensión provisoria de la licencia de conducir",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28172,7 +28527,7 @@
 "urgencia": "Suma"
 },
 "18522-10": {
-"etapa": "Segundo trámite constitucional (Senado) Cuenta de primer informe de comisión",
+"etapa": "Segundo trámite constitucional (Senado) Discusión general",
 "idCamara": "19203",
 "ingreso": "2026-08-03",
 "iniciativa": "Mensaje",
@@ -28184,7 +28539,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Aprueba el Acuerdo de servicios aéreos entre el Gobierno de la República de Chile y el Gobierno del Sultanato de Omán, suscrito en Kuala Lumpur, Malasia, el 24 de octubre de 2024",
 "tituloSenado": "Aprueba el Acuerdo de servicios aéreos entre el Gobierno de la República de Chile y el Gobierno del Sultanato de Omán, suscrito en Kuala Lumpur, Malasia, el 24 de octubre de 2024",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28239,12 +28594,18 @@
 "f": "2026-10-29",
 "s": "",
 "t": "Primer informe de comisión de Relaciones Exteriores"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta de primer informe de comisión"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Primer informe de comisión de Relaciones Exteriores",
+"descripcion": "Cuenta de primer informe de comisión",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-29"
+"iso": "2026-11-10"
 },
 "urgencia": "Sin urgencia"
 },
@@ -28260,7 +28621,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
 "tituloSenado": "Extiende vigencia y aumenta cobertura de la ley N° 21.748 y modifica normas que indica",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28372,7 +28733,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
 "tituloSenado": "Modifica la ley N° 21.802, que fortalece la institucionalidad municipal en materia de seguridad pública y prevención del delito",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28623,7 +28984,7 @@
 "urgencia": "Discusión inmediata"
 },
 "18532-06": {
-"etapa": "Segundo trámite constitucional (Senado) Discusión general",
+"etapa": "Trámite finalización en Cámara de Origen (C.Diputados) Oficio de ley al Ejecutivo",
 "idCamara": "19223",
 "ingreso": "2026-07-29",
 "iniciativa": "Moción",
@@ -28632,7 +28993,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
 "tituloSenado": "Rehabilita la nacionalidad chilena a Adolfo José Ochagavía Hubner",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -28687,12 +29048,36 @@
 "f": "2026-10-21",
 "s": "71 / 374",
 "t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "79 / 374",
+"t": "Discusión general . Aprobado en general y particular sin modificaciones"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-11",
+"s": "",
+"t": "Oficio aprobación sin modificaciones a Cámara de Origen"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta oficio aprobación sin modificaciones de C. Revisora"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-12",
+"s": "",
+"t": "Oficio de ley al Ejecutivo"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta de primer informe de comisión",
-"etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-21"
+"descripcion": "Oficio de ley al Ejecutivo",
+"etapa": "Trámite finalización en Cámara de Origen / C.Diputados",
+"iso": "2026-11-12"
 },
 "urgencia": "Sin urgencia"
 },
@@ -28709,7 +29094,7 @@
 "origen": "Senado",
 "titulo": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
 "tituloSenado": "Modifica la ley N° 21.040, que crea el sistema de educación pública, con la finalidad de ajustar la segunda etapa de instalación y el traspaso de los servicios locales de educación",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -28936,7 +29321,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
 "tituloSenado": "Modifica el Código Penal para ampliar el ámbito de aplicación del delito de interrupción u obstaculización de la libre circulación y del funcionamiento de los servicios de transporte",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29039,17 +29424,23 @@
 "f": "2026-10-27",
 "s": "73 / 374",
 "t": "Cuenta del Mensaje 416-374 que retira y hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 455-374 que retira y hace presente la urgencia Suma"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 416-374 que retira y hace presente la urgencia Suma",
+"descripcion": "Cuenta del Mensaje 455-374 que retira y hace presente la urgencia Suma",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
 "18585-25": {
-"etapa": "Segundo trámite constitucional (Senado) Discusión general",
+"etapa": "Segundo trámite constitucional (Senado) Boletín de indicaciones",
 "idCamara": "19268",
 "ingreso": "2026-08-17",
 "iniciativa": "Mensaje",
@@ -29061,7 +29452,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
 "tituloSenado": "Modifica el Código Procesal Penal y la ley N°19.970, que crea el sistema nacional de registros de ADN, para agilizar las investigaciones penales",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29164,24 +29555,42 @@
 "f": "2026-10-27",
 "s": "72 / 374",
 "t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "76 / 374",
+"t": "Cuenta del Mensaje 454-374 que hace presente la urgencia Suma"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-10",
+"s": "77 / 374",
+"t": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/11/2026 a las 12:00"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta de primer informe de comisión",
+"descripcion": "Discusión general . Aprobado en general Se fija como plazo para presentar indicaciones el 26/11/2026 a las 12:00",
 "etapa": "Segundo trámite constitucional / Senado",
-"iso": "2026-10-27"
+"iso": "2026-11-10"
 },
 "urgencia": "Suma"
 },
 "18623-07": {
-"etapa": "Segundo trámite constitucional (C.Diputados) Discusión general",
+"etapa": "Trámite de aprobacion presidencial (Senado) En espera de promulgación",
+"idCamara": "19307",
 "ingreso": "2026-09-01",
 "iniciativa": "Mensaje",
 "leynro": "",
-"origen": "Cámara de Diputados",
+"ministerios": [
+"Ministerio de Economía, Fomento y Turism",
+"Ministerio de Hacienda",
+"Ministerio Secretaría General de la Presidencia"
+],
+"origen": "Senado",
 "titulo": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
 "tituloSenado": "Modifica la ley N° 21.719, que regula la protección y el tratamiento de los datos personales y crea la Agencia de Protección de Datos Personales, en el sentido que indica",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29296,12 +29705,48 @@
 "f": "2026-11-11",
 "s": "92 / 374",
 "t": "Cuenta del Mensaje 459-374 que retira y hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Primer informe de comisión de Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-17",
+"s": "95 / 374",
+"t": "Discusión general . Aprobado en general y particular sin modificaciones"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-17",
+"s": "95 / 374",
+"t": "Cuenta de primer informe de comisión . (Hacienda). Queda para tabla"
+},
+{
+"e": "Segundo trámite constitucional / C.Diputados",
+"f": "2026-11-17",
+"s": "",
+"t": "Oficio aprobación sin modificaciones a Cámara de Origen"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / Senado",
+"f": "2026-11-17",
+"s": "82 / 374",
+"t": "Cuenta oficio aprobación sin modificaciones de C. Revisora"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / Senado",
+"f": "2026-11-17",
+"s": "",
+"t": "Oficio de ley al Ejecutivo"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta del Mensaje 459-374 que retira y hace presente la urgencia Discusión inmediata",
-"etapa": "Segundo trámite constitucional / C.Diputados",
-"iso": "2026-11-11"
+"descripcion": "Oficio de ley al Ejecutivo",
+"etapa": "Trámite finalización en Cámara de Origen / Senado",
+"iso": "2026-11-17"
 },
 "urgencia": "Discusión inmediata"
 },
@@ -29466,7 +29911,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
 "tituloSenado": "Modifica la Ley General de Urbanismo y Construcciones, con el objeto facilitar el emplazamiento y construcción de edificaciones destinadas a los fines propios de Bomberos de Chile, y establece un nuevo período para la regularización de edificaciones preexistentes",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29596,7 +30041,7 @@
 "origen": "Senado",
 "titulo": "Extiende la vigencia de los bonos establecidos en la ley N° 21.811, concede bono a pescadores artesanales y modifica el plazo para realizar aportes al Fondo de Garantías para Pequeños Empresarios (FOGAPE)",
 "tituloSenado": "Extiende la vigencia de los bonos establecidos en la ley N° 21.811, concede bono a pescadores artesanales y modifica el plazo para realizar aportes al Fondo de Garantías para Pequeños Empresarios (FOGAPE)",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -29703,7 +30148,7 @@
 "urgencia": "Discusión inmediata"
 },
 "18702-05": {
-"etapa": "Primer trámite constitucional (C.Diputados) Discusión general",
+"etapa": "Segundo trámite constitucional (Senado) Discusión única",
 "idCamara": "19391",
 "ingreso": "2026-09-30",
 "iniciativa": "Mensaje",
@@ -29714,7 +30159,7 @@
 "origen": "Cámara de Diputados",
 "titulo": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
 "tituloSenado": "Ley de Presupuestos para el Sector Público correspondiente al año 2027",
-"tramVisto": "2026-11-12",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / C.Diputados",
@@ -29937,12 +30382,90 @@
 "f": "2026-11-09",
 "s": "89 / 374",
 "t": "Cuenta informe Comisión Mixta"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-15",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Cuenta de proyecto . Queda para tabla"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-17",
+"s": "82 / 374",
+"t": "El Ejecutivo hace reserva de constitucionalidad de la ind 304"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-17",
+"s": "82 / 374",
+"t": "La Honorable Senadora señora Pascual hizo reserva de constitucionalidad respecto de la indicación 664"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-17",
+"s": "82 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad respecto de la ind 1089"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-17",
+"s": "82 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad respecto de la ind 13"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad respecto de las indicaciones Nos 7, 18"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad respecto del rechazo de la ind 253"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad por el rechazo de la ind 39"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-18",
+"s": "84 / 374",
+"t": "La Honorable Senadora señora Kaiser hizo reserva de constitucionalidad respecto de las indicaciones 169 y 170"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-19",
+"s": "85 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad de la ind 1134"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-19",
+"s": "86 / 374",
+"t": "El Ejecutivo hizo reserva de constitucionalidad de las ind 1141 y 115"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-20",
+"s": "86 / 374",
+"t": "La Honorable Senadora señora Cicardini hizo reserva de constitucionalidad de la ind N° 1150"
 }
 ],
 "ultimoTramite": {
-"descripcion": "Cuenta informe Comisión Mixta",
-"etapa": "Discusión Ley de Presupuesto en Cámara de Origen / C.Diputados",
-"iso": "2026-11-09"
+"descripcion": "La Honorable Senadora señora Cicardini hizo reserva de constitucionalidad de la ind N° 1150",
+"etapa": "Segundo trámite constitucional / Senado",
+"iso": "2026-11-20"
 },
 "urgencia": "Sin urgencia"
 },
@@ -30064,6 +30587,125 @@
 },
 "urgencia": "Discusión inmediata"
 },
+"18885-05": {
+"etapa": "Tramitación terminada Ley N° 21.857 (Diario Oficial del 17/11/2026)",
+"idCamara": "19564",
+"ingreso": "2026-11-12",
+"iniciativa": "Mensaje",
+"leynro": "",
+"ministerios": [
+"Ministerio de Hacienda",
+"Ministerio de Energía"
+],
+"origen": "Cámara de Diputados",
+"titulo": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga",
+"tituloSenado": "Establece medidas para contener las alzas de los precios de la gasolina automotriz y el petróleo diesel, y aliviar la carga financiera de las empresas de transporte de carga",
+"tramVisto": "2026-11-20",
+"tramites": [
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "",
+"t": "Ingreso de proyecto . Incluye I.F. N° 270/12.11.2026"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "",
+"t": "Texto del Mensaje"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Hacienda"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-12",
+"s": "93 / 374",
+"t": "Cuenta del Mensaje 462-374 que hace presente la urgencia Discusión inmediata"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Indicación sustitutiva N° 443-374"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Primer informe de comisión de Hacienda"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "94 / 374",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "94 / 374",
+"t": "Discusión general . Aprobado en general y particular a la vez"
+},
+{
+"e": "Primer trámite constitucional / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Oficio de ley a Cámara Revisora"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Cuenta de proyecto . Pasa a Comisión de Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "",
+"t": "Primer informe de comisión de Hacienda"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Cuenta de primer informe de comisión"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "80 / 374",
+"t": "Discusión general . Aprobado en general y particular sin modificaciones"
+},
+{
+"e": "Segundo trámite constitucional / Senado",
+"f": "2026-11-16",
+"s": "",
+"t": "Oficio aprobación sin modificaciones a Cámara de Origen"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-16",
+"s": "",
+"t": "Oficio de ley al Ejecutivo"
+},
+{
+"e": "Trámite finalización en Cámara de Origen / C.Diputados",
+"f": "2026-11-17",
+"s": "95 / 374",
+"t": "Cuenta oficio aprobación sin modificaciones de C. Revisora"
+}
+],
+"ultimoTramite": {
+"descripcion": "Cuenta oficio aprobación sin modificaciones de C. Revisora",
+"etapa": "Trámite finalización en Cámara de Origen / C.Diputados",
+"iso": "2026-11-17"
+},
+"urgencia": "Discusión inmediata"
+},
 "2703-12": {
 "etapa": "Archivado",
 "ingreso": "2001-05-09",
@@ -30072,7 +30714,7 @@
 "origen": "Senado",
 "titulo": "Proyecto de Ley que modifica la Ley Nº 19.300, sobre Bases de Medio Ambiente, para hacer obligatoria la evaluación impacto ambiental de actividades o proyectos en que se liberen organismos genéticamente modificados o transgénicos al medio ambiente y protege áreas de producción limpia, orgánica y natural.",
 "tituloSenado": "Proyecto de Ley que modifica la Ley Nº 19.300, sobre Bases de Medio Ambiente, para hacer obligatoria la evaluación impacto ambiental de actividades o proyectos en que se liberen organismos genéticamente modificados o transgénicos al medio ambiente y protege áreas de producción limpia, orgánica y natural.",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -30149,7 +30791,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2707-12": {
@@ -30159,7 +30801,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2710-05": {
@@ -30169,7 +30811,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2714-05": {
@@ -30179,7 +30821,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2715-14": {
@@ -30189,7 +30831,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2718-09": {
@@ -30199,7 +30841,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2719-12": {
@@ -30209,7 +30851,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2721-05": {
@@ -30219,7 +30861,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2722-05": {
@@ -30230,7 +30872,7 @@
 "origen": "Senado",
 "titulo": "Flexibiliza las inversiones de los fondos mutuos y compañías de seguros, crea Administradora General de Fondos, facilita la internacionalización de la banca, y perfecciona leyes de sociedades anónimas y de fondos de inversión",
 "tituloSenado": "Flexibiliza las inversiones de los fondos mutuos y compañías de seguros, crea Administradora General de Fondos, facilita la internacionalización de la banca, y perfecciona leyes de sociedades anónimas y de fondos de inversión",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "tramites": [
 {
 "e": "Primer trámite constitucional / Senado",
@@ -30385,7 +31027,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2728-14": {
@@ -30395,7 +31037,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2730-12": {
@@ -30405,7 +31047,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2734-14": {
@@ -30415,7 +31057,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2738-01": {
@@ -30425,7 +31067,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2760-05": {
@@ -30435,7 +31077,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2761-05": {
@@ -30445,7 +31087,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2762-05": {
@@ -30455,7 +31097,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "2763-05": {
@@ -30465,7 +31107,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2.716-05": {
@@ -30475,7 +31117,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2.720-14": {
@@ -30485,7 +31127,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2729-12": {
@@ -30495,7 +31137,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2735-13": {
@@ -30505,7 +31147,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2736-12": {
@@ -30515,7 +31157,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2741-14": {
@@ -30525,7 +31167,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2742-14": {
@@ -30535,7 +31177,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2745-05": {
@@ -30545,7 +31187,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2748-14": {
@@ -30555,7 +31197,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2750-05": {
@@ -30565,7 +31207,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2754-05": {
@@ -30575,7 +31217,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2755-14": {
@@ -30585,7 +31227,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2756-05": {
@@ -30595,7 +31237,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2757-14": {
@@ -30605,7 +31247,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2758-05": {
@@ -30625,7 +31267,7 @@
 "origen": "",
 "titulo": "No se ha encontrado ningun proyecto que cumpla con el criterio",
 "tituloSenado": "No se ha encontrado ningun proyecto que cumpla con el criterio",
-"tramVisto": "2026-11-05",
+"tramVisto": "2026-11-20",
 "urgencia": ""
 },
 "S 2764-05": {
